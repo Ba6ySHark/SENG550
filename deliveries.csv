@@ -1,0 +1,17 @@
+order_id,delivery_date,status
+1,2025-01-17,Delivered
+2,2025-02-12,Delivered
+3,2025-03-08,Pending
+4,2025-03-22,Shipped
+5,2025-04-04,Delivered
+6,2025-04-07,Delivered
+7,2025-04-12,Shipped
+8,2025-04-22,Delivered
+9,2025-04-27,Pending
+10,2025-05-01,Delivered
+11,2025-05-04,Delivered
+12,2025-05-07,Shipped
+13,2025-05-12,Pending
+14,2025-05-15,Delivered
+15,2025-05-18,Shipped
+
