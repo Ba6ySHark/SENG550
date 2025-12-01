@@ -79,3 +79,14 @@ docker compose exec spark python3 /workspace/processing/full/process_orders.py
 Using Redis does not lead to data inconsistency in this case, since we are only storing the number of the last processed day. Therefore, in the case Redis data is lost we would simply re-process all of the days. This may lead to worse efficiency, but not to data inconsistency.
 
 ## Part 3
+
+To run `inference.py`:
+```bash
+docker compose exec spark python3 /workspace/processing/ml/inference.py --day 0 --hour 12 --category "refrigerated"
+# Output: Predicted items count: 31.66
+```
+
+To train the model:
+```bash
+docker compose exec spark python3 /workspace/processing/ml/train.py
+```
