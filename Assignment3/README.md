@@ -1,35 +1,79 @@
-## Installing Apache Spark, Airflow and Redis using Docker
+## Dependencies
 
-For Apache Spark:
+To install dependencies run:
 ```bash
-docker run -d --name spark \
-  -p 4040:4040 \
-  -v "$PWD":/workspace \
-  apache/spark:4.1.0-preview4-scala2.13-java21-python3-r-ubuntu \
-  sleep infinity
+virtualenv venv
 ```
 
-This runs the container in detached mode (`-d`) and keeps it running with `sleep infinity`. To run commands inside the container:
 ```bash
-docker exec -it spark bash
+source venv/bin/activate
 ```
 
-Or to run the processing script directly:
 ```bash
-docker exec -it spark python3 /workspace/processing/full/process_orders.py
+pip3 install -r requirements.txt
 ```
 
-For Apache Airflow:
+## Part 0
+
+It is possible to start all of the needed services by running:
 ```bash
-cd airflow
-export AIRFLOW_UID=50000
-docker compose up airflow-init
-```
-```bash
-docker compose up
+docker compose up -d
 ```
 
-For Redis:
+**After running the docker compose:**
+- Redis is installed in the Spark container
+- Airflow admin password is set to `admin`
+
+**Note:** Airflow UI can be accessed at http://localhost:8080
+**Note:** The incremental processing DAG runs automatically every 4 seconds. It will process any new data in `data/incremental/raw/` folders.
+
+## Part 1
+
+To run full processing:
 ```bash
-docker run -d --name redis -p 6379:6379 redis
+docker compose exec spark python3 /workspace/processing/full/process_orders.py
 ```
+
+## Part 2
+
+### Overview
+1. The Airflow DAG `incremental_orders_processing` runs every 4 seconds automatically.
+
+2. Monitor the processing:
+   - Airflow UI: http://localhost:8080
+   - Check processed output: `data/incremental/processed/orders.csv`
+   - Check Redis status via: `docker exec -it redis redis-cli GET last_processed_day`
+
+### Redis Tracking Logic
+
+1. **Last Processed Day Storage**: 
+   - Redis key: `last_processed_day`
+   - Value: Integer representing the highest day number that has been processed
+   - Example: If days 0, 1, 2, 3 are processed, Redis stores `3`
+
+2. **Unprocessed Days Detection**:
+   - On each run, the script scans `data/incremental/raw/` for numeric folder names (0, 1, 2, etc.)
+   - For each folder, it checks if CSV files exist
+   - Compares available days with `last_processed_day` from Redis
+   - Processes only days where `day > last_processed_day`
+
+3. **Processing**:
+   ```
+   Start → Check Redis (last_processed_day) → Scan folders → Find unprocessed days → 
+   Process new days → Update Redis → Append to output CSV
+   ```
+
+4. **If Multiple Unprocessed Days**:
+   - If multiple new folders are created, they are all processed together in a single run
+   - Example: If folders 3, 4, 5 are added, all three are processed in one run
+   - Redis is updated to the maximum processed day
+
+5. **If Redis Is Empty**:
+   - If Redis is empty, `last_processed_day` returns -1
+   - This causes all available days to be processed
+   - System reprocesses everything from scratch
+
+### Redis Impact
+Using Redis does not lead to data inconsistency in this case, since we are only storing the number of the last processed day. Therefore, in the case Redis data is lost we would simply re-process all of the days. This may lead to worse efficiency, but not to data inconsistency.
+
+## Part 3
