@@ -4,6 +4,7 @@ import os
 import sys
 from typing import List, Dict, Any
 from dotenv import load_dotenv
+from csv_loader import load_all_csv_data
 
 
 class DatabaseLoader:
@@ -35,125 +36,6 @@ class DatabaseLoader:
             self.connection.close()
             print("Database disconnected")
     
-    def read_csv_file(self, filename):
-        data = []
-        try:
-            with open(filename, 'r', newline='', encoding='utf-8') as csvfile:
-                reader = csv.DictReader(csvfile)
-                for row in reader:
-                    # filters out empty rows
-                    if any(row.values()):
-                        data.append(row)
-            print(f"Read {len(data)} rows from {filename}")
-            return data
-        except FileNotFoundError:
-            print(f"Error: {filename} not found.")
-            return []
-        except Exception as e:
-            print(f"Error with {filename}: {e}")
-            return []
-    
-    def load_customers(self, csv_file):
-        print(f"\nLoading customers from {csv_file}...")
-        customers_data = self.read_csv_file(csv_file)
-        
-        if not customers_data:
-            print("No customer data to load.")
-            return
-        
-        cursor = self.connection.cursor()
-        
-        try:
-            for row in customers_data:
-                cursor.execute("""
-                    INSERT INTO customers (name, email, phone, address)
-                    VALUES (%s, %s, %s, %s)
-                    ON CONFLICT (email) DO UPDATE SET
-                        name = EXCLUDED.name,
-                        phone = EXCLUDED.phone,
-                        address = EXCLUDED.address;
-                """, (
-                    row['name'],
-                    row['email'],
-                    row['phone'],
-                    row['address']
-                ))
-            
-            self.connection.commit()
-            print(f"Successfully loaded {len(customers_data)} customers.")
-            
-        except psycopg2.Error as e:
-            print(f"Error: {e}")
-            self.connection.rollback()
-            raise
-        finally:
-            cursor.close()
-    
-    def load_orders(self, csv_file):
-        print(f"\nLoading orders from {csv_file}...")
-        orders_data = self.read_csv_file(csv_file)
-        
-        if not orders_data:
-            print("No orders to load.")
-            return
-        
-        cursor = self.connection.cursor()
-        
-        try:
-            for row in orders_data:
-                cursor.execute("""
-                    INSERT INTO orders (customer_id, order_date, total_amount, 
-                                      product_id, product_category, product_name)
-                    VALUES (%s, %s, %s, %s, %s, %s);
-                """, (
-                    int(row['customer_id']),
-                    row['order_date'],
-                    float(row['total_amount']),
-                    int(row['product_id']),
-                    row['product_category'],
-                    row['product_name']
-                ))
-            
-            self.connection.commit()
-            print(f"Successfully loaded {len(orders_data)} orders.")
-            
-        except psycopg2.Error as e:
-            print(f"Error: {e}")
-            self.connection.rollback()
-            raise
-        finally:
-            cursor.close()
-    
-    def load_deliveries(self, csv_file):
-        print(f"\nLoading deliveries from {csv_file}...")
-        deliveries_data = self.read_csv_file(csv_file)
-        
-        if not deliveries_data:
-            print("No deliveries to load.")
-            return
-        
-        cursor = self.connection.cursor()
-        
-        try:
-            for row in deliveries_data:
-                cursor.execute("""
-                    INSERT INTO deliveries (order_id, delivery_date, status)
-                    VALUES (%s, %s, %s);
-                """, (
-                    int(row['order_id']),
-                    row['delivery_date'],
-                    row['status']
-                ))
-            
-            self.connection.commit()
-            print(f"Successfully loaded {len(deliveries_data)} deliveries.")
-            
-        except psycopg2.Error as e:
-            print(f"Error: {e}")
-            self.connection.rollback()
-            raise
-        finally:
-            cursor.close()
     
     def add_customer(self, name, email, phone, address):
         if not self.connection:
@@ -305,11 +187,14 @@ if __name__ == "__main__":
                 print("Failed to connect to database. Aborting.")
                 sys.exit(1)
             
-            loader.load_customers("customers.csv")
-            loader.load_orders("orders.csv")
-            loader.load_deliveries("deliveries.csv")
+            # Use the simplified CSV loading function
+            success = load_all_csv_data(loader.connection)
             
-            print("\nData loaded successfully")
+            if success:
+                print("\nData loaded successfully")
+            else:
+                print("\nSome data failed to load")
+                sys.exit(1)
             
         except Exception as e:
             print(f"Error: {e}")

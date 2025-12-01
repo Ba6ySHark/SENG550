@@ -2689,3 +2689,12 @@ File Path                                    PID    Runtime      # DAGs    # Err
 /opt/airflow/dags/incremental_orders_dag.py                           1           0  0.11s           2025-12-01T09:34:34
 /opt/airflow/dags/ml_training_dag.py                                  1           0  0.11s           2025-12-01T09:35:03
 ================================================================================
+[2025-12-01T09:35:33.715+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ml_training_dag.py                                  1           0  0.11s           2025-12-01T09:35:33
+/opt/airflow/dags/incremental_orders_dag.py                           1           0  0.11s           2025-12-01T09:35:04
+================================================================================

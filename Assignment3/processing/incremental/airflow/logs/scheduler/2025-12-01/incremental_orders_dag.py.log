@@ -2254,3 +2254,10 @@
 [2025-12-01T09:35:04.518+0000] {logging_mixin.py:188} INFO - [2025-12-01T09:35:04.518+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2025-12-01T09:35:04.524+0000] {logging_mixin.py:188} INFO - [2025-12-01T09:35:04.524+0000] {dag.py:3954} INFO - Setting next_dagrun for incremental_orders_processing to 2025-12-01 09:35:00+00:00, run_after=2025-12-01 09:35:04+00:00
 [2025-12-01T09:35:04.531+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/incremental_orders_dag.py took 0.040 seconds
+[2025-12-01T09:35:34.766+0000] {processor.py:161} INFO - Started process (PID=214) to work on /opt/airflow/dags/incremental_orders_dag.py
+[2025-12-01T09:35:34.767+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/incremental_orders_dag.py for tasks to queue
+[2025-12-01T09:35:34.768+0000] {logging_mixin.py:188} INFO - [2025-12-01T09:35:34.768+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/incremental_orders_dag.py
+[2025-12-01T09:35:34.775+0000] {processor.py:840} INFO - DAG(s) 'incremental_orders_processing' retrieved from /opt/airflow/dags/incremental_orders_dag.py
+[2025-12-01T09:35:34.787+0000] {logging_mixin.py:188} INFO - [2025-12-01T09:35:34.787+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-12-01T09:35:34.796+0000] {logging_mixin.py:188} INFO - [2025-12-01T09:35:34.796+0000] {dag.py:3954} INFO - Setting next_dagrun for incremental_orders_processing to 2025-12-01 09:35:28+00:00, run_after=2025-12-01 09:35:32+00:00
+[2025-12-01T09:35:34.809+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/incremental_orders_dag.py took 0.048 seconds
