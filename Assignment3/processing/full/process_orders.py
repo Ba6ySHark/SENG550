@@ -25,11 +25,8 @@ class OrderProcessor:
 
     def _validate_environment(self):
         if not os.path.exists("/workspace") or not os.path.exists("/workspace/data/raw"):
-            print("Error: This script must be run inside the Spark Docker container.")
-            print("\nPlease run the script inside the Docker container:")
+            print("Please run the script inside the Docker container:")
             print("  docker exec -it spark python3 /workspace/processing/full/process_orders.py")
-            print("\nOr if the container is not running, start it first:")
-            print('  docker run -d --name spark -p 4040:4040 -v "$PWD":/workspace apache/spark:4.1.0-preview4-scala2.13-java21-python3-r-ubuntu sleep infinity')
             sys.exit(1)
 
     def _create_spark_session(self):
