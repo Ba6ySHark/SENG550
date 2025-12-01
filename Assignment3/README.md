@@ -34,6 +34,8 @@ To run full processing:
 docker compose exec spark python3 /workspace/processing/full/process_orders.py
 ```
 
+**Note:** `split_orders.py` was used to slice the original orders.csv into raw data
+
 ## Part 2
 
 ### Overview
