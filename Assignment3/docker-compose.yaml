@@ -1,0 +1,66 @@
+services:
+  spark:
+    image: apache/spark:4.1.0-preview4-scala2.13-java21-python3-r-ubuntu
+    container_name: spark
+    user: root
+    ports:
+      - "4040:4040"
+    volumes:
+      - .:/workspace
+    command: >
+      bash -c "
+        /workspace/scripts/init-spark.sh &&
+        sleep infinity
+      "
+    networks:
+      - data-pipeline-network
+    healthcheck:
+      test: ["CMD", "python3", "-c", "import sys; sys.exit(0)"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:latest
+    container_name: redis
+    ports:
+      - "6379:6379"
+    networks:
+      - data-pipeline-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    command: redis-server --appendonly yes
+
+  airflow:
+    image: apache/airflow:2.9.0
+    container_name: airflow
+    entrypoint: ["/bin/bash", "/workspace/scripts/airflow-entrypoint.sh"]
+    ports:
+      - "8080:8080"
+    environment:
+      - AIRFLOW_UID=50000
+      - AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION=true
+      - AIRFLOW__CORE__LOAD_EXAMPLES=false
+    volumes:
+      - ./processing/incremental/airflow/dags:/opt/airflow/dags
+      - ./processing/incremental/airflow/logs:/opt/airflow/logs
+      - ./processing/incremental/airflow/plugins:/opt/airflow/plugins
+      - .:/workspace
+      - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - data-pipeline-network
+    depends_on:
+      redis:
+        condition: service_healthy
+      spark:
+        condition: service_healthy
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+networks:
+  data-pipeline-network:
+    driver: bridge
+
