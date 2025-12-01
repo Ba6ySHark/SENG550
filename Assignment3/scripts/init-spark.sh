@@ -1,19 +1,24 @@
 #!/bin/bash
 
-echo "Installing redis in Spark container..."
-if python3 -c "import redis" 2>/dev/null; then
-    echo "Redis already installed"
-else
-    pip install --quiet redis || {
-        echo "Warning: Failed to install redis, continuing anyway..."
-    }
-fi
+echo "Installing required Python packages in Spark container..."
 
-echo "Verifying redis installation..."
-if python3 -c "import redis; print('Redis installed successfully')" 2>/dev/null; then
-    echo "Redis is ready"
+packages=("redis" "numpy")
+for package in "${packages[@]}"; do
+    if python3 -c "import ${package}" 2>/dev/null; then
+        echo "${package} already installed"
+    else
+        echo "Installing ${package}..."
+        pip install --quiet ${package} || {
+            echo "Warning: Failed to install ${package}, continuing anyway..."
+        }
+    fi
+done
+
+echo "Verifying installations..."
+if python3 -c "import redis; import numpy; print('All packages installed successfully')" 2>/dev/null; then
+    echo "All packages are ready"
 else
-    echo "Warning: Redis module not available, but continuing..."
+    echo "Warning: Some packages may not be available, but continuing..."
 fi
 
 echo "Spark initialization complete!"

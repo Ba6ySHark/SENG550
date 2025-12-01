@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1764581075549,"sparkVersion":"4.1.0-preview4","uid":"VectorAssembler_297904179ddc","paramMap":{"inputCols":["day_of_week","hour_of_day","category_index"],"outputCol":"features"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_297904179ddc__output"}}

@@ -45,9 +45,10 @@ services:
       - AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION=true
       - AIRFLOW__CORE__LOAD_EXAMPLES=false
     volumes:
-      - ./processing/incremental/airflow/dags:/opt/airflow/dags
+      - ./processing/incremental/airflow/dags:/opt/airflow/dags/incremental
       - ./processing/incremental/airflow/logs:/opt/airflow/logs
       - ./processing/incremental/airflow/plugins:/opt/airflow/plugins
+      - ./processing/ml/airflow/dags:/opt/airflow/dags/ml
       - .:/workspace
       - /var/run/docker.sock:/var/run/docker.sock
     networks:
