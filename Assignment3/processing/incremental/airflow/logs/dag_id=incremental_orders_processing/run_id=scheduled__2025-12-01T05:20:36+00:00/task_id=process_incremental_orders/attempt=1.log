@@ -1,0 +1,36 @@
+[2025-12-01T05:20:42.748+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-12-01T05:20:42.755+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: incremental_orders_processing.process_incremental_orders scheduled__2025-12-01T05:20:36+00:00 [queued]>
+[2025-12-01T05:20:42.757+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: incremental_orders_processing.process_incremental_orders scheduled__2025-12-01T05:20:36+00:00 [queued]>
+[2025-12-01T05:20:42.757+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2025-12-01T05:20:42.798+0000] {taskinstance.py:2327} INFO - Executing <Task(BashOperator): process_incremental_orders> on 2025-12-01 05:20:36+00:00
+[2025-12-01T05:20:42.799+0000] {standard_task_runner.py:63} INFO - Started process 300 to run task
+[2025-12-01T05:20:42.800+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'incremental_orders_processing', 'process_incremental_orders', 'scheduled__2025-12-01T05:20:36+00:00', '--job-id', '14', '--raw', '--subdir', 'DAGS_FOLDER/incremental_orders_dag.py', '--cfg-path', '/tmp/tmpuu796ex0']
+[2025-12-01T05:20:42.801+0000] {standard_task_runner.py:91} INFO - Job 14: Subtask process_incremental_orders
+[2025-12-01T05:20:42.813+0000] {task_command.py:426} INFO - Running <TaskInstance: incremental_orders_processing.process_incremental_orders scheduled__2025-12-01T05:20:36+00:00 [running]> on host 25576072d246
+[2025-12-01T05:20:42.831+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='incremental_orders_processing' AIRFLOW_CTX_TASK_ID='process_incremental_orders' AIRFLOW_CTX_EXECUTION_DATE='2025-12-01T05:20:36+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-12-01T05:20:36+00:00'
+[2025-12-01T05:20:42.831+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-12-01T05:20:42.836+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-12-01T05:20:42.837+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'docker exec spark python3 /workspace/processing/incremental/process_orders.py']
+[2025-12-01T05:20:42.839+0000] {subprocess.py:86} INFO - Output:
+[2025-12-01T05:20:42.848+0000] {subprocess.py:93} INFO - Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+[2025-12-01T05:20:42.849+0000] {subprocess.py:97} INFO - Command exited with return code 1
+[2025-12-01T05:20:42.849+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-12-01T05:20:42.851+0000] {taskinstance.py:2890} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 243, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2025-12-01T05:20:42.852+0000] {taskinstance.py:1205} INFO - Marking task as FAILED. dag_id=incremental_orders_processing, task_id=process_incremental_orders, execution_date=20251201T052036, start_date=20251201T052042, end_date=20251201T052042
+[2025-12-01T05:20:42.856+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 14 for task process_incremental_orders (Bash command failed. The command returned a non-zero exit code 1.; 300)
+[2025-12-01T05:20:42.863+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2025-12-01T05:20:42.866+0000] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-12-01T05:20:42.866+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

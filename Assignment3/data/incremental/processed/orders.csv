@@ -1,0 +1,5977 @@
+day_of_week,hour_of_day,category,items_count
+0,12,refrigerated,48
+0,13,packaged cheese,135
+0,13,soy lactosefree,45
+0,12,prepared meals,18
+0,11,soft drinks,18
+0,10,indian foods,3
+0,17,canned jarred vegetables,18
+0,9,baby food formula,9
+0,8,popcorn jerky,9
+0,10,beers coolers,3
+1,16,vitamins supplements,9
+1,23,water seltzer sparkling water,6
+2,11,soup broth bouillon,18
+2,18,missing,12
+2,9,vitamins supplements,6
+3,11,oils vinegars,8
+3,20,packaged vegetables fruits,42
+3,16,meat counter,4
+3,22,refrigerated pudding desserts,4
+3,11,doughs gelatins bake mixes,2
+3,5,ice cream ice,2
+0,18,cereal,18
+0,14,latino foods,12
+0,11,asian foods,21
+0,13,latino foods,3
+0,7,popcorn jerky,3
+0,6,meat counter,6
+1,15,latino foods,3
+1,14,doughs gelatins bake mixes,6
+1,21,hair care,3
+1,12,tofu meat alternatives,3
+2,18,canned meals beans,21
+2,22,instant foods,3
+2,20,ice cream ice,9
+2,9,cereal,6
+2,15,paper goods,18
+2,8,spreads,15
+2,5,breakfast bars pastries,6
+2,9,pickled goods olives,6
+2,12,baby food formula,6
+3,16,soy lactosefree,16
+3,10,ice cream ice,18
+0,13,coffee,30
+0,9,oils vinegars,30
+0,9,hot dogs bacon sausage,15
+0,10,soft drinks,9
+0,17,prepared soups salads,12
+0,21,soft drinks,3
+0,23,poultry counter,3
+1,22,yogurt,18
+1,18,oils vinegars,12
+1,13,dog food care,9
+1,8,cat food care,63
+1,11,juice nectars,6
+2,12,preserved dips spreads,9
+2,12,yogurt,36
+2,11,fresh vegetables,60
+2,12,asian foods,9
+2,10,hot dogs bacon sausage,15
+2,21,paper goods,6
+2,18,cleaning products,3
+3,7,fresh vegetables,28
+3,12,lunch meat,10
+3,16,pasta sauce,4
+3,13,beauty,2
+0,15,packaged vegetables fruits,195
+0,1,packaged vegetables fruits,18
+0,16,cookies cakes,12
+0,21,condiments,3
+0,14,baby food formula,6
+0,20,cream,3
+0,17,dish detergents,9
+0,16,trail mix snack mix,3
+0,23,missing,9
+0,19,hair care,6
+1,15,soft drinks,24
+1,16,frozen appetizers sides,15
+1,21,packaged produce,6
+1,15,cereal,18
+1,7,canned fruit applesauce,9
+1,5,frozen produce,6
+1,15,cookies cakes,9
+1,16,butter,6
+1,8,tortillas flat bread,6
+1,12,skin care,3
+2,15,soup broth bouillon,33
+2,16,indian foods,3
+2,15,instant foods,9
+2,11,cocoa drink mixes,12
+2,12,food storage,3
+3,12,milk,20
+3,5,paper goods,2
+3,2,butter,2
+0,16,milk,93
+0,12,vitamins supplements,3
+0,15,pasta sauce,27
+0,16,air fresheners candles,9
+0,12,baby accessories,3
+0,15,hot cereal pancake mixes,6
+0,18,salad dressing toppings,3
+0,11,baby accessories,3
+1,13,packaged poultry,9
+1,7,milk,21
+1,8,frozen meals,9
+1,6,packaged produce,6
+2,9,soft drinks,24
+2,12,packaged cheese,48
+2,11,grains rice dried goods,12
+2,7,fresh vegetables,57
+2,17,laundry,3
+2,17,instant foods,9
+2,21,oils vinegars,3
+2,18,refrigerated pudding desserts,6
+2,4,milk,6
+2,15,white wines,3
+3,16,baking ingredients,20
+3,15,feminine care,4
+3,2,eggs,4
+3,20,canned jarred vegetables,8
+3,19,cream,2
+3,14,baking ingredients,4
+0,17,hot cereal pancake mixes,3
+0,19,energy granola bars,24
+0,13,ice cream ice,54
+0,14,chips pretzels,72
+0,21,fruit vegetable snacks,9
+0,11,candy chocolate,15
+0,19,preserved dips spreads,6
+0,19,nuts seeds dried fruit,6
+1,21,fresh vegetables,96
+1,21,grains rice dried goods,12
+1,5,fresh vegetables,15
+1,11,frozen breakfast,9
+1,17,frozen appetizers sides,9
+1,14,canned fruit applesauce,9
+1,19,spreads,3
+1,12,missing,9
+1,12,cocoa drink mixes,3
+2,15,fresh vegetables,132
+2,15,packaged cheese,45
+2,9,popcorn jerky,21
+2,11,refrigerated,36
+2,11,frozen pizza,3
+2,9,fruit vegetable snacks,6
+2,20,soup broth bouillon,9
+2,8,milk,24
+2,10,plates bowls cups flatware,3
+2,7,frozen meat seafood,6
+2,16,cereal,6
+2,1,ice cream ice,6
+2,4,frozen breakfast,12
+3,17,pickled goods olives,4
+3,19,packaged seafood,2
+3,16,cereal,12
+0,13,spreads,24
+0,22,paper goods,9
+0,12,soft drinks,27
+0,10,frozen meals,36
+0,9,fresh dips tapenades,45
+0,8,refrigerated,39
+0,11,canned meat seafood,3
+0,14,baking ingredients,27
+0,18,muscles joints pain relief,3
+0,12,laundry,18
+0,22,baby food formula,24
+0,23,plates bowls cups flatware,3
+0,9,oral hygiene,3
+1,17,fresh dips tapenades,15
+1,9,condiments,12
+1,22,packaged vegetables fruits,15
+1,14,oils vinegars,15
+1,11,instant foods,6
+1,8,deodorants,3
+1,9,cream,12
+1,16,cold flu allergy,18
+1,17,dish detergents,3
+2,10,frozen produce,21
+2,20,water seltzer sparkling water,12
+2,17,condiments,15
+2,10,dry pasta,12
+2,5,frozen appetizers sides,3
+3,15,spices seasonings,6
+3,13,soup broth bouillon,24
+3,9,bread,10
+3,10,chips pretzels,20
+3,17,frozen produce,24
+3,19,spreads,6
+3,8,cookies cakes,6
+3,15,pickled goods olives,4
+0,15,refrigerated,42
+0,19,cereal,12
+0,23,chips pretzels,12
+0,6,hot dogs bacon sausage,6
+0,20,ice cream toppings,3
+0,14,plates bowls cups flatware,3
+0,6,tortillas flat bread,3
+1,16,pasta sauce,27
+1,17,baby food formula,3
+1,20,canned jarred vegetables,3
+1,7,paper goods,3
+2,13,latino foods,3
+2,20,baking ingredients,6
+2,23,hot dogs bacon sausage,3
+2,9,honeys syrups nectars,3
+3,23,frozen meals,14
+3,6,juice nectars,2
+3,7,water seltzer sparkling water,16
+3,12,soap,2
+3,17,hot cereal pancake mixes,2
+0,15,dry pasta,27
+0,10,protein meal replacements,3
+0,20,canned jarred vegetables,6
+0,17,spreads,24
+0,15,preserved dips spreads,3
+0,8,canned jarred vegetables,3
+0,22,hot dogs bacon sausage,3
+1,9,frozen appetizers sides,15
+1,18,other,3
+1,19,cereal,21
+1,22,lunch meat,9
+1,10,oils vinegars,6
+1,7,body lotions soap,6
+1,8,instant foods,3
+1,20,frozen appetizers sides,6
+1,8,pasta sauce,3
+1,0,fresh herbs,3
+2,12,dry pasta,6
+2,11,fresh fruits,123
+2,11,packaged poultry,3
+2,13,fresh dips tapenades,27
+2,7,popcorn jerky,3
+2,10,fresh herbs,30
+2,17,food storage,6
+2,17,mint gum,3
+2,2,lunch meat,3
+2,5,coffee,3
+2,10,trail mix snack mix,3
+2,8,canned jarred vegetables,6
+3,13,spices seasonings,4
+3,23,nuts seeds dried fruit,2
+3,14,packaged vegetables fruits,34
+3,15,asian foods,2
+3,14,eggs,14
+3,19,granola,2
+3,8,ice cream ice,6
+3,18,body lotions soap,4
+3,14,energy sports drinks,8
+3,7,canned jarred vegetables,4
+3,21,oils vinegars,4
+3,13,buns rolls,2
+3,12,diapers wipes,4
+3,17,hot dogs bacon sausage,6
+3,12,canned fruit applesauce,2
+0,16,soy lactosefree,60
+0,0,candy chocolate,3
+0,13,packaged produce,45
+0,12,nuts seeds dried fruit,18
+0,12,paper goods,27
+1,15,soy lactosefree,45
+1,22,ice cream ice,3
+1,23,spreads,3
+1,22,bread,3
+1,17,hot cereal pancake mixes,3
+2,13,dish detergents,12
+2,4,cleaning products,3
+2,4,plates bowls cups flatware,15
+2,8,cat food care,3
+2,15,oils vinegars,9
+2,17,doughs gelatins bake mixes,9
+3,13,yogurt,64
+3,12,fresh herbs,12
+3,7,lunch meat,2
+3,14,candy chocolate,10
+3,14,packaged cheese,20
+3,22,doughs gelatins bake mixes,4
+3,20,frozen appetizers sides,8
+3,20,fresh dips tapenades,4
+3,7,spices seasonings,2
+3,1,eggs,2
+3,13,latino foods,6
+0,8,candy chocolate,21
+0,1,other creams cheeses,3
+0,13,preserved dips spreads,33
+0,15,oils vinegars,21
+0,20,frozen breakfast,6
+0,19,dog food care,3
+0,21,frozen appetizers sides,3
+0,19,deodorants,3
+1,18,canned jarred vegetables,27
+1,13,frozen appetizers sides,9
+1,18,grains rice dried goods,21
+1,14,frozen produce,24
+1,12,frozen vegan vegetarian,9
+1,13,red wines,3
+1,0,cream,3
+1,15,prepared soups salads,15
+2,4,fresh vegetables,12
+2,11,lunch meat,18
+2,13,condiments,24
+2,7,crackers,21
+2,8,spices seasonings,15
+2,7,butter,3
+2,9,dish detergents,3
+3,7,packaged vegetables fruits,18
+3,11,other,2
+3,23,breakfast bakery,4
+3,18,soy lactosefree,6
+3,22,frozen meals,4
+3,18,cream,4
+3,13,tofu meat alternatives,2
+0,18,fresh fruits,174
+0,18,paper goods,27
+0,17,baby accessories,3
+0,16,bread,42
+0,11,hot dogs bacon sausage,39
+0,11,fresh pasta,9
+0,21,tea,3
+0,17,cleaning products,21
+0,15,diapers wipes,3
+1,13,packaged produce,18
+1,21,fresh dips tapenades,9
+1,13,dish detergents,9
+1,13,frozen breakfast,15
+1,15,baby food formula,9
+1,20,paper goods,3
+2,17,hot cereal pancake mixes,6
+2,14,bulk grains rice dried goods,6
+2,9,cat food care,6
+3,19,nuts seeds dried fruit,6
+3,15,frozen meals,6
+3,7,missing,4
+3,10,packaged vegetables fruits,38
+3,12,eggs,12
+3,18,other creams cheeses,4
+3,10,milk,18
+3,11,hot cereal pancake mixes,6
+3,13,cereal,14
+3,14,paper goods,8
+3,20,diapers wipes,2
+3,19,vitamins supplements,2
+3,16,candy chocolate,4
+0,8,grains rice dried goods,12
+0,10,oils vinegars,36
+0,13,other creams cheeses,36
+0,12,cereal,18
+0,9,grains rice dried goods,6
+0,5,missing,3
+0,19,spirits,6
+0,16,shave needs,6
+0,19,tea,9
+0,11,packaged poultry,15
+0,3,crackers,6
+0,7,packaged meat,3
+1,16,grains rice dried goods,12
+1,12,chips pretzels,9
+1,14,digestion,3
+1,15,soup broth bouillon,18
+1,7,lunch meat,9
+1,20,eggs,6
+1,13,seafood counter,3
+1,14,latino foods,3
+2,4,skin care,9
+2,15,energy sports drinks,9
+2,12,breakfast bars pastries,6
+2,22,eggs,3
+2,17,frozen breakfast,12
+2,21,fresh herbs,3
+3,14,cookies cakes,10
+3,17,nuts seeds dried fruit,24
+3,9,honeys syrups nectars,2
+3,14,trail mix snack mix,2
+3,14,muscles joints pain relief,2
+3,22,fresh dips tapenades,12
+3,20,tortillas flat bread,4
+3,11,tea,6
+0,10,pasta sauce,39
+0,13,lunch meat,57
+0,17,coffee,6
+0,8,frozen pizza,15
+0,11,deodorants,9
+0,17,refrigerated pudding desserts,9
+0,5,refrigerated,3
+0,11,food storage,9
+0,23,instant foods,6
+0,6,pasta sauce,3
+0,9,popcorn jerky,9
+1,17,prepared meals,9
+1,22,pickled goods olives,3
+1,0,canned meat seafood,3
+1,16,hot dogs bacon sausage,18
+1,10,frozen breakfast,6
+2,12,frozen meat seafood,3
+2,16,juice nectars,21
+2,19,soy lactosefree,24
+2,11,energy granola bars,27
+2,7,cereal,12
+2,8,energy granola bars,30
+2,10,beers coolers,9
+2,16,baking supplies decor,3
+2,18,trash bags liners,6
+2,8,salad dressing toppings,3
+2,19,fresh herbs,3
+3,17,packaged poultry,6
+3,23,yogurt,24
+3,16,tea,2
+3,16,fresh herbs,6
+3,20,air fresheners candles,6
+3,0,ice cream ice,2
+3,13,frozen pizza,4
+3,13,packaged meat,4
+3,8,diapers wipes,4
+0,8,ice cream ice,27
+0,11,meat counter,3
+0,13,fresh herbs,51
+0,7,packaged vegetables fruits,39
+0,7,canned meat seafood,6
+0,17,protein meal replacements,3
+1,13,milk,36
+1,16,milk,27
+1,14,diapers wipes,6
+1,21,missing,3
+1,21,refrigerated,33
+1,12,spreads,15
+1,8,soft drinks,15
+1,13,pickled goods olives,3
+1,15,frozen breads doughs,3
+2,11,nuts seeds dried fruit,18
+2,11,cream,15
+2,23,cereal,6
+2,23,chips pretzels,3
+2,20,frozen meals,24
+3,13,missing,6
+3,15,cookies cakes,18
+3,21,fresh herbs,2
+3,17,soy lactosefree,22
+3,5,cream,2
+3,12,candy chocolate,10
+3,13,energy sports drinks,16
+0,10,bread,54
+0,10,eggs,57
+0,15,packaged produce,33
+0,10,soy lactosefree,60
+0,23,milk,12
+0,16,canned meals beans,21
+0,20,frozen dessert,3
+0,14,frozen pizza,9
+0,22,shave needs,3
+1,17,frozen produce,39
+1,11,poultry counter,12
+1,17,yogurt,78
+1,15,fresh vegetables,201
+1,20,breakfast bakery,6
+1,17,meat counter,9
+1,8,energy granola bars,9
+1,21,fruit vegetable snacks,9
+1,7,popcorn jerky,3
+1,9,hair care,3
+2,9,ice cream ice,33
+2,10,juice nectars,18
+2,15,cream,12
+2,18,salad dressing toppings,9
+2,15,lunch meat,6
+2,20,salad dressing toppings,3
+3,23,frozen breakfast,2
+3,17,ice cream ice,14
+3,11,salad dressing toppings,2
+3,14,instant foods,8
+3,10,dry pasta,6
+3,18,fresh dips tapenades,2
+3,8,soft drinks,8
+3,15,indian foods,2
+3,2,packaged vegetables fruits,4
+0,14,frozen produce,48
+0,6,fresh fruits,63
+0,14,bread,42
+0,12,buns rolls,15
+0,21,refrigerated pudding desserts,6
+0,18,yogurt,60
+0,8,cream,6
+1,9,meat counter,6
+1,20,spreads,6
+2,14,bread,48
+2,14,pickled goods olives,3
+2,12,energy sports drinks,3
+3,12,packaged vegetables fruits,28
+3,7,instant foods,6
+3,5,hot dogs bacon sausage,4
+3,8,doughs gelatins bake mixes,6
+3,11,soft drinks,14
+3,16,missing,6
+3,10,packaged produce,6
+3,7,frozen meat seafood,2
+3,18,food storage,2
+0,18,milk,21
+0,19,butter,9
+0,22,cereal,18
+0,17,fresh herbs,33
+0,21,fresh dips tapenades,6
+0,7,tortillas flat bread,6
+1,9,refrigerated pudding desserts,12
+1,21,refrigerated pudding desserts,12
+1,17,canned meals beans,21
+1,13,breakfast bakery,24
+1,12,water seltzer sparkling water,45
+1,23,frozen produce,3
+1,9,body lotions soap,3
+1,22,butter,3
+1,19,instant foods,3
+1,2,packaged seafood,3
+2,13,nuts seeds dried fruit,18
+2,15,buns rolls,6
+2,18,bread,36
+2,19,crackers,21
+2,13,other creams cheeses,12
+2,9,trail mix snack mix,9
+2,17,candy chocolate,6
+2,23,yogurt,6
+2,17,facial care,3
+2,20,fresh herbs,3
+3,15,nuts seeds dried fruit,14
+3,15,buns rolls,4
+3,11,breakfast bakery,4
+3,18,baking ingredients,8
+3,15,packaged seafood,2
+3,2,fresh fruits,2
+3,8,spices seasonings,12
+3,13,specialty cheeses,2
+0,22,fresh fruits,111
+0,11,spices seasonings,18
+0,16,fresh herbs,39
+0,14,frozen meat seafood,12
+0,22,frozen produce,6
+1,11,tofu meat alternatives,3
+1,18,juice nectars,15
+1,12,hair care,6
+1,19,soy lactosefree,30
+1,19,tofu meat alternatives,3
+1,7,prepared meals,6
+1,19,tea,15
+2,10,crackers,18
+2,14,soft drinks,33
+2,8,frozen appetizers sides,6
+2,8,mint gum,6
+2,15,cat food care,3
+2,18,hot dogs bacon sausage,15
+2,11,seafood counter,3
+3,10,soup broth bouillon,12
+3,8,packaged vegetables fruits,34
+3,8,other creams cheeses,8
+3,10,packaged poultry,4
+3,23,spreads,8
+3,12,chips pretzels,16
+3,15,prepared soups salads,10
+3,9,baby food formula,8
+3,15,cocoa drink mixes,4
+0,15,nuts seeds dried fruit,30
+0,5,grains rice dried goods,3
+0,7,canned meals beans,15
+0,19,digestion,3
+0,16,tortillas flat bread,9
+0,9,asian foods,33
+0,23,trash bags liners,3
+0,10,canned meat seafood,3
+0,7,cream,9
+0,11,refrigerated pudding desserts,3
+0,9,missing,3
+1,14,nuts seeds dried fruit,21
+1,12,hot dogs bacon sausage,12
+1,18,frozen pizza,21
+1,17,condiments,18
+1,9,baby food formula,21
+1,19,canned meals beans,9
+1,20,canned fruit applesauce,6
+1,17,other,6
+2,4,eggs,3
+2,11,bulk dried fruits vegetables,3
+3,10,buns rolls,6
+3,17,energy granola bars,8
+3,11,frozen pizza,2
+3,0,soy lactosefree,4
+3,6,plates bowls cups flatware,2
+3,19,buns rolls,4
+3,12,breakfast bars pastries,4
+3,10,frozen meals,6
+3,8,white wines,2
+3,19,candy chocolate,4
+0,11,instant foods,27
+0,6,missing,3
+0,14,soy lactosefree,36
+0,18,coffee,15
+0,14,soft drinks,27
+0,18,oils vinegars,9
+0,8,hot cereal pancake mixes,9
+0,7,frozen appetizers sides,6
+0,12,oral hygiene,3
+1,10,fresh fruits,150
+1,18,yogurt,69
+1,22,packaged cheese,3
+1,16,trail mix snack mix,12
+2,16,soft drinks,9
+2,11,hot dogs bacon sausage,18
+2,16,missing,9
+2,0,fresh vegetables,12
+2,17,latino foods,3
+2,19,prepared soups salads,3
+2,20,oils vinegars,6
+2,21,soup broth bouillon,3
+2,13,baking supplies decor,3
+2,8,meat counter,6
+2,17,ice cream toppings,3
+3,9,fruit vegetable snacks,8
+3,20,water seltzer sparkling water,14
+3,9,canned meat seafood,4
+3,17,frozen appetizers sides,4
+3,15,tea,10
+3,11,nuts seeds dried fruit,8
+3,22,granola,4
+3,22,coffee,2
+3,17,cleaning products,2
+0,23,energy granola bars,12
+0,15,spreads,39
+0,9,juice nectars,21
+0,17,pickled goods olives,15
+0,17,frozen pizza,24
+0,16,tea,27
+0,19,energy sports drinks,6
+0,16,hot cereal pancake mixes,21
+0,11,specialty cheeses,6
+1,21,crackers,9
+1,18,frozen breakfast,9
+1,7,chips pretzels,18
+1,5,fresh herbs,3
+2,4,coffee,3
+2,18,candy chocolate,9
+2,12,hot cereal pancake mixes,12
+2,16,crackers,24
+2,19,frozen dessert,3
+3,8,frozen pizza,8
+3,16,soft drinks,10
+3,13,chips pretzels,28
+3,14,plates bowls cups flatware,6
+3,7,cleaning products,2
+3,21,spreads,6
+3,6,oral hygiene,4
+3,13,popcorn jerky,8
+3,0,packaged vegetables fruits,6
+3,9,instant foods,4
+3,16,canned meals beans,2
+0,19,cookies cakes,12
+0,1,tea,6
+0,1,prepared meals,3
+0,13,prepared meals,18
+0,13,frozen dessert,3
+0,23,frozen breakfast,3
+0,23,muscles joints pain relief,3
+1,21,cream,3
+1,20,fresh fruits,93
+1,20,ice cream ice,51
+1,7,pasta sauce,9
+1,20,energy granola bars,12
+1,18,breakfast bakery,6
+1,15,doughs gelatins bake mixes,6
+1,15,butter,6
+1,8,tea,9
+1,8,frozen pizza,3
+1,10,trash bags liners,3
+2,8,fresh vegetables,111
+2,22,fresh pasta,3
+2,19,cookies cakes,15
+2,18,breakfast bakery,12
+2,8,bread,30
+2,11,prepared meals,9
+2,19,body lotions soap,3
+2,13,fruit vegetable snacks,3
+2,20,soft drinks,6
+2,5,fresh vegetables,3
+2,13,frozen appetizers sides,6
+2,4,hot dogs bacon sausage,6
+3,9,muscles joints pain relief,2
+3,22,ice cream ice,22
+3,18,yogurt,22
+3,17,soup broth bouillon,8
+3,8,frozen dessert,2
+0,15,milk,60
+0,22,baking ingredients,3
+0,9,crackers,18
+1,20,cereal,3
+1,0,fresh fruits,30
+1,17,missing,12
+1,15,popcorn jerky,3
+1,10,kosher foods,6
+2,13,packaged cheese,57
+2,19,fresh vegetables,60
+2,13,food storage,6
+2,22,soup broth bouillon,12
+2,14,prepared meals,15
+2,19,cat food care,3
+3,21,breakfast bakery,8
+3,16,frozen meat seafood,4
+3,11,packaged poultry,8
+3,20,oils vinegars,6
+3,2,tortillas flat bread,6
+3,12,soy lactosefree,6
+3,10,prepared soups salads,2
+3,12,soup broth bouillon,4
+0,16,fresh dips tapenades,36
+0,21,chips pretzels,15
+0,20,spices seasonings,9
+0,21,trash bags liners,3
+1,17,bread,18
+1,17,packaged cheese,54
+1,5,fresh dips tapenades,3
+1,13,soft drinks,15
+1,9,soft drinks,33
+1,6,spreads,6
+1,20,buns rolls,3
+1,15,dish detergents,12
+1,18,mint gum,3
+1,9,salad dressing toppings,6
+2,9,breakfast bakery,12
+2,6,energy granola bars,6
+2,20,bread,9
+2,16,cleaning products,6
+2,10,oral hygiene,6
+2,17,frozen appetizers sides,3
+2,12,soup broth bouillon,27
+2,22,frozen produce,18
+2,1,refrigerated,3
+2,4,fresh fruits,21
+2,12,coffee,6
+2,21,soy lactosefree,3
+3,15,fresh vegetables,100
+3,15,fresh fruits,86
+3,17,asian foods,14
+3,23,instant foods,2
+3,18,frozen meat seafood,2
+3,15,fruit vegetable snacks,10
+3,9,other creams cheeses,2
+3,21,canned meals beans,2
+3,16,beauty,2
+3,18,prepared meals,4
+3,12,paper goods,4
+3,5,cookies cakes,8
+0,22,refrigerated,18
+0,18,pickled goods olives,6
+0,18,packaged produce,18
+0,15,skin care,6
+0,21,other creams cheeses,6
+0,13,energy sports drinks,6
+0,13,baking supplies decor,6
+0,3,other creams cheeses,6
+0,8,prepared meals,3
+0,7,hot cereal pancake mixes,3
+0,16,latino foods,9
+0,18,candy chocolate,12
+0,9,tea,6
+1,14,coffee,12
+1,16,dog food care,3
+1,20,coffee,9
+2,19,ice cream ice,18
+2,11,butter,6
+2,17,digestion,3
+2,15,coffee,3
+2,15,food storage,3
+2,14,canned fruit applesauce,3
+3,13,asian foods,8
+3,13,ice cream ice,24
+3,18,preserved dips spreads,2
+3,9,canned meals beans,10
+3,14,refrigerated,8
+3,6,soft drinks,4
+3,18,soft drinks,6
+3,22,dish detergents,2
+3,2,bread,2
+0,12,pasta sauce,30
+0,17,missing,21
+0,12,asian foods,15
+0,9,soap,3
+0,18,grains rice dried goods,3
+1,13,yogurt,51
+1,22,canned meat seafood,3
+1,10,specialty cheeses,6
+1,11,bakery desserts,3
+1,17,seafood counter,3
+2,12,fresh fruits,198
+2,18,seafood counter,6
+2,16,bread,6
+2,16,instant foods,9
+3,13,eggs,24
+3,13,fresh fruits,130
+3,7,fresh fruits,44
+3,14,butter,4
+3,12,water seltzer sparkling water,22
+3,12,baking ingredients,4
+3,11,honeys syrups nectars,2
+0,10,milk,66
+0,13,frozen vegan vegetarian,27
+0,18,meat counter,3
+0,17,beers coolers,3
+0,9,frozen meals,12
+0,18,oral hygiene,12
+0,16,packaged produce,21
+0,20,coffee,3
+1,15,fresh herbs,15
+1,13,canned fruit applesauce,9
+1,9,refrigerated,39
+1,14,vitamins supplements,6
+1,13,dry pasta,15
+1,8,packaged cheese,39
+1,19,preserved dips spreads,6
+1,5,packaged cheese,3
+1,8,tofu meat alternatives,3
+2,15,refrigerated,21
+2,13,pasta sauce,18
+2,22,soy lactosefree,3
+2,16,cocoa drink mixes,3
+2,4,prepared soups salads,3
+3,2,dry pasta,2
+0,15,soup broth bouillon,54
+0,11,energy granola bars,54
+0,9,baking ingredients,27
+1,17,soup broth bouillon,30
+1,18,butter,6
+1,9,water seltzer sparkling water,72
+1,22,water seltzer sparkling water,9
+1,10,doughs gelatins bake mixes,3
+1,15,indian foods,3
+2,9,fresh vegetables,159
+2,15,asian foods,3
+2,14,eggs,21
+2,22,oils vinegars,3
+2,9,spices seasonings,3
+2,13,tea,12
+2,12,oils vinegars,18
+2,5,feminine care,3
+3,9,bakery desserts,2
+3,16,plates bowls cups flatware,2
+3,14,spices seasonings,4
+3,12,spreads,4
+3,23,food storage,4
+3,10,condiments,4
+3,2,dish detergents,2
+0,12,milk,72
+0,13,fresh pasta,9
+0,9,baby bath body care,3
+0,15,protein meal replacements,3
+0,19,oral hygiene,3
+0,20,popcorn jerky,9
+0,14,tofu meat alternatives,9
+0,20,cereal,6
+0,23,breakfast bars pastries,3
+0,0,ice cream ice,6
+1,12,juice nectars,15
+1,15,water seltzer sparkling water,57
+1,20,facial care,3
+1,16,breakfast bakery,15
+1,18,tofu meat alternatives,9
+1,15,other creams cheeses,9
+1,17,paper goods,9
+1,9,canned fruit applesauce,3
+1,19,baking ingredients,9
+1,14,specialty cheeses,3
+1,19,frozen produce,9
+2,19,hot dogs bacon sausage,9
+2,17,spreads,9
+2,6,fresh herbs,3
+2,12,meat counter,3
+2,23,bulk dried fruits vegetables,3
+2,21,bulk dried fruits vegetables,3
+2,17,fruit vegetable snacks,9
+3,19,fresh fruits,50
+3,7,frozen produce,4
+3,12,dry pasta,6
+3,18,oils vinegars,6
+3,13,plates bowls cups flatware,2
+3,1,oral hygiene,4
+3,23,other,2
+3,11,bulk dried fruits vegetables,2
+3,13,kitchen supplies,2
+0,16,packaged cheese,102
+0,9,tortillas flat bread,9
+0,16,dry pasta,42
+0,5,fresh herbs,9
+0,0,soup broth bouillon,3
+0,6,bread,3
+0,13,asian foods,3
+1,10,tea,18
+1,17,refrigerated,27
+1,9,honeys syrups nectars,6
+1,0,water seltzer sparkling water,3
+1,7,energy granola bars,21
+1,12,milk,27
+1,10,butter,24
+1,11,salad dressing toppings,12
+1,13,packaged meat,3
+1,22,refrigerated,6
+2,10,fresh dips tapenades,21
+2,22,water seltzer sparkling water,9
+2,8,buns rolls,6
+2,14,cereal,24
+2,18,yogurt,45
+2,11,cereal,9
+2,18,oral hygiene,3
+3,10,asian foods,4
+3,10,fresh fruits,98
+3,10,canned meals beans,12
+3,10,spreads,6
+3,9,canned jarred vegetables,14
+3,12,cookies cakes,2
+3,23,packaged produce,2
+3,17,baking ingredients,4
+3,17,preserved dips spreads,6
+3,9,tea,10
+3,12,meat counter,2
+3,19,fresh herbs,4
+3,20,latino foods,2
+3,20,honeys syrups nectars,2
+3,14,canned meals beans,4
+3,2,baking ingredients,4
+3,18,pickled goods olives,2
+0,15,eggs,33
+0,17,bread,51
+0,9,other creams cheeses,18
+0,16,refrigerated pudding desserts,9
+0,15,cocoa drink mixes,3
+0,7,packaged produce,24
+0,19,soft drinks,24
+0,5,baby food formula,12
+1,14,trail mix snack mix,3
+1,14,pickled goods olives,6
+1,7,soup broth bouillon,27
+1,6,dry pasta,3
+1,7,fresh dips tapenades,9
+1,14,cookies cakes,9
+1,20,dry pasta,6
+1,0,eggs,3
+2,12,energy granola bars,9
+2,19,frozen meals,30
+2,18,packaged poultry,9
+2,19,butter,12
+2,19,grains rice dried goods,12
+2,13,frozen breakfast,6
+2,1,prepared meals,6
+2,5,canned meals beans,3
+2,18,frozen meat seafood,3
+3,10,pasta sauce,2
+3,19,lunch meat,4
+3,13,packaged vegetables fruits,62
+3,8,fresh fruits,40
+3,8,tea,10
+3,11,frozen breakfast,4
+3,6,packaged produce,2
+3,22,energy granola bars,6
+3,13,fresh dips tapenades,4
+0,19,packaged cheese,51
+0,10,tofu meat alternatives,12
+0,12,condiments,24
+0,21,soup broth bouillon,3
+0,21,beauty,3
+0,14,prepared meals,24
+0,8,vitamins supplements,6
+0,10,canned jarred vegetables,24
+0,16,food storage,3
+0,11,granola,6
+0,23,candy chocolate,6
+0,18,soup broth bouillon,6
+1,15,dry pasta,6
+1,11,cookies cakes,18
+1,13,missing,3
+1,18,indian foods,12
+1,8,paper goods,15
+2,6,fresh fruits,18
+2,22,candy chocolate,3
+2,13,breakfast bars pastries,3
+3,9,more household,4
+3,19,frozen breads doughs,2
+3,7,doughs gelatins bake mixes,4
+3,11,packaged cheese,12
+3,5,water seltzer sparkling water,6
+3,12,energy granola bars,14
+3,15,poultry counter,4
+3,15,canned meals beans,2
+3,14,meat counter,2
+0,18,packaged vegetables fruits,120
+0,11,fresh vegetables,447
+0,16,pickled goods olives,18
+0,6,fresh vegetables,69
+0,14,cereal,75
+0,12,grains rice dried goods,6
+0,21,packaged poultry,3
+0,17,mint gum,3
+0,7,chips pretzels,6
+1,19,pickled goods olives,12
+1,13,fresh vegetables,243
+1,7,juice nectars,9
+1,8,dry pasta,12
+1,20,cream,9
+1,13,canned meals beans,30
+1,13,hot dogs bacon sausage,6
+1,8,bread,36
+1,23,bread,3
+1,15,cold flu allergy,3
+1,7,asian foods,6
+2,9,milk,33
+2,20,frozen produce,30
+2,0,fresh dips tapenades,3
+3,8,coffee,6
+3,8,frozen appetizers sides,4
+3,17,oral hygiene,4
+3,14,fresh herbs,8
+3,11,tofu meat alternatives,2
+3,14,frozen vegan vegetarian,2
+3,18,fresh pasta,2
+0,17,ice cream ice,60
+0,18,packaged cheese,30
+0,17,oils vinegars,12
+0,22,bulk dried fruits vegetables,3
+1,19,fresh vegetables,102
+1,16,packaged cheese,45
+1,11,energy granola bars,15
+1,8,fruit vegetable snacks,3
+1,15,hot cereal pancake mixes,3
+2,17,pasta sauce,9
+2,12,cream,9
+2,7,prepared meals,9
+2,17,breakfast bakery,24
+2,22,nuts seeds dried fruit,3
+2,20,pasta sauce,6
+3,15,frozen vegan vegetarian,6
+3,16,packaged vegetables fruits,38
+3,23,prepared meals,2
+3,13,dry pasta,14
+3,7,cat food care,2
+3,9,baby bath body care,2
+3,21,coffee,4
+0,16,frozen produce,42
+0,14,dish detergents,9
+0,15,packaged meat,3
+0,12,canned meat seafood,3
+0,19,trash bags liners,3
+0,8,energy granola bars,21
+0,11,doughs gelatins bake mixes,18
+0,22,oils vinegars,6
+0,23,prepared soups salads,3
+0,19,latino foods,3
+0,8,instant foods,3
+1,15,meat counter,3
+1,0,granola,6
+1,7,ice cream ice,6
+2,15,milk,33
+2,4,packaged vegetables fruits,18
+2,22,breakfast bakery,6
+2,9,spreads,15
+2,22,buns rolls,3
+2,10,frozen appetizers sides,3
+2,8,asian foods,6
+2,2,yogurt,3
+2,4,yogurt,6
+2,4,doughs gelatins bake mixes,3
+2,6,instant foods,3
+2,20,crackers,3
+2,17,protein meal replacements,3
+2,9,trash bags liners,6
+3,19,cereal,22
+3,18,prepared soups salads,2
+3,2,spreads,2
+0,8,canned meals beans,18
+0,9,frozen meat seafood,12
+0,13,pickled goods olives,6
+0,14,fresh pasta,3
+0,14,frozen meals,30
+0,1,refrigerated,6
+0,21,packaged cheese,24
+0,17,digestion,6
+0,16,breakfast bars pastries,9
+0,21,packaged seafood,3
+0,18,feminine care,3
+1,11,refrigerated,39
+1,17,ice cream ice,45
+1,12,eggs,21
+1,12,tortillas flat bread,9
+1,20,poultry counter,3
+1,2,breakfast bakery,3
+2,17,water seltzer sparkling water,60
+2,18,oils vinegars,12
+2,19,poultry counter,9
+2,9,dog food care,3
+2,6,frozen vegan vegetarian,3
+2,23,canned meals beans,3
+3,23,fresh vegetables,30
+3,20,soy lactosefree,14
+3,4,pickled goods olives,2
+3,11,breakfast bars pastries,2
+0,14,breakfast bars pastries,12
+0,9,spices seasonings,27
+0,12,cream,33
+0,21,juice nectars,6
+0,18,prepared meals,18
+0,13,refrigerated pudding desserts,6
+0,7,ice cream ice,12
+0,18,breakfast bakery,15
+1,9,bread,24
+1,18,milk,36
+1,14,butter,30
+1,11,canned jarred vegetables,9
+1,21,lunch meat,6
+1,7,soy lactosefree,21
+2,0,milk,6
+2,16,energy granola bars,18
+2,13,soup broth bouillon,21
+2,22,frozen meals,3
+2,19,soup broth bouillon,12
+3,10,meat counter,8
+3,1,paper goods,4
+3,14,condiments,2
+3,13,laundry,4
+3,16,fruit vegetable snacks,2
+0,19,bread,36
+0,17,fresh dips tapenades,24
+0,14,condiments,27
+0,16,lunch meat,51
+0,10,baby food formula,36
+0,10,doughs gelatins bake mixes,15
+0,9,fresh pasta,3
+0,9,latino foods,3
+0,14,oral hygiene,3
+1,16,spices seasonings,15
+1,18,frozen appetizers sides,12
+1,18,frozen produce,30
+1,9,nuts seeds dried fruit,27
+1,17,other creams cheeses,9
+1,16,tortillas flat bread,9
+1,14,air fresheners candles,3
+1,11,candy chocolate,15
+1,2,specialty cheeses,3
+2,15,chips pretzels,36
+2,13,bread,21
+2,15,soy lactosefree,33
+2,10,grains rice dried goods,9
+2,13,frozen vegan vegetarian,6
+2,4,baby food formula,9
+2,0,frozen appetizers sides,3
+2,22,frozen appetizers sides,3
+2,6,energy sports drinks,6
+3,10,specialty cheeses,6
+3,13,cream,20
+3,8,dry pasta,4
+3,23,oils vinegars,8
+3,17,coffee,12
+3,22,crackers,6
+3,10,body lotions soap,2
+3,12,fresh fruits,54
+3,17,packaged produce,2
+3,19,prepared meals,4
+3,15,energy sports drinks,2
+0,16,fresh vegetables,483
+0,13,feminine care,3
+0,14,packaged cheese,81
+0,9,buns rolls,9
+0,5,fresh vegetables,54
+0,5,prepared meals,3
+0,16,asian foods,27
+0,8,fresh dips tapenades,12
+0,16,fresh pasta,3
+0,21,dish detergents,3
+0,23,other creams cheeses,3
+1,10,fresh dips tapenades,24
+1,6,butter,6
+1,15,energy granola bars,39
+1,7,food storage,3
+1,18,eye ear care,3
+2,18,frozen produce,12
+2,16,oral hygiene,6
+2,12,poultry counter,3
+2,23,fruit vegetable snacks,3
+3,7,juice nectars,6
+3,9,juice nectars,8
+3,23,granola,2
+3,7,cookies cakes,6
+3,9,frozen meat seafood,2
+3,22,baking ingredients,2
+3,8,tortillas flat bread,2
+3,21,nuts seeds dried fruit,4
+3,18,granola,2
+3,15,fresh herbs,4
+0,18,baby food formula,9
+0,20,fresh vegetables,114
+0,17,frozen produce,30
+0,9,cereal,24
+0,15,fresh pasta,6
+0,16,eye ear care,3
+0,20,dog food care,3
+1,16,soup broth bouillon,21
+1,10,fresh herbs,12
+1,9,lunch meat,27
+1,0,spices seasonings,3
+1,14,frozen appetizers sides,18
+1,10,breakfast bakery,18
+1,10,canned meat seafood,3
+1,16,prepared meals,3
+2,18,eggs,18
+2,12,missing,3
+2,23,butter,3
+2,12,packaged produce,12
+2,13,muscles joints pain relief,9
+2,8,frozen breakfast,12
+2,14,spices seasonings,15
+2,10,hot cereal pancake mixes,6
+3,10,yogurt,38
+3,13,condiments,4
+3,8,eggs,6
+3,18,coffee,8
+3,8,soup broth bouillon,4
+3,14,water seltzer sparkling water,22
+3,18,energy granola bars,6
+3,9,crackers,10
+3,12,frozen meat seafood,2
+3,7,granola,6
+3,18,cocoa drink mixes,2
+3,8,nuts seeds dried fruit,4
+3,13,spreads,4
+3,12,fresh pasta,2
+0,12,fresh fruits,420
+0,17,paper goods,21
+0,21,yogurt,36
+0,19,instant foods,12
+0,12,breakfast bakery,9
+0,13,doughs gelatins bake mixes,12
+0,16,kosher foods,3
+0,18,food storage,3
+0,10,more household,3
+0,16,trash bags liners,9
+1,16,latino foods,6
+1,12,crackers,15
+1,9,hot cereal pancake mixes,9
+1,18,cleaning products,3
+1,21,canned meat seafood,3
+1,15,frozen meat seafood,3
+1,7,first aid,3
+2,15,pickled goods olives,6
+2,8,refrigerated,3
+2,11,fresh dips tapenades,24
+2,13,frozen pizza,6
+2,13,instant foods,12
+2,19,cream,15
+2,0,paper goods,3
+2,9,plates bowls cups flatware,9
+3,18,cereal,10
+3,18,fresh fruits,52
+3,13,energy granola bars,24
+3,16,preserved dips spreads,2
+3,13,butter,8
+3,0,trail mix snack mix,2
+3,19,canned meals beans,2
+3,19,tofu meat alternatives,2
+3,9,poultry counter,2
+0,8,hot dogs bacon sausage,21
+0,22,eggs,6
+0,20,baking ingredients,9
+0,20,paper goods,3
+0,12,preserved dips spreads,15
+0,3,butter,3
+1,17,pasta sauce,18
+1,15,fresh dips tapenades,12
+1,17,lunch meat,30
+1,23,paper goods,3
+2,7,frozen breads doughs,3
+2,13,cookies cakes,9
+2,10,indian foods,6
+2,14,hot cereal pancake mixes,3
+2,13,indian foods,3
+3,22,lunch meat,10
+3,15,frozen pizza,8
+3,8,energy sports drinks,2
+3,8,canned meals beans,6
+3,9,coffee,6
+3,18,laundry,4
+3,5,yogurt,4
+3,12,refrigerated,2
+3,13,oils vinegars,8
+3,5,frozen meals,2
+3,16,body lotions soap,2
+3,6,tea,2
+3,16,lunch meat,6
+0,16,soup broth bouillon,30
+0,17,oral hygiene,18
+0,17,milk,66
+0,13,condiments,33
+0,11,more household,6
+0,7,candy chocolate,3
+0,6,frozen meals,6
+0,6,asian foods,3
+1,15,milk,39
+1,11,oils vinegars,6
+1,6,bread,6
+1,10,dry pasta,9
+1,15,spreads,27
+1,8,asian foods,6
+1,11,spices seasonings,3
+2,15,more household,3
+2,5,frozen breakfast,6
+2,4,juice nectars,15
+2,6,canned meals beans,3
+2,21,water seltzer sparkling water,6
+2,17,honeys syrups nectars,6
+3,13,lunch meat,8
+3,22,pickled goods olives,6
+3,15,candy chocolate,12
+3,20,coffee,4
+3,22,soup broth bouillon,6
+3,13,muscles joints pain relief,2
+3,13,oral hygiene,2
+3,4,condiments,2
+0,1,fresh vegetables,24
+0,8,juice nectars,9
+0,9,body lotions soap,12
+0,14,seafood counter,12
+0,17,muscles joints pain relief,3
+0,11,breakfast bakery,27
+0,23,crackers,9
+1,8,missing,6
+1,6,eggs,3
+1,19,frozen breakfast,9
+1,9,latino foods,9
+1,7,hot dogs bacon sausage,6
+1,9,spirits,3
+2,9,yogurt,72
+2,16,baking ingredients,12
+2,9,diapers wipes,3
+2,9,packaged poultry,3
+2,18,prepared meals,3
+2,17,frozen dessert,3
+2,20,cereal,6
+3,17,missing,8
+3,13,baking ingredients,18
+3,13,crackers,24
+3,9,vitamins supplements,2
+3,20,canned meals beans,8
+3,22,nuts seeds dried fruit,2
+0,11,packaged cheese,96
+0,16,instant foods,15
+0,11,canned jarred vegetables,18
+0,19,breakfast bakery,15
+0,10,frozen vegan vegetarian,6
+0,16,granola,9
+0,16,laundry,6
+1,11,yogurt,48
+1,17,cream,21
+1,16,baby food formula,9
+1,9,cereal,66
+1,11,nuts seeds dried fruit,12
+1,20,specialty cheeses,3
+1,7,vitamins supplements,3
+1,8,canned meals beans,12
+2,14,ice cream ice,24
+2,8,preserved dips spreads,6
+2,19,condiments,21
+2,6,packaged cheese,6
+2,8,canned meals beans,15
+2,20,cream,12
+2,18,other creams cheeses,12
+2,10,canned meals beans,15
+2,9,dry pasta,3
+2,7,other,6
+2,8,popcorn jerky,3
+3,13,frozen appetizers sides,6
+3,19,canned fruit applesauce,8
+3,9,oral hygiene,2
+3,20,soft drinks,8
+3,18,spices seasonings,2
+0,15,marinades meat preparation,12
+0,14,fresh vegetables,468
+0,13,cookies cakes,15
+0,15,kitchen supplies,6
+0,17,baby food formula,24
+0,19,canned meals beans,6
+0,13,marinades meat preparation,9
+1,17,candy chocolate,9
+1,10,cream,33
+1,1,fresh vegetables,12
+1,11,tea,12
+1,14,poultry counter,3
+2,22,cereal,9
+2,19,refrigerated,33
+2,9,bread,27
+2,6,packaged vegetables fruits,6
+3,8,packaged poultry,4
+3,18,hot dogs bacon sausage,8
+3,22,other creams cheeses,8
+3,12,pickled goods olives,8
+3,22,yogurt,18
+3,20,lunch meat,4
+3,8,soap,2
+3,9,packaged poultry,6
+3,8,protein meal replacements,2
+3,10,baking ingredients,2
+3,18,buns rolls,2
+0,8,packaged vegetables fruits,126
+0,11,packaged produce,21
+0,8,soy lactosefree,21
+0,14,fresh dips tapenades,24
+0,17,baking ingredients,6
+0,11,beauty,3
+0,9,cookies cakes,6
+1,15,hot dogs bacon sausage,18
+1,20,tofu meat alternatives,3
+1,10,packaged cheese,42
+1,12,energy granola bars,21
+1,9,dry pasta,6
+1,19,fresh dips tapenades,18
+1,9,cat food care,3
+2,9,packaged vegetables fruits,87
+2,16,packaged cheese,45
+2,6,refrigerated,3
+3,15,baking ingredients,16
+3,10,fruit vegetable snacks,8
+3,9,ice cream toppings,2
+3,7,soy lactosefree,2
+3,0,laundry,4
+3,17,trash bags liners,4
+3,15,food storage,2
+3,22,baby accessories,2
+3,0,eggs,4
+3,8,cream,10
+0,16,water seltzer sparkling water,42
+0,10,yogurt,156
+0,18,refrigerated,24
+0,5,packaged cheese,3
+0,16,vitamins supplements,3
+0,16,frozen breads doughs,3
+1,21,fresh fruits,81
+1,20,packaged vegetables fruits,60
+1,12,soy lactosefree,21
+1,12,nuts seeds dried fruit,6
+1,10,dish detergents,3
+1,20,tea,6
+1,19,digestion,3
+1,22,canned fruit applesauce,3
+1,8,vitamins supplements,6
+2,12,instant foods,12
+2,7,nuts seeds dried fruit,9
+2,15,hot dogs bacon sausage,3
+2,20,tea,3
+2,2,eggs,3
+2,0,lunch meat,3
+2,23,energy sports drinks,3
+2,11,cat food care,3
+2,15,hair care,9
+2,12,bulk dried fruits vegetables,3
+3,15,chips pretzels,18
+3,7,condiments,4
+3,23,tortillas flat bread,4
+3,5,fruit vegetable snacks,2
+3,15,lunch meat,16
+3,7,canned meat seafood,4
+3,9,food storage,2
+3,20,spices seasonings,4
+3,20,baby food formula,4
+3,13,first aid,2
+3,9,breakfast bakery,4
+0,19,yogurt,63
+0,15,packaged poultry,15
+0,15,soft drinks,9
+0,16,juice nectars,30
+0,13,plates bowls cups flatware,3
+0,18,cookies cakes,9
+0,17,fruit vegetable snacks,3
+0,7,meat counter,3
+1,11,frozen produce,18
+1,21,canned fruit applesauce,3
+1,12,breakfast bakery,6
+1,15,cocoa drink mixes,6
+1,10,beers coolers,3
+2,9,canned meals beans,21
+2,8,fresh herbs,12
+2,13,granola,15
+2,22,marinades meat preparation,6
+2,11,tortillas flat bread,6
+2,8,soft drinks,6
+2,10,canned jarred vegetables,12
+2,4,tortillas flat bread,3
+3,8,milk,30
+3,14,hot dogs bacon sausage,4
+3,22,chips pretzels,14
+3,0,frozen breakfast,4
+3,8,spreads,4
+3,17,fresh dips tapenades,8
+3,2,cleaning products,4
+3,21,packaged produce,2
+0,12,spreads,33
+0,22,canned meals beans,3
+0,6,candy chocolate,3
+0,6,laundry,3
+0,16,frozen pizza,12
+0,20,refrigerated,12
+0,19,oils vinegars,9
+1,8,fresh vegetables,129
+1,14,water seltzer sparkling water,78
+1,16,crackers,54
+1,8,refrigerated,36
+1,15,packaged poultry,6
+1,9,seafood counter,3
+1,8,granola,3
+1,0,milk,3
+2,18,cookies cakes,24
+2,18,preserved dips spreads,12
+2,14,digestion,6
+2,18,frozen breads doughs,3
+2,17,kosher foods,3
+3,16,prepared meals,6
+3,14,grains rice dried goods,4
+3,16,buns rolls,6
+3,13,juice nectars,10
+3,9,frozen appetizers sides,4
+3,9,hair care,2
+3,14,kitchen supplies,2
+0,10,tortillas flat bread,9
+0,13,frozen meals,27
+0,14,lunch meat,39
+0,14,other,9
+0,10,water seltzer sparkling water,81
+0,1,lunch meat,3
+0,15,frozen vegan vegetarian,24
+0,17,packaged cheese,66
+0,19,canned meat seafood,3
+0,22,kitchen supplies,3
+0,2,refrigerated,3
+0,0,fresh vegetables,12
+1,17,butter,3
+1,13,oils vinegars,6
+1,7,salad dressing toppings,6
+1,14,packaged poultry,9
+1,10,soy lactosefree,24
+1,21,eggs,3
+1,14,other,6
+2,8,water seltzer sparkling water,33
+2,22,cookies cakes,6
+2,20,honeys syrups nectars,3
+2,10,coffee,9
+2,4,dry pasta,3
+2,10,butter,9
+3,23,milk,8
+3,19,cookies cakes,8
+3,17,canned meat seafood,2
+3,20,pasta sauce,4
+3,20,mint gum,2
+3,20,feminine care,2
+3,20,food storage,2
+0,12,coffee,39
+0,13,tortillas flat bread,27
+0,14,canned fruit applesauce,9
+0,11,frozen appetizers sides,36
+0,21,instant foods,15
+0,12,frozen pizza,36
+0,15,coffee,18
+0,22,canned jarred vegetables,9
+0,11,oral hygiene,9
+0,7,water seltzer sparkling water,6
+0,19,eye ear care,3
+0,19,pasta sauce,18
+0,16,bulk dried fruits vegetables,3
+1,17,nuts seeds dried fruit,21
+1,9,fruit vegetable snacks,15
+1,1,pickled goods olives,6
+1,18,fresh herbs,15
+1,0,paper goods,3
+2,7,water seltzer sparkling water,21
+2,18,facial care,3
+2,10,kitchen supplies,3
+2,20,nuts seeds dried fruit,9
+2,9,baking ingredients,12
+2,17,frozen meat seafood,3
+2,16,facial care,3
+2,17,packaged meat,3
+2,0,dog food care,3
+2,10,ice cream toppings,3
+2,17,paper goods,3
+3,16,facial care,2
+3,23,ice cream ice,8
+3,9,baking ingredients,6
+3,13,cleaning products,10
+3,10,grains rice dried goods,4
+3,18,canned jarred vegetables,6
+3,16,baby food formula,6
+3,16,hot cereal pancake mixes,6
+3,16,digestion,2
+3,1,breakfast bakery,4
+3,15,hot dogs bacon sausage,2
+0,16,breakfast bakery,30
+0,17,yogurt,105
+0,19,frozen produce,15
+0,17,packaged produce,12
+0,11,honeys syrups nectars,9
+0,13,fruit vegetable snacks,6
+0,22,spreads,6
+0,0,frozen dessert,3
+0,12,kosher foods,3
+1,6,ice cream ice,9
+1,10,hot dogs bacon sausage,6
+2,7,canned jarred vegetables,3
+2,0,fresh fruits,15
+2,19,energy sports drinks,15
+2,8,frozen meat seafood,3
+2,16,dry pasta,15
+2,9,baby food formula,33
+2,15,air fresheners candles,3
+2,14,packaged poultry,3
+3,15,coffee,6
+3,7,dry pasta,6
+3,16,milk,12
+3,11,eggs,4
+3,22,candy chocolate,6
+3,15,instant foods,16
+0,14,salad dressing toppings,15
+0,14,oils vinegars,18
+0,17,pasta sauce,30
+0,7,nuts seeds dried fruit,12
+0,2,eggs,3
+0,16,diapers wipes,3
+1,15,oral hygiene,6
+1,13,canned jarred vegetables,42
+1,18,soap,6
+1,13,frozen breads doughs,6
+1,17,trail mix snack mix,3
+1,14,preserved dips spreads,15
+1,11,energy sports drinks,3
+2,21,fresh vegetables,33
+2,12,bread,15
+2,22,fresh fruits,39
+2,9,baby accessories,3
+2,10,doughs gelatins bake mixes,9
+2,14,condiments,12
+2,18,coffee,6
+2,23,popcorn jerky,3
+3,0,packaged produce,2
+3,19,breakfast bakery,8
+3,19,trash bags liners,2
+3,17,breakfast bakery,6
+3,14,ice cream ice,18
+3,17,canned jarred vegetables,10
+3,13,spirits,4
+3,15,frozen breakfast,4
+0,8,fresh vegetables,141
+0,12,instant foods,24
+0,12,chips pretzels,72
+0,16,cleaning products,21
+0,5,milk,3
+0,21,popcorn jerky,3
+0,17,seafood counter,6
+0,19,frozen breads doughs,3
+0,12,shave needs,3
+1,17,chips pretzels,45
+1,13,packaged cheese,36
+1,10,preserved dips spreads,6
+1,14,ice cream ice,24
+1,9,spreads,18
+1,9,buns rolls,6
+1,23,prepared meals,3
+2,13,yogurt,129
+2,14,water seltzer sparkling water,93
+2,9,paper goods,21
+2,14,soy lactosefree,48
+2,6,vitamins supplements,6
+2,12,lunch meat,18
+2,22,bread,6
+2,20,other,3
+2,19,soft drinks,6
+2,10,prepared meals,9
+2,16,red wines,9
+2,7,grains rice dried goods,6
+2,23,energy granola bars,6
+2,20,breakfast bars pastries,3
+3,9,eggs,10
+3,10,popcorn jerky,10
+3,14,canned fruit applesauce,2
+3,7,canned fruit applesauce,2
+3,16,packaged cheese,20
+3,14,dry pasta,14
+3,18,juice nectars,8
+3,20,fresh pasta,2
+0,16,other creams cheeses,33
+0,15,cream,33
+0,12,packaged produce,6
+0,17,soy lactosefree,39
+0,13,frozen appetizers sides,45
+0,9,spreads,15
+0,18,other creams cheeses,18
+0,11,spreads,33
+1,16,diapers wipes,3
+1,8,oils vinegars,18
+1,16,fruit vegetable snacks,15
+1,16,eggs,30
+1,7,fruit vegetable snacks,3
+1,18,trash bags liners,6
+1,16,feminine care,6
+2,12,specialty cheeses,9
+2,13,ice cream ice,15
+2,22,packaged cheese,36
+2,10,frozen meals,24
+2,9,cream,27
+2,19,tortillas flat bread,9
+2,13,dry pasta,9
+2,5,laundry,3
+2,13,beers coolers,6
+3,19,instant foods,6
+3,19,soy lactosefree,8
+3,16,dish detergents,4
+3,6,fresh vegetables,12
+3,12,honeys syrups nectars,2
+3,15,other creams cheeses,6
+3,10,breakfast bars pastries,4
+0,16,packaged vegetables fruits,210
+0,19,crackers,24
+0,22,dry pasta,3
+0,11,breakfast bars pastries,9
+0,5,spices seasonings,3
+0,18,chips pretzels,24
+0,14,baking supplies decor,3
+0,8,buns rolls,9
+0,11,latino foods,12
+0,11,other creams cheeses,36
+0,6,canned meals beans,3
+0,20,pasta sauce,6
+0,18,granola,6
+0,20,soup broth bouillon,9
+0,18,dog food care,3
+0,6,oral hygiene,3
+1,16,packaged meat,3
+1,20,crackers,36
+1,1,packaged vegetables fruits,18
+1,6,frozen breakfast,3
+1,9,pickled goods olives,3
+2,10,nuts seeds dried fruit,21
+2,6,fresh dips tapenades,3
+2,16,salad dressing toppings,3
+2,20,specialty cheeses,3
+3,8,frozen breakfast,6
+3,17,fresh herbs,10
+3,13,pasta sauce,16
+3,11,other creams cheeses,8
+3,14,soap,2
+3,9,granola,2
+3,9,frozen breads doughs,2
+3,15,refrigerated,6
+3,15,spreads,10
+3,22,missing,2
+0,22,spices seasonings,3
+0,11,eggs,66
+0,15,dog food care,3
+0,22,coffee,9
+0,18,fruit vegetable snacks,6
+0,19,buns rolls,9
+0,20,packaged vegetables fruits,51
+0,10,preserved dips spreads,9
+0,16,salad dressing toppings,3
+1,13,crackers,15
+1,12,popcorn jerky,12
+1,10,frozen pizza,15
+1,18,candy chocolate,6
+1,17,breakfast bakery,15
+1,12,other creams cheeses,3
+1,8,breakfast bars pastries,3
+2,21,crackers,6
+2,16,yogurt,60
+2,7,canned meat seafood,3
+2,21,baking ingredients,6
+2,19,pickled goods olives,3
+2,17,missing,9
+2,13,packaged produce,12
+2,2,fresh vegetables,9
+2,4,frozen meals,9
+3,17,instant foods,8
+3,13,feminine care,2
+3,0,preserved dips spreads,2
+3,8,fresh herbs,4
+3,16,soup broth bouillon,4
+3,20,cream,2
+3,17,laundry,6
+0,13,fresh dips tapenades,36
+0,21,energy granola bars,12
+0,21,tortillas flat bread,3
+0,15,asian foods,27
+0,12,frozen appetizers sides,9
+0,0,canned meals beans,3
+0,10,cat food care,3
+0,23,juice nectars,6
+0,6,instant foods,3
+1,11,packaged cheese,42
+1,17,cookies cakes,6
+1,11,fruit vegetable snacks,6
+1,10,yogurt,72
+1,7,frozen produce,15
+1,11,soup broth bouillon,18
+1,8,cookies cakes,9
+1,13,other,3
+2,16,ice cream ice,18
+2,7,dry pasta,6
+2,11,candy chocolate,27
+2,19,canned meat seafood,3
+2,10,bakery desserts,6
+2,0,packaged produce,3
+2,11,vitamins supplements,3
+2,10,cat food care,6
+3,13,water seltzer sparkling water,26
+3,9,packaged vegetables fruits,22
+3,21,crackers,6
+3,14,white wines,2
+3,16,butter,4
+0,19,fresh vegetables,144
+0,15,yogurt,102
+0,11,tofu meat alternatives,30
+0,11,yogurt,162
+0,11,tortillas flat bread,18
+0,12,canned jarred vegetables,33
+0,15,energy granola bars,54
+0,22,crackers,3
+0,17,diapers wipes,3
+0,8,frozen vegan vegetarian,3
+1,10,nuts seeds dried fruit,30
+1,16,juice nectars,12
+1,21,spreads,9
+1,8,frozen appetizers sides,21
+1,9,soap,3
+2,15,canned meat seafood,6
+2,7,frozen breakfast,15
+2,18,packaged cheese,45
+2,7,baby bath body care,3
+2,4,fresh dips tapenades,9
+3,19,missing,4
+3,7,trail mix snack mix,2
+3,6,packaged poultry,2
+3,9,beers coolers,4
+3,15,latino foods,2
+3,8,meat counter,4
+3,22,tortillas flat bread,2
+0,15,fresh vegetables,420
+0,11,milk,78
+0,14,frozen appetizers sides,24
+0,21,pickled goods olives,6
+0,6,crackers,3
+1,19,fresh herbs,6
+1,13,eggs,15
+1,20,soft drinks,12
+1,13,tortillas flat bread,6
+1,8,lunch meat,9
+1,17,preserved dips spreads,6
+2,15,latino foods,12
+2,19,milk,27
+2,11,body lotions soap,9
+2,20,hot cereal pancake mixes,12
+2,17,meat counter,3
+2,12,cereal,18
+2,18,granola,6
+2,11,specialty cheeses,3
+3,22,trail mix snack mix,4
+3,14,fresh vegetables,96
+3,15,mint gum,4
+3,14,marinades meat preparation,2
+3,7,hot cereal pancake mixes,4
+3,6,packaged cheese,2
+3,14,fresh dips tapenades,4
+3,14,prepared meals,2
+3,11,food storage,4
+3,17,first aid,2
+3,8,beers coolers,2
+3,20,digestion,2
+3,0,energy granola bars,2
+0,8,fruit vegetable snacks,18
+0,13,fresh fruits,327
+0,18,fresh vegetables,189
+0,21,buns rolls,3
+0,13,canned meals beans,48
+0,7,soft drinks,12
+0,12,doughs gelatins bake mixes,6
+1,17,frozen meals,12
+1,11,other,3
+1,9,breakfast bakery,12
+1,16,cream,9
+1,15,packaged produce,21
+1,17,frozen vegan vegetarian,9
+1,16,tea,6
+1,19,salad dressing toppings,15
+2,22,asian foods,3
+2,8,breakfast bakery,24
+2,5,marinades meat preparation,3
+2,18,doughs gelatins bake mixes,3
+3,11,bread,16
+3,18,beers coolers,6
+3,17,diapers wipes,2
+0,10,refrigerated,60
+0,10,dish detergents,12
+0,12,seafood counter,3
+0,8,tea,12
+0,20,fresh herbs,6
+0,18,popcorn jerky,6
+0,12,bulk grains rice dried goods,3
+0,8,oils vinegars,12
+0,0,packaged vegetables fruits,18
+0,14,more household,3
+1,21,soy lactosefree,27
+1,18,packaged produce,12
+1,23,laundry,3
+1,12,canned fruit applesauce,3
+1,7,poultry counter,3
+1,7,soap,3
+1,7,water seltzer sparkling water,6
+1,12,frozen breads doughs,3
+2,10,tea,24
+2,7,laundry,3
+2,18,cream,6
+2,23,refrigerated,6
+2,22,tortillas flat bread,6
+3,19,bread,22
+3,13,frozen meals,22
+3,20,cleaning products,2
+3,16,cookies cakes,4
+0,22,butter,3
+0,16,frozen vegan vegetarian,9
+0,16,popcorn jerky,27
+0,18,hair care,3
+0,11,pasta sauce,33
+0,17,energy sports drinks,9
+0,2,canned meals beans,3
+0,12,honeys syrups nectars,9
+0,8,canned fruit applesauce,6
+0,8,honeys syrups nectars,6
+0,20,protein meal replacements,3
+0,13,deodorants,3
+0,19,indian foods,3
+1,12,fresh herbs,30
+1,20,frozen breakfast,9
+1,18,ice cream ice,9
+1,23,hair care,6
+1,20,canned meals beans,3
+1,11,frozen meals,3
+2,13,milk,42
+2,23,kitchen supplies,3
+2,17,cookies cakes,21
+2,9,granola,12
+2,14,asian foods,12
+2,12,prepared meals,9
+2,13,doughs gelatins bake mixes,6
+2,9,instant foods,9
+2,16,canned meals beans,3
+2,18,frozen appetizers sides,9
+3,19,milk,26
+3,23,fresh fruits,30
+3,7,other creams cheeses,6
+3,10,packaged cheese,14
+3,22,frozen vegan vegetarian,2
+3,6,dish detergents,2
+3,18,bulk dried fruits vegetables,2
+0,0,packaged cheese,9
+0,19,frozen pizza,12
+0,10,spreads,21
+0,21,candy chocolate,6
+0,15,cookies cakes,15
+0,14,protein meal replacements,6
+0,8,water seltzer sparkling water,33
+0,20,canned meals beans,6
+0,20,cookies cakes,6
+0,12,granola,3
+0,23,energy sports drinks,6
+0,23,meat counter,6
+1,1,lunch meat,6
+1,21,tortillas flat bread,6
+1,15,packaged meat,3
+1,15,pasta sauce,12
+1,12,baking ingredients,9
+1,10,body lotions soap,6
+2,13,fresh vegetables,198
+2,18,canned jarred vegetables,30
+2,17,frozen pizza,12
+2,19,yogurt,27
+2,11,energy sports drinks,24
+2,22,ice cream ice,24
+2,22,hot cereal pancake mixes,3
+2,9,first aid,3
+2,18,buns rolls,3
+2,20,frozen appetizers sides,3
+3,15,soft drinks,14
+3,18,lunch meat,16
+3,5,eggs,2
+3,17,ice cream toppings,2
+3,18,hot cereal pancake mixes,4
+0,5,buns rolls,3
+0,21,breakfast bakery,6
+0,17,chips pretzels,15
+0,9,fruit vegetable snacks,12
+1,11,frozen pizza,15
+1,14,oral hygiene,3
+1,19,oils vinegars,3
+1,9,tofu meat alternatives,12
+2,12,ice cream ice,27
+2,18,canned fruit applesauce,9
+2,13,missing,21
+2,22,crackers,27
+2,22,poultry counter,3
+2,13,meat counter,3
+2,14,missing,9
+2,10,canned fruit applesauce,3
+2,19,frozen pizza,3
+2,14,tofu meat alternatives,9
+3,23,energy sports drinks,2
+3,19,frozen meat seafood,2
+3,14,packaged produce,2
+3,21,packaged cheese,6
+3,12,canned meat seafood,4
+0,8,paper goods,18
+0,9,fresh vegetables,258
+0,13,hot dogs bacon sausage,24
+0,18,pasta sauce,18
+0,8,bread,24
+0,8,energy sports drinks,6
+0,16,hot dogs bacon sausage,24
+0,9,prepared meals,12
+0,16,tofu meat alternatives,18
+0,11,feminine care,3
+1,9,ice cream ice,21
+1,16,tofu meat alternatives,15
+1,12,yogurt,51
+1,14,eggs,18
+1,13,prepared soups salads,6
+1,7,spreads,12
+2,15,dry pasta,21
+2,19,cereal,6
+2,17,fresh herbs,9
+2,16,frozen breakfast,3
+2,14,dry pasta,9
+2,4,cereal,12
+2,17,hot dogs bacon sausage,9
+2,9,prepared meals,3
+3,7,yogurt,10
+3,5,laundry,2
+3,19,chips pretzels,12
+3,2,fresh vegetables,16
+3,15,baby bath body care,4
+0,12,missing,33
+0,10,nuts seeds dried fruit,18
+0,13,frozen breakfast,21
+0,14,frozen breakfast,24
+0,19,honeys syrups nectars,6
+0,8,frozen breakfast,9
+0,20,fresh fruits,84
+0,22,condiments,6
+0,13,canned meat seafood,9
+0,9,protein meal replacements,6
+0,15,prepared meals,6
+0,13,tea,12
+0,0,bakery desserts,3
+1,15,packaged vegetables fruits,114
+1,17,packaged produce,15
+1,11,frozen dessert,6
+1,16,seafood counter,3
+1,10,grains rice dried goods,3
+1,10,buns rolls,3
+2,18,fresh vegetables,252
+2,15,packaged vegetables fruits,51
+2,15,grains rice dried goods,12
+2,10,refrigerated,27
+2,11,ice cream ice,27
+2,18,fruit vegetable snacks,15
+2,13,frozen dessert,3
+2,19,baking ingredients,15
+2,15,laundry,6
+3,8,missing,4
+3,17,milk,26
+3,7,milk,12
+3,14,cereal,8
+3,18,frozen meals,10
+3,22,condiments,2
+0,10,fruit vegetable snacks,27
+0,12,hot cereal pancake mixes,12
+0,7,frozen meals,9
+0,16,cat food care,9
+0,19,doughs gelatins bake mixes,6
+0,20,frozen meat seafood,6
+1,18,packaged cheese,27
+1,22,baby food formula,3
+1,9,juice nectars,21
+1,19,yogurt,21
+1,13,cream,9
+1,20,juice nectars,3
+2,14,food storage,3
+2,7,energy granola bars,15
+2,17,milk,33
+2,8,packaged poultry,3
+2,14,oral hygiene,6
+2,12,dog food care,3
+2,22,frozen breakfast,3
+2,6,butter,3
+2,8,prepared meals,3
+3,22,hot cereal pancake mixes,2
+3,12,vitamins supplements,4
+3,10,paper goods,6
+3,20,tofu meat alternatives,4
+3,20,spreads,4
+3,10,tea,8
+3,6,buns rolls,2
+3,8,laundry,4
+0,19,packaged poultry,9
+0,22,other creams cheeses,6
+0,9,hot cereal pancake mixes,15
+0,8,air fresheners candles,3
+0,17,honeys syrups nectars,3
+0,7,breakfast bakery,12
+0,20,packaged meat,6
+0,20,laundry,3
+1,10,chips pretzels,33
+1,21,packaged cheese,33
+1,12,air fresheners candles,3
+1,0,dry pasta,3
+1,11,coffee,12
+1,8,energy sports drinks,9
+2,9,prepared soups salads,3
+2,7,instant foods,12
+2,19,frozen vegan vegetarian,12
+2,0,packaged vegetables fruits,3
+2,11,feminine care,3
+2,7,refrigerated,9
+2,20,milk,6
+2,20,cookies cakes,6
+2,15,body lotions soap,3
+3,12,butter,8
+3,5,packaged cheese,2
+3,23,soup broth bouillon,2
+3,16,crackers,6
+3,11,chips pretzels,22
+3,1,packaged produce,2
+0,15,tofu meat alternatives,21
+0,12,canned meals beans,36
+0,8,breakfast bakery,6
+0,19,lunch meat,9
+1,10,popcorn jerky,12
+1,6,soup broth bouillon,6
+1,16,condiments,6
+1,10,fresh pasta,3
+1,2,fresh vegetables,27
+2,13,water seltzer sparkling water,60
+2,11,juice nectars,6
+2,17,tofu meat alternatives,12
+2,10,honeys syrups nectars,3
+2,11,salad dressing toppings,6
+2,8,butter,3
+2,20,asian foods,9
+2,18,vitamins supplements,3
+2,14,hair care,3
+3,15,frozen appetizers sides,2
+3,17,refrigerated,12
+3,8,fruit vegetable snacks,2
+3,10,frozen produce,14
+3,11,pasta sauce,2
+3,13,specialty wines champagnes,2
+3,16,specialty wines champagnes,4
+0,10,packaged cheese,114
+0,13,packaged meat,3
+0,11,crackers,51
+0,13,oils vinegars,21
+0,21,canned fruit applesauce,9
+0,9,pickled goods olives,6
+0,13,first aid,3
+0,7,asian foods,3
+0,9,plates bowls cups flatware,3
+0,23,cookies cakes,9
+0,12,digestion,3
+1,9,fresh fruits,198
+1,16,fresh vegetables,198
+1,5,milk,3
+1,13,breakfast bars pastries,6
+1,13,food storage,12
+1,13,condiments,6
+1,10,coffee,6
+1,15,honeys syrups nectars,12
+1,9,laundry,6
+1,8,food storage,3
+1,8,ice cream ice,3
+2,19,buns rolls,6
+2,6,skin care,3
+2,17,cleaning products,3
+3,23,more household,2
+3,16,canned jarred vegetables,14
+3,19,other,2
+3,21,candy chocolate,4
+3,16,beers coolers,10
+3,22,honeys syrups nectars,2
+3,10,hot cereal pancake mixes,8
+3,23,missing,2
+0,13,cocoa drink mixes,3
+0,19,other creams cheeses,9
+0,2,soy lactosefree,6
+0,12,frozen breakfast,15
+0,18,indian foods,3
+0,20,baking supplies decor,3
+0,20,buns rolls,12
+0,21,salad dressing toppings,3
+1,11,packaged produce,27
+1,11,crackers,18
+1,13,fresh dips tapenades,6
+1,8,meat counter,3
+2,14,canned jarred vegetables,15
+2,19,frozen produce,15
+2,20,chips pretzels,15
+2,13,canned fruit applesauce,6
+2,11,poultry counter,6
+2,5,chips pretzels,3
+2,10,frozen pizza,6
+2,8,frozen pizza,3
+3,16,oils vinegars,10
+3,14,hair care,2
+3,0,hot cereal pancake mixes,4
+3,20,frozen meals,10
+0,1,butter,3
+0,18,hot cereal pancake mixes,3
+0,9,deodorants,6
+0,8,body lotions soap,3
+0,10,grains rice dried goods,9
+0,5,hot cereal pancake mixes,3
+0,10,bakery desserts,3
+1,15,breakfast bakery,15
+1,18,preserved dips spreads,6
+1,11,vitamins supplements,6
+2,21,packaged vegetables fruits,24
+2,14,cold flu allergy,3
+2,15,preserved dips spreads,6
+2,11,asian foods,3
+2,15,cold flu allergy,3
+2,13,diapers wipes,3
+3,19,fresh vegetables,64
+3,23,condiments,4
+3,21,kitchen supplies,2
+3,18,packaged seafood,2
+0,14,crackers,42
+0,18,lunch meat,21
+0,8,fresh herbs,12
+0,6,frozen appetizers sides,3
+0,22,nuts seeds dried fruit,3
+0,10,salad dressing toppings,3
+0,12,fresh pasta,6
+0,0,popcorn jerky,3
+1,5,hot dogs bacon sausage,3
+1,14,packaged cheese,63
+1,21,cold flu allergy,3
+1,12,packaged cheese,36
+1,7,packaged vegetables fruits,33
+1,12,vitamins supplements,3
+1,17,frozen dessert,3
+1,16,prepared soups salads,3
+1,7,nuts seeds dried fruit,3
+1,9,packaged meat,3
+2,12,soft drinks,15
+2,6,milk,3
+2,17,packaged poultry,6
+2,7,soy lactosefree,27
+2,14,candy chocolate,48
+2,14,poultry counter,6
+2,21,milk,3
+3,19,meat counter,2
+3,2,candy chocolate,4
+0,6,packaged vegetables fruits,12
+0,21,hot dogs bacon sausage,3
+0,7,fresh dips tapenades,18
+0,16,facial care,3
+0,9,coffee,12
+0,0,nuts seeds dried fruit,3
+1,11,fresh herbs,18
+1,16,fresh dips tapenades,18
+1,19,lunch meat,12
+1,16,laundry,9
+1,15,eggs,27
+1,18,soft drinks,15
+1,12,paper goods,6
+1,23,vitamins supplements,6
+1,7,breakfast bakery,9
+1,16,food storage,3
+1,12,spices seasonings,6
+1,12,condiments,3
+2,14,oils vinegars,15
+2,14,lunch meat,24
+2,8,ice cream ice,24
+2,11,soy lactosefree,18
+2,19,spices seasonings,30
+2,18,deodorants,3
+3,11,canned meals beans,8
+3,6,fruit vegetable snacks,2
+3,17,food storage,6
+0,21,packaged vegetables fruits,36
+0,16,body lotions soap,15
+0,1,bakery desserts,3
+0,15,chips pretzels,63
+0,16,canned fruit applesauce,12
+0,10,energy granola bars,57
+0,8,feminine care,6
+0,11,baking ingredients,21
+0,21,meat counter,6
+0,3,ice cream ice,3
+0,23,dry pasta,3
+0,14,deodorants,3
+1,14,missing,15
+1,10,digestion,3
+1,7,fresh pasta,6
+1,7,canned meat seafood,3
+1,19,packaged poultry,9
+2,22,prepared meals,3
+2,11,beers coolers,6
+2,11,cookies cakes,27
+2,16,nuts seeds dried fruit,12
+2,11,canned meals beans,6
+2,13,cream,21
+2,7,packaged seafood,3
+2,8,cold flu allergy,3
+2,15,deodorants,3
+3,12,fresh vegetables,56
+3,11,dry pasta,4
+3,12,fresh dips tapenades,6
+3,17,spices seasonings,2
+0,10,fresh herbs,63
+0,14,spices seasonings,12
+0,17,granola,9
+0,8,chips pretzels,30
+0,7,refrigerated,12
+0,14,packaged produce,27
+0,20,asian foods,3
+0,23,hot dogs bacon sausage,3
+1,14,hot dogs bacon sausage,12
+1,12,canned jarred vegetables,12
+1,15,refrigerated,42
+1,12,food storage,3
+1,10,soup broth bouillon,21
+1,12,cleaning products,3
+1,14,spices seasonings,3
+2,12,frozen meals,15
+2,17,packaged vegetables fruits,60
+2,12,cleaning products,12
+2,2,baby food formula,18
+2,14,buns rolls,3
+2,15,red wines,3
+3,13,digestion,2
+3,17,tea,2
+3,2,frozen produce,2
+3,11,canned meat seafood,2
+3,16,breakfast bars pastries,2
+3,23,first aid,6
+0,18,poultry counter,6
+0,13,paper goods,45
+0,8,frozen meat seafood,6
+0,15,popcorn jerky,12
+0,19,juice nectars,15
+0,23,nuts seeds dried fruit,3
+1,18,packaged vegetables fruits,81
+1,16,fresh herbs,12
+1,19,bread,30
+1,17,spreads,27
+1,14,cereal,27
+1,21,frozen vegan vegetarian,9
+1,20,fresh herbs,3
+1,7,coffee,3
+1,7,grains rice dried goods,3
+1,16,packaged produce,9
+1,12,baby food formula,18
+1,20,cold flu allergy,3
+2,10,packaged vegetables fruits,48
+2,17,refrigerated,30
+2,22,fresh dips tapenades,12
+2,11,hair care,3
+2,17,soup broth bouillon,24
+2,16,tortillas flat bread,9
+2,21,muscles joints pain relief,3
+2,18,spreads,18
+2,15,prepared meals,3
+2,6,fresh vegetables,9
+3,13,fresh vegetables,136
+3,16,instant foods,10
+3,11,spices seasonings,4
+3,7,preserved dips spreads,2
+3,8,lunch meat,6
+3,12,laundry,2
+3,7,poultry counter,2
+3,19,spirits,2
+0,18,fresh herbs,21
+0,10,tea,6
+0,9,cream,27
+0,17,instant foods,45
+0,17,lunch meat,36
+0,9,eggs,27
+0,11,missing,9
+0,18,frozen breakfast,3
+0,14,food storage,3
+0,3,packaged vegetables fruits,12
+0,7,bread,12
+0,16,candy chocolate,24
+0,19,protein meal replacements,3
+1,16,oils vinegars,12
+1,11,food storage,3
+1,8,cream,24
+1,7,frozen appetizers sides,18
+1,20,fresh dips tapenades,6
+1,15,canned meat seafood,3
+1,11,soap,3
+2,11,coffee,18
+2,7,paper goods,15
+2,19,candy chocolate,12
+2,20,paper goods,15
+2,20,refrigerated,21
+2,16,soup broth bouillon,9
+2,13,canned jarred vegetables,24
+3,19,pasta sauce,2
+3,15,other,6
+3,0,chips pretzels,2
+3,10,frozen meat seafood,6
+3,21,frozen pizza,2
+3,20,tea,2
+3,13,grains rice dried goods,4
+3,1,dish detergents,2
+0,11,frozen produce,63
+0,0,lunch meat,3
+0,10,popcorn jerky,12
+0,10,pickled goods olives,9
+0,18,frozen appetizers sides,15
+0,17,canned meat seafood,6
+0,12,body lotions soap,3
+0,13,canned fruit applesauce,9
+0,21,canned jarred vegetables,3
+0,0,hot dogs bacon sausage,3
+1,17,baking ingredients,12
+1,18,lunch meat,30
+1,8,dish detergents,3
+1,9,grains rice dried goods,3
+1,19,soft drinks,9
+2,10,milk,33
+2,9,crackers,18
+2,13,cereal,12
+2,15,fresh herbs,15
+2,9,frozen meat seafood,3
+2,4,chips pretzels,6
+2,0,frozen produce,3
+2,14,fruit vegetable snacks,3
+3,1,buns rolls,2
+3,1,instant foods,2
+0,8,packaged cheese,33
+0,16,butter,33
+0,1,meat counter,3
+1,18,frozen dessert,3
+1,13,meat counter,6
+1,14,seafood counter,6
+1,20,preserved dips spreads,3
+2,8,other creams cheeses,12
+2,14,yogurt,60
+2,11,chips pretzels,42
+2,12,pasta sauce,12
+2,7,ice cream ice,6
+2,18,nuts seeds dried fruit,15
+2,13,red wines,6
+3,19,yogurt,24
+3,14,tortillas flat bread,4
+3,9,breakfast bars pastries,2
+3,21,popcorn jerky,2
+3,23,canned fruit applesauce,2
+3,22,frozen appetizers sides,2
+0,16,poultry counter,24
+0,17,poultry counter,15
+0,5,fresh fruits,51
+0,10,plates bowls cups flatware,6
+0,20,chips pretzels,9
+0,17,dry pasta,18
+0,6,fresh dips tapenades,6
+0,20,spreads,9
+0,20,lunch meat,18
+0,11,air fresheners candles,3
+1,18,bread,21
+1,10,frozen meals,36
+1,9,packaged cheese,45
+1,18,cereal,21
+1,21,breakfast bakery,3
+1,15,crackers,24
+1,6,fruit vegetable snacks,3
+1,9,other,6
+1,17,granola,6
+1,19,spices seasonings,6
+2,13,soft drinks,24
+2,21,fresh fruits,33
+2,18,juice nectars,18
+2,8,oils vinegars,12
+2,16,tea,18
+2,7,lunch meat,12
+2,7,granola,3
+2,13,grains rice dried goods,3
+2,13,hot cereal pancake mixes,12
+2,5,baking ingredients,3
+3,9,frozen vegan vegetarian,4
+3,19,butter,10
+3,5,chips pretzels,10
+3,16,frozen breakfast,6
+3,19,preserved dips spreads,2
+0,15,soy lactosefree,48
+0,19,spices seasonings,9
+0,22,fresh vegetables,78
+0,16,crackers,72
+0,15,breakfast bars pastries,6
+0,19,prepared meals,3
+1,15,tortillas flat bread,15
+1,13,paper goods,24
+1,12,frozen produce,21
+1,13,frozen dessert,3
+1,11,spirits,3
+1,9,prepared meals,3
+1,14,cocoa drink mixes,3
+2,18,refrigerated,12
+2,15,poultry counter,18
+2,18,packaged vegetables fruits,114
+2,14,fresh herbs,39
+2,12,refrigerated pudding desserts,3
+2,18,soup broth bouillon,9
+2,16,cream,12
+2,14,granola,3
+2,16,spices seasonings,15
+2,14,marinades meat preparation,3
+2,16,coffee,3
+2,20,air fresheners candles,3
+2,10,specialty cheeses,3
+3,11,ice cream ice,6
+3,22,eggs,4
+3,0,tea,2
+0,14,breakfast bakery,18
+0,16,buns rolls,21
+0,16,chips pretzels,99
+0,23,cream,6
+0,16,pasta sauce,36
+0,9,butter,27
+0,14,butter,9
+0,22,breakfast bakery,9
+0,22,fresh herbs,3
+0,0,meat counter,3
+1,10,lunch meat,24
+1,17,frozen pizza,15
+1,19,frozen meals,15
+1,15,juice nectars,33
+1,23,butter,3
+2,21,condiments,9
+2,9,laundry,12
+2,13,buns rolls,6
+2,10,soy lactosefree,30
+2,4,frozen produce,3
+2,4,paper goods,6
+3,12,fruit vegetable snacks,4
+3,6,prepared soups salads,4
+3,13,instant foods,12
+3,16,breakfast bakery,10
+3,8,specialty cheeses,2
+3,7,fresh dips tapenades,2
+0,18,frozen produce,24
+0,16,preserved dips spreads,18
+0,14,juice nectars,33
+0,14,candy chocolate,21
+0,18,dish detergents,3
+0,10,dry pasta,24
+0,13,eye ear care,3
+0,6,oils vinegars,9
+0,23,cereal,3
+1,15,baking ingredients,24
+1,16,cereal,24
+1,13,juice nectars,24
+1,20,yogurt,27
+1,10,crackers,21
+1,12,facial care,3
+1,10,ice cream ice,3
+1,9,beauty,3
+2,13,chips pretzels,21
+2,11,oils vinegars,12
+2,7,pasta sauce,9
+2,16,canned jarred vegetables,12
+2,16,food storage,3
+2,17,specialty cheeses,3
+2,1,milk,3
+2,21,lunch meat,3
+3,15,shave needs,8
+3,17,packaged vegetables fruits,70
+3,8,soy lactosefree,22
+3,7,cream,8
+3,15,hot cereal pancake mixes,6
+3,15,plates bowls cups flatware,2
+3,4,fresh fruits,4
+0,19,cream,12
+0,11,water seltzer sparkling water,69
+0,13,fresh vegetables,411
+0,16,energy sports drinks,15
+0,22,energy granola bars,3
+0,13,missing,9
+0,12,eye ear care,3
+0,20,energy granola bars,15
+1,14,fresh vegetables,195
+1,7,fresh vegetables,102
+1,15,frozen breakfast,9
+1,17,crackers,21
+1,13,spreads,12
+1,18,frozen vegan vegetarian,18
+1,13,grains rice dried goods,12
+1,18,cat food care,6
+1,0,asian foods,3
+2,19,frozen appetizers sides,9
+2,16,prepared soups salads,3
+2,19,bulk dried fruits vegetables,3
+2,22,spreads,6
+3,15,milk,14
+3,19,paper goods,6
+3,16,frozen pizza,8
+3,18,chips pretzels,10
+3,18,tortillas flat bread,2
+3,9,condiments,8
+3,10,spices seasonings,6
+3,8,skin care,2
+3,16,nuts seeds dried fruit,4
+3,20,ice cream ice,4
+0,17,candy chocolate,6
+0,22,oral hygiene,12
+0,17,tea,36
+0,10,fresh pasta,9
+0,21,pasta sauce,3
+0,9,refrigerated,21
+0,20,butter,6
+0,6,frozen breakfast,6
+1,10,soft drinks,30
+1,21,yogurt,21
+1,18,soup broth bouillon,27
+1,14,crackers,18
+1,13,refrigerated,12
+1,21,poultry counter,3
+1,11,more household,3
+1,19,hot dogs bacon sausage,15
+1,8,popcorn jerky,3
+1,1,paper goods,3
+2,9,energy granola bars,18
+2,15,eggs,15
+2,9,fresh herbs,15
+2,19,packaged vegetables fruits,33
+2,16,cold flu allergy,3
+2,20,juice nectars,12
+2,11,popcorn jerky,27
+2,22,canned meat seafood,9
+2,22,popcorn jerky,6
+2,16,fresh dips tapenades,12
+2,14,soup broth bouillon,9
+2,2,hot cereal pancake mixes,3
+3,18,fresh vegetables,24
+3,16,poultry counter,6
+0,12,water seltzer sparkling water,54
+0,9,condiments,15
+0,5,eggs,6
+0,16,oils vinegars,21
+0,15,missing,15
+0,9,breakfast bakery,18
+0,9,specialty cheeses,9
+0,12,frozen breads doughs,3
+0,14,indian foods,12
+0,23,cleaning products,9
+0,11,preserved dips spreads,6
+0,14,popcorn jerky,12
+1,17,soy lactosefree,45
+1,11,asian foods,9
+1,10,fresh vegetables,147
+1,8,butter,6
+2,15,yogurt,42
+2,14,tea,15
+2,10,bread,30
+2,19,fresh fruits,105
+2,8,cream,6
+2,17,hair care,9
+3,21,water seltzer sparkling water,4
+3,9,hot dogs bacon sausage,4
+3,20,bread,10
+3,16,spreads,6
+3,2,packaged cheese,6
+3,7,nuts seeds dried fruit,2
+0,9,canned jarred vegetables,21
+0,16,baby food formula,24
+0,12,butter,48
+0,14,milk,96
+0,20,eggs,24
+0,13,canned jarred vegetables,30
+0,13,baking ingredients,27
+0,19,paper goods,12
+0,13,honeys syrups nectars,6
+1,18,nuts seeds dried fruit,12
+1,11,condiments,3
+1,20,white wines,3
+1,9,poultry counter,9
+2,18,fresh dips tapenades,12
+2,19,bakery desserts,3
+2,18,popcorn jerky,9
+2,16,frozen meat seafood,3
+2,12,doughs gelatins bake mixes,9
+2,11,prepared soups salads,3
+2,7,baby food formula,12
+3,17,dish detergents,8
+3,5,missing,2
+3,19,oils vinegars,4
+3,13,poultry counter,4
+3,13,ice cream toppings,2
+0,11,oils vinegars,30
+0,18,water seltzer sparkling water,36
+0,8,lunch meat,18
+0,9,chips pretzels,66
+0,20,frozen produce,9
+1,16,paper goods,15
+1,8,frozen produce,36
+1,9,instant foods,24
+1,20,soy lactosefree,15
+1,12,cookies cakes,9
+1,10,protein meal replacements,3
+1,8,fresh herbs,9
+1,15,candy chocolate,21
+1,15,energy sports drinks,3
+1,19,kitchen supplies,6
+2,13,laundry,3
+2,17,prepared meals,6
+2,0,eggs,6
+2,19,fresh dips tapenades,9
+2,11,buns rolls,6
+2,17,dish detergents,6
+3,7,breakfast bakery,4
+3,17,paper goods,6
+3,14,facial care,2
+3,12,breakfast bakery,4
+3,6,baby food formula,2
+3,23,paper goods,4
+3,11,asian foods,2
+0,8,frozen produce,36
+0,10,other creams cheeses,33
+0,19,tortillas flat bread,6
+0,12,energy sports drinks,15
+0,15,canned jarred vegetables,15
+0,18,soft drinks,6
+0,3,breakfast bakery,3
+1,9,food storage,3
+1,17,tofu meat alternatives,6
+1,7,cereal,18
+1,17,asian foods,3
+2,12,hot dogs bacon sausage,15
+2,18,milk,48
+2,8,frozen meals,9
+2,18,prepared soups salads,6
+2,13,asian foods,3
+2,12,butter,15
+2,2,refrigerated,3
+2,10,mint gum,3
+3,15,crackers,14
+3,12,frozen produce,10
+3,20,packaged poultry,4
+3,2,soy lactosefree,2
+3,13,preserved dips spreads,4
+3,22,asian foods,2
+3,18,hair care,4
+3,4,butter,2
+3,4,oils vinegars,4
+0,19,fresh dips tapenades,18
+0,13,eggs,42
+0,15,poultry counter,18
+0,6,baby food formula,3
+0,13,dish detergents,6
+0,8,coffee,9
+0,17,preserved dips spreads,3
+0,18,frozen dessert,3
+0,23,fruit vegetable snacks,6
+1,11,eggs,27
+1,14,frozen meals,9
+1,21,butter,9
+1,15,frozen pizza,12
+1,14,refrigerated,33
+1,14,canned jarred vegetables,21
+1,22,packaged poultry,3
+1,16,hot cereal pancake mixes,15
+1,15,soap,3
+1,14,food storage,3
+1,16,frozen breakfast,27
+2,9,other creams cheeses,24
+2,14,refrigerated,33
+2,15,frozen breakfast,3
+2,23,fresh fruits,24
+2,18,condiments,12
+2,14,baby food formula,6
+2,19,salad dressing toppings,3
+2,18,laundry,3
+2,4,packaged produce,3
+2,20,other creams cheeses,6
+3,19,energy granola bars,4
+3,19,packaged cheese,22
+3,11,yogurt,66
+3,23,packaged vegetables fruits,8
+3,5,crackers,8
+3,5,packaged vegetables fruits,6
+3,10,energy granola bars,12
+3,23,frozen pizza,4
+3,21,plates bowls cups flatware,2
+3,21,milk,4
+3,16,energy granola bars,6
+3,18,frozen appetizers sides,6
+0,8,milk,39
+0,10,packaged meat,9
+0,1,canned jarred vegetables,3
+0,9,poultry counter,9
+0,16,marinades meat preparation,15
+0,13,popcorn jerky,9
+0,19,baking ingredients,12
+0,6,lunch meat,6
+0,14,spirits,3
+0,22,fruit vegetable snacks,3
+1,19,packaged vegetables fruits,60
+1,5,fresh fruits,18
+1,14,marinades meat preparation,12
+1,6,dish detergents,3
+1,15,salad dressing toppings,6
+1,10,breakfast bars pastries,3
+1,16,marinades meat preparation,3
+2,11,spices seasonings,6
+2,9,meat counter,6
+2,14,dish detergents,9
+2,10,frozen vegan vegetarian,3
+2,22,breakfast bars pastries,6
+2,5,water seltzer sparkling water,6
+2,14,tortillas flat bread,3
+2,15,breakfast bakery,6
+2,11,fruit vegetable snacks,6
+3,11,fresh vegetables,70
+3,8,water seltzer sparkling water,16
+3,6,crackers,2
+3,19,coffee,2
+3,17,canned meals beans,4
+0,10,cream,24
+0,22,instant foods,3
+0,11,coffee,18
+0,18,missing,12
+0,11,protein meal replacements,6
+0,18,bakery desserts,3
+1,18,coffee,18
+1,12,salad dressing toppings,3
+1,11,buns rolls,3
+1,14,buns rolls,3
+1,9,canned jarred vegetables,3
+2,16,chips pretzels,27
+2,12,fresh dips tapenades,15
+2,17,fresh dips tapenades,27
+2,16,dish detergents,3
+2,11,paper goods,21
+2,10,eye ear care,3
+2,11,fresh herbs,6
+2,21,fruit vegetable snacks,3
+2,22,laundry,3
+2,17,energy sports drinks,3
+3,7,packaged produce,4
+3,7,ice cream ice,2
+3,18,bread,12
+3,19,poultry counter,2
+0,15,seafood counter,9
+0,14,pasta sauce,21
+0,8,dry pasta,15
+0,17,hot dogs bacon sausage,33
+0,12,soup broth bouillon,39
+0,14,prepared soups salads,9
+0,8,tofu meat alternatives,3
+0,10,frozen dessert,3
+0,12,spirits,3
+1,9,soup broth bouillon,24
+1,22,frozen produce,6
+1,9,hot dogs bacon sausage,18
+1,22,frozen meals,12
+1,21,energy granola bars,3
+1,7,cleaning products,3
+1,10,frozen dessert,3
+1,0,lunch meat,3
+1,7,honeys syrups nectars,3
+2,15,condiments,12
+2,14,chips pretzels,27
+2,15,baking ingredients,12
+2,17,packaged produce,12
+2,2,soy lactosefree,3
+2,11,spreads,3
+3,8,fresh vegetables,40
+3,8,vitamins supplements,4
+3,11,energy granola bars,6
+3,15,oral hygiene,2
+3,7,specialty wines champagnes,2
+3,14,frozen pizza,4
+3,16,red wines,8
+3,12,condiments,4
+0,22,tofu meat alternatives,3
+0,6,packaged meat,3
+0,15,fresh dips tapenades,15
+0,14,energy granola bars,42
+0,11,chips pretzels,48
+0,9,frozen produce,30
+0,13,cream,30
+0,15,bakery desserts,6
+0,16,cocoa drink mixes,3
+1,16,canned meals beans,24
+1,10,air fresheners candles,3
+1,11,lunch meat,21
+1,14,tofu meat alternatives,9
+1,8,eggs,18
+1,14,dry pasta,9
+1,0,energy granola bars,6
+1,16,instant foods,18
+2,20,spreads,6
+2,0,buns rolls,3
+2,22,digestion,3
+2,22,mint gum,6
+2,4,fruit vegetable snacks,6
+2,10,frozen breakfast,3
+3,21,fresh dips tapenades,4
+3,20,cat food care,12
+0,11,packaged vegetables fruits,234
+0,11,frozen breakfast,30
+0,15,baby food formula,9
+0,18,frozen pizza,18
+0,9,bulk grains rice dried goods,6
+0,12,prepared soups salads,3
+0,20,breakfast bakery,6
+0,14,baby accessories,3
+1,21,candy chocolate,6
+1,16,other creams cheeses,9
+1,22,candy chocolate,9
+2,18,lunch meat,27
+2,11,meat counter,3
+2,13,canned meat seafood,9
+2,8,eggs,12
+2,13,butter,12
+2,15,tofu meat alternatives,6
+2,19,juice nectars,9
+2,10,packaged poultry,3
+3,15,water seltzer sparkling water,50
+3,9,preserved dips spreads,2
+3,10,frozen vegan vegetarian,2
+3,14,tea,2
+3,20,fresh herbs,4
+0,13,salad dressing toppings,24
+0,14,fresh fruits,402
+0,16,doughs gelatins bake mixes,9
+0,16,specialty cheeses,18
+0,6,coffee,3
+0,18,dry pasta,18
+0,12,deodorants,6
+0,19,food storage,3
+0,17,frozen vegan vegetarian,21
+0,7,fruit vegetable snacks,3
+0,17,kosher foods,3
+0,23,frozen produce,3
+1,13,fresh fruits,171
+1,6,latino foods,3
+1,14,prepared meals,3
+1,17,salad dressing toppings,12
+1,21,ice cream toppings,3
+1,13,baking supplies decor,6
+2,14,grains rice dried goods,12
+2,14,cookies cakes,9
+2,14,nuts seeds dried fruit,9
+2,7,hot dogs bacon sausage,12
+2,10,candy chocolate,9
+2,0,water seltzer sparkling water,3
+3,22,fresh fruits,54
+3,15,paper goods,22
+3,16,marinades meat preparation,4
+3,16,latino foods,2
+3,17,dog food care,4
+0,11,fruit vegetable snacks,18
+0,19,candy chocolate,6
+0,10,condiments,18
+0,15,honeys syrups nectars,9
+0,19,cleaning products,12
+0,23,bread,6
+0,23,lunch meat,6
+0,15,grains rice dried goods,6
+0,2,doughs gelatins bake mixes,3
+0,1,coffee,6
+0,20,granola,3
+1,6,milk,9
+1,14,candy chocolate,9
+1,17,grains rice dried goods,3
+1,21,cleaning products,6
+1,23,soft drinks,3
+1,23,refrigerated,3
+1,22,canned meals beans,3
+1,19,body lotions soap,3
+1,9,butter,6
+1,20,cleaning products,3
+1,17,frozen meat seafood,3
+2,8,crackers,21
+2,20,fresh dips tapenades,3
+2,12,packaged poultry,3
+2,5,other creams cheeses,3
+3,8,yogurt,30
+3,23,asian foods,2
+3,13,body lotions soap,2
+3,9,frozen breakfast,18
+3,17,cream,4
+0,18,ice cream ice,39
+0,14,tea,18
+0,22,canned meat seafood,3
+0,17,laundry,12
+0,13,cleaning products,18
+0,10,hot cereal pancake mixes,3
+0,17,soft drinks,30
+0,21,fresh herbs,6
+0,13,packaged poultry,9
+0,15,doughs gelatins bake mixes,6
+0,22,honeys syrups nectars,3
+0,23,frozen meals,6
+0,22,frozen appetizers sides,3
+1,8,cereal,33
+1,9,chips pretzels,45
+1,6,canned meals beans,3
+1,8,nuts seeds dried fruit,18
+1,21,paper goods,6
+1,11,frozen meat seafood,3
+1,11,hair care,6
+1,16,packaged poultry,6
+1,22,other creams cheeses,3
+1,1,refrigerated,3
+1,8,condiments,3
+2,12,frozen produce,18
+2,22,cleaning products,6
+2,12,cat food care,9
+2,10,baking ingredients,12
+2,15,nuts seeds dried fruit,9
+2,17,canned meat seafood,3
+2,4,bread,3
+2,17,skin care,3
+3,8,fresh dips tapenades,4
+3,12,popcorn jerky,2
+3,21,frozen produce,6
+3,14,chips pretzels,18
+3,15,butter,6
+3,9,soft drinks,4
+3,20,frozen breakfast,4
+3,12,tofu meat alternatives,6
+3,16,eggs,4
+3,15,facial care,2
+0,17,fresh vegetables,333
+0,19,soup broth bouillon,15
+0,9,soy lactosefree,36
+0,10,frozen produce,93
+0,10,asian foods,9
+0,5,dish detergents,3
+0,0,frozen appetizers sides,3
+1,14,milk,42
+1,22,frozen vegan vegetarian,9
+1,12,bread,24
+1,7,frozen pizza,9
+1,10,paper goods,24
+1,21,other creams cheeses,3
+2,17,oils vinegars,9
+2,4,trail mix snack mix,3
+2,20,breakfast bakery,12
+3,17,energy sports drinks,8
+3,17,cereal,14
+3,17,kosher foods,4
+3,11,dish detergents,4
+3,23,doughs gelatins bake mixes,4
+3,12,salad dressing toppings,4
+3,12,mint gum,2
+3,21,condiments,2
+3,18,salad dressing toppings,2
+0,11,frozen pizza,15
+0,9,dish detergents,6
+0,7,oils vinegars,6
+0,5,spreads,3
+0,17,packaged poultry,9
+0,8,soup broth bouillon,18
+0,12,specialty cheeses,9
+0,23,yogurt,12
+0,11,dog food care,6
+0,8,doughs gelatins bake mixes,3
+0,18,cat food care,3
+1,18,pasta sauce,12
+1,19,eggs,15
+1,19,juice nectars,9
+2,14,frozen breakfast,24
+2,8,frozen produce,39
+2,8,breakfast bars pastries,15
+2,9,soy lactosefree,21
+2,15,packaged poultry,3
+2,11,mint gum,3
+2,18,frozen breakfast,6
+3,10,candy chocolate,10
+3,9,soup broth bouillon,4
+3,16,ice cream ice,20
+3,5,juice nectars,4
+3,1,asian foods,2
+0,14,yogurt,159
+0,5,ice cream ice,3
+0,17,salad dressing toppings,6
+0,15,refrigerated pudding desserts,3
+1,10,canned meals beans,6
+1,12,frozen appetizers sides,15
+1,22,tofu meat alternatives,3
+1,18,packaged meat,3
+2,8,paper goods,15
+2,17,packaged seafood,3
+2,21,eye ear care,3
+3,17,butter,4
+3,20,milk,6
+0,17,water seltzer sparkling water,66
+0,10,breakfast bars pastries,3
+0,14,packaged poultry,15
+0,10,packaged poultry,12
+0,2,fresh fruits,3
+0,19,marinades meat preparation,6
+0,7,hot dogs bacon sausage,3
+0,15,digestion,3
+1,17,juice nectars,24
+1,6,pickled goods olives,3
+1,18,packaged poultry,9
+1,1,condiments,3
+2,17,canned meals beans,15
+2,17,eggs,18
+2,18,dry pasta,15
+2,12,trash bags liners,3
+2,14,frozen juice,6
+2,15,digestion,3
+2,9,air fresheners candles,3
+2,12,laundry,3
+3,23,baking supplies decor,2
+3,18,candy chocolate,6
+3,11,refrigerated pudding desserts,4
+3,14,frozen produce,18
+3,14,poultry counter,4
+3,9,dry pasta,2
+3,18,soup broth bouillon,6
+3,12,frozen meals,8
+3,0,frozen produce,2
+3,1,cereal,2
+0,12,packaged cheese,93
+0,16,cereal,33
+0,18,butter,15
+0,8,meat counter,3
+0,14,canned meat seafood,3
+0,16,spreads,6
+0,8,cold flu allergy,6
+0,17,eye ear care,3
+0,8,laundry,3
+0,18,spices seasonings,3
+1,21,soup broth bouillon,15
+1,10,spreads,36
+1,12,lunch meat,9
+1,13,cold flu allergy,3
+1,20,other creams cheeses,9
+1,7,dry pasta,12
+1,7,laundry,6
+1,8,hot dogs bacon sausage,3
+1,9,air fresheners candles,3
+2,13,fresh fruits,192
+2,22,lunch meat,9
+2,16,packaged vegetables fruits,75
+2,9,eggs,15
+2,15,water seltzer sparkling water,39
+2,11,packaged produce,36
+2,0,ice cream ice,3
+3,9,milk,20
+3,21,packaged vegetables fruits,12
+3,16,hot dogs bacon sausage,8
+3,22,packaged vegetables fruits,24
+3,12,oral hygiene,2
+3,11,canned fruit applesauce,2
+0,14,ice cream ice,66
+0,9,canned meat seafood,6
+0,22,laundry,3
+1,16,bread,36
+1,20,packaged cheese,27
+1,11,grains rice dried goods,6
+1,13,soy lactosefree,15
+1,19,fruit vegetable snacks,3
+1,15,tea,18
+1,19,refrigerated,9
+1,23,oral hygiene,3
+1,11,dry pasta,12
+1,12,marinades meat preparation,6
+2,11,granola,3
+2,22,other creams cheeses,9
+2,22,spices seasonings,6
+2,16,frozen pizza,3
+2,9,bulk dried fruits vegetables,3
+2,9,marinades meat preparation,9
+2,16,packaged poultry,3
+2,20,cocoa drink mixes,3
+2,8,doughs gelatins bake mixes,3
+3,17,eggs,14
+3,7,food storage,4
+3,5,refrigerated,4
+3,6,fresh fruits,8
+3,14,breakfast bakery,10
+3,22,buns rolls,2
+3,0,packaged cheese,4
+3,17,cat food care,8
+3,1,other creams cheeses,2
+0,14,instant foods,21
+0,11,dish detergents,21
+0,21,bread,6
+0,7,crackers,9
+0,7,soy lactosefree,6
+0,10,kosher foods,3
+1,11,fresh dips tapenades,12
+1,14,packaged produce,18
+1,13,tea,9
+1,15,chips pretzels,48
+1,16,water seltzer sparkling water,24
+1,14,hot cereal pancake mixes,12
+1,13,fresh pasta,3
+1,18,latino foods,3
+1,23,frozen breakfast,3
+1,14,meat counter,3
+1,7,hot cereal pancake mixes,3
+2,9,missing,6
+2,10,yogurt,60
+2,6,hot cereal pancake mixes,6
+2,21,eggs,9
+2,12,canned fruit applesauce,6
+2,11,baking ingredients,6
+2,7,frozen appetizers sides,3
+2,10,instant foods,6
+2,12,tea,27
+3,15,laundry,4
+3,8,packaged cheese,16
+3,15,soup broth bouillon,12
+3,9,cat food care,16
+0,12,packaged vegetables fruits,240
+0,14,eggs,42
+0,13,poultry counter,18
+0,1,condiments,3
+0,12,trash bags liners,15
+0,10,cereal,27
+0,21,marinades meat preparation,3
+0,11,grains rice dried goods,9
+0,13,indian foods,3
+0,22,frozen breakfast,6
+1,7,fresh herbs,9
+1,14,frozen breakfast,9
+1,23,fresh vegetables,3
+1,16,salad dressing toppings,6
+1,19,hot cereal pancake mixes,3
+2,12,eggs,21
+2,16,buns rolls,3
+2,14,frozen breads doughs,3
+2,11,condiments,3
+2,13,soap,6
+2,6,lunch meat,3
+3,10,breakfast bakery,6
+3,11,fresh dips tapenades,10
+3,22,marinades meat preparation,2
+3,15,deodorants,4
+3,20,frozen meat seafood,2
+3,2,crackers,2
+0,10,fresh fruits,315
+0,8,marinades meat preparation,3
+0,11,muscles joints pain relief,6
+0,17,frozen dessert,3
+0,7,honeys syrups nectars,3
+0,16,soap,6
+1,10,granola,12
+1,10,packaged vegetables fruits,90
+1,12,ice cream ice,9
+1,18,frozen meals,18
+1,11,laundry,3
+1,14,fruit vegetable snacks,18
+1,17,fruit vegetable snacks,21
+1,18,instant foods,9
+1,23,yogurt,9
+1,7,cream,3
+2,17,ice cream ice,27
+2,9,coffee,12
+2,9,frozen produce,15
+2,23,frozen produce,9
+2,21,yogurt,12
+2,14,prepared soups salads,9
+2,0,butter,3
+2,15,juice nectars,6
+3,8,frozen produce,10
+3,14,milk,24
+3,13,packaged poultry,6
+3,12,grains rice dried goods,8
+3,10,energy sports drinks,4
+3,7,candy chocolate,2
+0,15,frozen produce,60
+0,21,fresh vegetables,129
+0,10,butter,24
+0,9,food storage,3
+0,23,refrigerated,3
+0,19,body lotions soap,6
+0,13,air fresheners candles,12
+0,15,ice cream toppings,9
+0,16,frozen appetizers sides,6
+1,9,packaged vegetables fruits,111
+1,18,crackers,18
+1,18,missing,12
+1,23,eggs,3
+2,6,prepared meals,3
+2,15,soap,3
+3,9,nuts seeds dried fruit,14
+3,7,refrigerated,12
+3,10,air fresheners candles,2
+3,5,fresh dips tapenades,2
+3,6,yogurt,2
+3,13,frozen breakfast,2
+0,12,soy lactosefree,81
+0,16,yogurt,129
+0,23,fresh fruits,54
+0,9,packaged cheese,57
+0,18,fresh dips tapenades,27
+0,14,marinades meat preparation,9
+0,14,meat counter,6
+0,3,cream,3
+1,16,dry pasta,12
+1,13,ice cream ice,21
+1,8,dog food care,6
+1,7,soft drinks,6
+1,8,baking ingredients,9
+1,23,chips pretzels,12
+2,6,tea,9
+2,15,canned jarred vegetables,15
+2,8,oral hygiene,3
+2,14,frozen produce,30
+2,6,eggs,6
+2,20,oral hygiene,6
+2,11,refrigerated pudding desserts,3
+2,7,candy chocolate,33
+2,22,honeys syrups nectars,3
+2,14,instant foods,9
+3,10,instant foods,10
+3,19,baby food formula,22
+3,8,hot cereal pancake mixes,4
+3,13,meat counter,2
+3,14,fruit vegetable snacks,6
+3,13,hot dogs bacon sausage,8
+3,11,baking ingredients,10
+3,18,frozen pizza,12
+3,2,preserved dips spreads,2
+3,14,cat food care,2
+3,19,hot cereal pancake mixes,2
+3,2,soap,2
+2,15,frozen breads doughs,3
+0,11,buns rolls,21
+0,14,canned jarred vegetables,30
+0,5,baking ingredients,6
+0,17,soup broth bouillon,33
+0,8,nuts seeds dried fruit,6
+0,15,hair care,3
+1,21,spices seasonings,9
+1,18,refrigerated,9
+1,11,trail mix snack mix,6
+1,17,cereal,12
+1,18,popcorn jerky,3
+1,15,coffee,6
+1,20,spices seasonings,3
+2,12,grains rice dried goods,6
+2,14,butter,15
+2,15,missing,3
+2,9,frozen breakfast,9
+2,17,baking supplies decor,3
+3,13,fruit vegetable snacks,10
+3,7,soup broth bouillon,8
+3,8,hot dogs bacon sausage,6
+3,8,cat food care,2
+3,20,frozen dessert,2
+3,17,honeys syrups nectars,2
+0,15,crackers,39
+0,11,dry pasta,36
+0,10,prepared meals,9
+0,10,chips pretzels,66
+0,18,latino foods,6
+0,17,frozen appetizers sides,21
+0,13,soft drinks,33
+0,15,canned meat seafood,9
+0,20,packaged produce,6
+0,8,frozen meals,21
+0,9,specialty wines champagnes,3
+0,20,hot cereal pancake mixes,6
+0,17,frozen breads doughs,3
+0,18,laundry,9
+0,3,chips pretzels,3
+0,3,refrigerated,3
+0,7,poultry counter,6
+0,14,pickled goods olives,3
+0,19,shave needs,6
+1,11,milk,45
+1,15,food storage,6
+1,12,fresh dips tapenades,9
+1,11,canned fruit applesauce,3
+1,16,spreads,21
+1,14,spreads,24
+1,12,cat food care,9
+1,8,salad dressing toppings,6
+1,14,instant foods,6
+1,21,frozen produce,15
+1,18,other creams cheeses,9
+1,17,canned jarred vegetables,3
+1,23,baking ingredients,3
+1,1,packaged cheese,3
+1,22,soup broth bouillon,3
+1,18,hair care,6
+2,9,lunch meat,15
+2,11,baby food formula,39
+2,7,fresh herbs,3
+3,14,frozen meals,8
+3,0,fresh vegetables,32
+3,23,water seltzer sparkling water,8
+3,7,crackers,14
+3,19,grains rice dried goods,2
+3,16,grains rice dried goods,2
+3,5,frozen breakfast,4
+3,22,cold flu allergy,2
+3,0,refrigerated,2
+3,16,condiments,2
+3,8,candy chocolate,14
+3,1,juice nectars,2
+3,4,fresh herbs,6
+0,15,lunch meat,39
+0,22,candy chocolate,6
+0,10,canned meals beans,18
+0,12,poultry counter,18
+0,2,water seltzer sparkling water,6
+0,18,cream,6
+0,14,laundry,3
+0,17,fresh pasta,6
+0,14,shave needs,3
+0,19,asian foods,6
+0,19,laundry,3
+1,8,yogurt,48
+1,19,coffee,9
+1,12,coffee,15
+1,17,eggs,21
+1,10,canned jarred vegetables,9
+1,13,marinades meat preparation,3
+1,17,packaged poultry,9
+1,12,digestion,3
+2,9,water seltzer sparkling water,63
+2,15,cereal,15
+2,13,specialty cheeses,6
+2,12,refrigerated,15
+2,22,canned meals beans,12
+2,14,energy sports drinks,3
+3,15,dry pasta,4
+3,13,frozen produce,24
+3,10,bread,16
+3,17,poultry counter,4
+3,13,frozen breads doughs,2
+3,23,tea,2
+3,13,frozen vegan vegetarian,4
+3,2,yogurt,6
+3,17,candy chocolate,6
+3,9,frozen produce,6
+3,21,preserved dips spreads,2
+3,7,coffee,4
+3,20,breakfast bakery,2
+3,4,spices seasonings,4
+3,12,poultry counter,2
+0,10,breakfast bakery,15
+0,17,refrigerated,45
+0,15,frozen pizza,24
+0,20,bread,12
+0,14,preserved dips spreads,6
+0,8,asian foods,9
+0,23,canned fruit applesauce,6
+0,23,canned meals beans,6
+0,9,tofu meat alternatives,3
+0,11,plates bowls cups flatware,6
+1,15,bread,15
+1,9,missing,9
+1,22,oral hygiene,3
+1,8,honeys syrups nectars,3
+1,7,frozen vegan vegetarian,6
+1,9,frozen meat seafood,6
+2,23,fresh vegetables,30
+2,14,other creams cheeses,21
+2,17,yogurt,45
+2,11,frozen meals,15
+2,9,frozen meals,27
+2,20,eggs,6
+2,10,frozen dessert,3
+2,10,specialty wines champagnes,3
+2,12,crackers,15
+2,7,refrigerated pudding desserts,3
+2,9,digestion,3
+2,15,facial care,3
+3,23,fresh herbs,6
+3,22,milk,6
+3,23,honeys syrups nectars,2
+3,14,hot cereal pancake mixes,6
+3,14,other creams cheeses,8
+3,6,diapers wipes,2
+3,19,mint gum,2
+3,8,frozen meals,4
+0,6,fresh herbs,6
+0,14,coffee,24
+0,11,vitamins supplements,3
+0,11,pickled goods olives,21
+0,8,spreads,15
+0,12,food storage,3
+0,23,packaged cheese,12
+1,14,other creams cheeses,24
+1,10,pasta sauce,9
+1,7,packaged produce,3
+1,18,hot cereal pancake mixes,15
+1,19,dish detergents,3
+2,13,tofu meat alternatives,6
+2,20,tofu meat alternatives,6
+2,8,tea,6
+2,22,specialty cheeses,3
+2,0,packaged cheese,6
+2,21,candy chocolate,3
+2,10,white wines,3
+3,14,preserved dips spreads,4
+3,21,hot dogs bacon sausage,4
+3,2,lunch meat,4
+3,18,crackers,10
+3,5,tortillas flat bread,2
+3,20,soup broth bouillon,6
+3,16,laundry,2
+3,8,canned jarred vegetables,6
+3,12,baby food formula,12
+0,18,spreads,18
+0,18,specialty cheeses,6
+0,22,packaged vegetables fruits,12
+0,12,packaged poultry,9
+0,12,lunch meat,45
+0,16,frozen breakfast,12
+0,3,yogurt,3
+0,17,buns rolls,6
+0,6,soup broth bouillon,6
+0,22,cookies cakes,6
+1,17,fresh herbs,21
+1,13,instant foods,21
+1,20,granola,6
+1,14,cleaning products,3
+1,8,prepared soups salads,3
+1,19,frozen pizza,12
+1,22,salad dressing toppings,3
+1,15,frozen vegan vegetarian,3
+2,16,water seltzer sparkling water,63
+2,17,salad dressing toppings,6
+2,14,specialty cheeses,6
+2,7,energy sports drinks,6
+2,8,juice nectars,18
+2,20,dry pasta,18
+2,18,ice cream ice,48
+2,14,soap,9
+2,10,popcorn jerky,9
+3,12,yogurt,30
+3,19,canned meat seafood,2
+3,5,condiments,4
+3,20,missing,2
+3,20,other,2
+3,2,chips pretzels,2
+3,15,meat counter,8
+3,10,frozen pizza,8
+3,18,cold flu allergy,2
+0,8,food storage,3
+0,11,cereal,48
+0,10,digestion,9
+0,1,oils vinegars,6
+0,20,soy lactosefree,30
+0,11,cat food care,3
+0,15,frozen meat seafood,6
+0,7,frozen pizza,9
+1,16,asian foods,15
+1,15,ice cream ice,15
+1,21,milk,24
+1,19,butter,9
+1,21,oils vinegars,3
+1,11,oral hygiene,6
+1,12,packaged produce,9
+2,7,packaged vegetables fruits,39
+2,17,canned jarred vegetables,9
+2,0,energy granola bars,3
+2,21,beauty,3
+2,8,latino foods,3
+3,19,fresh dips tapenades,6
+3,9,tofu meat alternatives,4
+3,16,paper goods,10
+3,0,milk,4
+3,8,cereal,10
+3,2,nuts seeds dried fruit,2
+3,11,trash bags liners,2
+0,9,yogurt,78
+0,10,granola,15
+0,15,paper goods,27
+0,11,trash bags liners,3
+0,21,lunch meat,3
+0,20,water seltzer sparkling water,9
+0,20,missing,3
+1,9,crackers,15
+1,10,kitchen supplies,6
+1,15,cleaning products,3
+1,19,energy sports drinks,3
+1,10,baking ingredients,3
+1,18,doughs gelatins bake mixes,3
+2,14,fresh dips tapenades,27
+2,15,frozen meals,24
+2,19,canned fruit applesauce,3
+2,13,frozen meals,6
+2,18,hot cereal pancake mixes,6
+2,9,canned meat seafood,3
+2,22,dish detergents,6
+2,14,frozen vegan vegetarian,3
+2,16,ice cream toppings,3
+3,13,packaged produce,6
+3,13,paper goods,8
+3,13,marinades meat preparation,8
+3,16,chips pretzels,6
+3,13,breakfast bakery,6
+3,7,packaged cheese,4
+3,19,red wines,2
+0,21,poultry counter,9
+0,14,bulk grains rice dried goods,6
+0,21,soap,6
+0,15,tea,18
+0,10,packaged produce,21
+0,20,other creams cheeses,6
+0,21,crackers,3
+0,3,pasta sauce,3
+0,0,fresh herbs,3
+0,23,spreads,3
+0,14,digestion,3
+1,18,bakery desserts,6
+1,13,honeys syrups nectars,3
+1,22,vitamins supplements,3
+1,19,grains rice dried goods,6
+1,11,spreads,18
+1,12,frozen breakfast,6
+1,0,frozen meals,3
+2,18,cereal,21
+2,20,packaged cheese,18
+2,16,oils vinegars,3
+2,8,poultry counter,6
+2,15,hot cereal pancake mixes,9
+2,13,coffee,6
+3,22,frozen breakfast,2
+3,20,hot cereal pancake mixes,2
+3,12,energy sports drinks,2
+0,11,frozen vegan vegetarian,33
+0,14,soup broth bouillon,30
+0,8,packaged poultry,6
+0,18,baking ingredients,21
+0,5,yogurt,9
+0,13,trash bags liners,3
+0,13,diapers wipes,9
+0,8,pickled goods olives,9
+0,16,other,9
+0,20,tortillas flat bread,9
+0,6,water seltzer sparkling water,6
+1,8,packaged vegetables fruits,81
+1,15,asian foods,3
+1,15,poultry counter,15
+1,16,pickled goods olives,6
+1,18,packaged seafood,3
+1,16,energy granola bars,42
+1,11,breakfast bars pastries,3
+1,8,grains rice dried goods,6
+2,15,soft drinks,6
+2,12,packaged vegetables fruits,96
+2,7,fresh fruits,96
+2,23,packaged vegetables fruits,15
+2,13,juice nectars,18
+2,17,nuts seeds dried fruit,9
+2,10,deodorants,3
+2,19,baby food formula,3
+3,0,canned jarred vegetables,6
+3,20,fresh fruits,46
+3,13,other creams cheeses,26
+3,12,cream,8
+3,14,shave needs,2
+3,12,soft drinks,10
+3,4,cream,2
+0,10,food storage,6
+0,13,refrigerated,48
+0,12,baking ingredients,51
+0,9,frozen pizza,15
+0,12,bread,39
+0,17,frozen meals,36
+0,17,cereal,18
+0,16,fruit vegetable snacks,21
+0,11,ice cream toppings,3
+1,16,frozen produce,36
+1,21,frozen appetizers sides,3
+1,10,soap,3
+1,14,baby food formula,24
+1,15,frozen appetizers sides,15
+1,11,packaged poultry,6
+1,0,fresh vegetables,39
+1,20,butter,3
+2,17,chips pretzels,30
+2,9,tea,24
+2,19,nuts seeds dried fruit,6
+2,5,milk,6
+2,5,butter,3
+3,11,frozen appetizers sides,4
+3,6,fresh dips tapenades,2
+3,17,plates bowls cups flatware,2
+3,11,buns rolls,4
+3,21,refrigerated,2
+3,18,cookies cakes,6
+3,10,cold flu allergy,2
+3,7,tortillas flat bread,2
+0,15,water seltzer sparkling water,54
+0,12,refrigerated pudding desserts,3
+0,6,popcorn jerky,3
+0,21,vitamins supplements,3
+0,12,frozen juice,3
+0,6,other creams cheeses,3
+0,6,dry pasta,3
+1,11,ice cream ice,18
+1,15,oils vinegars,12
+1,21,frozen meat seafood,3
+1,21,hot dogs bacon sausage,3
+1,7,doughs gelatins bake mixes,3
+1,19,protein meal replacements,3
+1,17,buns rolls,6
+1,19,crackers,6
+2,14,popcorn jerky,9
+2,21,energy granola bars,3
+2,19,vitamins supplements,6
+2,10,breakfast bakery,9
+2,18,pasta sauce,6
+2,4,instant foods,6
+2,12,ice cream toppings,3
+3,13,prepared soups salads,2
+3,10,tortillas flat bread,4
+3,23,juice nectars,4
+3,11,frozen vegan vegetarian,6
+3,20,condiments,2
+3,8,oral hygiene,2
+3,22,paper goods,2
+3,6,cream,2
+3,8,indian foods,4
+3,19,frozen meals,2
+3,13,beers coolers,2
+3,22,hot dogs bacon sausage,2
+0,10,packaged vegetables fruits,213
+0,15,breakfast bakery,39
+0,11,soy lactosefree,60
+0,0,soft drinks,3
+0,10,latino foods,15
+0,13,specialty cheeses,6
+0,7,yogurt,36
+0,20,juice nectars,9
+0,5,frozen produce,6
+0,9,energy granola bars,15
+0,13,prepared soups salads,3
+0,7,lunch meat,6
+0,3,fresh fruits,6
+0,0,frozen produce,3
+0,19,tofu meat alternatives,3
+1,17,energy granola bars,24
+1,23,juice nectars,6
+1,13,body lotions soap,3
+2,14,frozen meat seafood,6
+2,13,bakery desserts,6
+2,16,vitamins supplements,9
+2,11,crackers,18
+2,7,spreads,6
+2,7,other creams cheeses,3
+2,2,milk,3
+3,19,packaged poultry,4
+3,10,latino foods,4
+3,20,crackers,10
+3,11,energy sports drinks,2
+3,18,vitamins supplements,2
+3,15,packaged produce,6
+0,10,packaged seafood,3
+0,16,beauty,3
+0,15,juice nectars,39
+0,16,packaged meat,3
+0,21,kitchen supplies,3
+0,14,nuts seeds dried fruit,30
+0,11,spirits,3
+0,17,packaged meat,6
+0,22,prepared soups salads,3
+0,2,hot cereal pancake mixes,3
+0,23,soup broth bouillon,9
+0,23,ice cream ice,6
+1,8,milk,42
+1,14,bread,30
+1,9,breakfast bars pastries,3
+1,12,soft drinks,15
+1,21,water seltzer sparkling water,15
+1,15,missing,6
+1,13,doughs gelatins bake mixes,12
+1,7,baby food formula,6
+1,8,soup broth bouillon,12
+1,10,facial care,6
+1,12,preserved dips spreads,6
+1,15,baby bath body care,3
+1,12,butter,3
+2,12,chips pretzels,42
+2,7,frozen produce,15
+2,17,vitamins supplements,12
+2,8,baking ingredients,9
+2,11,doughs gelatins bake mixes,3
+2,21,canned jarred vegetables,6
+2,14,muscles joints pain relief,3
+2,17,bakery desserts,9
+2,9,pasta sauce,12
+2,2,fresh fruits,3
+3,17,packaged cheese,32
+3,10,nuts seeds dried fruit,10
+3,0,lunch meat,4
+0,13,crackers,33
+0,13,packaged vegetables fruits,177
+0,1,spices seasonings,3
+0,6,yogurt,6
+0,5,dry pasta,6
+0,5,water seltzer sparkling water,3
+0,15,tortillas flat bread,12
+0,18,frozen meat seafood,6
+0,11,cocoa drink mixes,3
+0,2,baking ingredients,3
+0,15,other,3
+1,10,water seltzer sparkling water,87
+1,5,packaged vegetables fruits,9
+1,16,nuts seeds dried fruit,27
+1,17,specialty cheeses,3
+1,12,fresh vegetables,126
+1,13,hair care,3
+1,12,bakery desserts,3
+1,20,frozen meals,12
+1,19,granola,6
+1,18,asian foods,3
+2,15,butter,18
+2,14,packaged cheese,48
+2,17,frozen meals,24
+2,11,fresh pasta,9
+3,11,frozen produce,8
+3,16,water seltzer sparkling water,26
+3,14,popcorn jerky,4
+3,14,granola,2
+3,18,spreads,6
+3,22,more household,2
+3,23,dog food care,2
+0,12,tea,15
+0,10,missing,39
+0,11,energy sports drinks,15
+0,6,soft drinks,6
+0,10,laundry,9
+0,23,asian foods,3
+0,10,buns rolls,6
+0,7,frozen breakfast,3
+1,11,canned meat seafood,9
+1,11,pasta sauce,9
+1,11,bulk dried fruits vegetables,3
+1,20,water seltzer sparkling water,27
+1,22,soy lactosefree,6
+1,18,tortillas flat bread,12
+1,9,frozen vegan vegetarian,15
+1,20,nuts seeds dried fruit,3
+1,19,condiments,12
+1,19,tortillas flat bread,3
+1,7,meat counter,3
+2,18,water seltzer sparkling water,36
+2,14,crackers,30
+2,17,fresh vegetables,90
+2,19,cocoa drink mixes,3
+2,17,canned fruit applesauce,3
+3,9,packaged produce,8
+3,21,fresh vegetables,20
+3,7,frozen meals,6
+3,16,packaged poultry,2
+3,14,canned jarred vegetables,10
+3,23,chips pretzels,2
+3,18,eggs,4
+3,2,frozen pizza,2
+3,20,cookies cakes,4
+0,17,juice nectars,33
+0,13,yogurt,171
+0,22,lunch meat,6
+0,10,frozen pizza,15
+0,15,condiments,33
+0,18,deodorants,3
+1,15,yogurt,57
+1,11,frozen appetizers sides,6
+1,18,soy lactosefree,30
+1,15,fresh fruits,204
+1,13,bread,24
+1,12,dry pasta,9
+1,23,cookies cakes,3
+2,12,frozen appetizers sides,12
+2,19,packaged cheese,39
+2,14,preserved dips spreads,3
+2,10,asian foods,3
+2,10,bulk dried fruits vegetables,3
+3,19,frozen produce,12
+3,11,milk,30
+3,11,hot dogs bacon sausage,4
+3,7,butter,4
+3,17,bread,18
+3,11,water seltzer sparkling water,14
+3,18,popcorn jerky,4
+3,13,fresh herbs,18
+3,7,eggs,6
+3,12,cold flu allergy,2
+3,10,frozen appetizers sides,2
+3,8,pasta sauce,2
+3,18,dry pasta,8
+3,10,plates bowls cups flatware,4
+3,13,trash bags liners,2
+3,17,facial care,2
+0,13,bread,57
+0,10,crackers,48
+0,21,water seltzer sparkling water,33
+0,11,canned meals beans,27
+0,18,canned fruit applesauce,12
+0,6,baking ingredients,18
+0,7,eggs,6
+1,13,coffee,18
+1,13,chips pretzels,33
+1,13,specialty cheeses,9
+1,12,granola,3
+1,7,oils vinegars,3
+1,9,coffee,27
+1,7,cat food care,3
+2,14,milk,36
+2,7,yogurt,69
+2,14,frozen pizza,3
+2,11,frozen produce,9
+2,8,trail mix snack mix,3
+2,10,cream,9
+2,12,white wines,3
+2,14,salad dressing toppings,9
+3,8,grains rice dried goods,4
+3,16,bread,8
+3,8,mint gum,2
+3,7,chips pretzels,6
+3,13,canned meat seafood,2
+3,9,fresh herbs,2
+3,7,energy sports drinks,2
+3,9,buns rolls,4
+3,0,juice nectars,2
+0,13,frozen produce,87
+0,11,cream,39
+0,9,soft drinks,6
+0,21,ice cream ice,21
+0,16,ice cream ice,69
+0,9,breakfast bars pastries,3
+0,16,dish detergents,6
+0,19,hot dogs bacon sausage,9
+1,12,packaged vegetables fruits,99
+1,13,cookies cakes,12
+1,7,frozen meat seafood,3
+1,19,milk,27
+1,6,oils vinegars,3
+1,19,specialty cheeses,3
+1,17,canned fruit applesauce,6
+1,0,skin care,6
+1,18,cookies cakes,3
+2,14,cream,18
+2,13,hot dogs bacon sausage,15
+2,0,juice nectars,3
+2,14,refrigerated pudding desserts,6
+2,10,packaged seafood,3
+3,17,tortillas flat bread,8
+3,7,ice cream toppings,2
+3,5,other creams cheeses,2
+3,23,pasta sauce,2
+3,14,tofu meat alternatives,4
+3,2,missing,2
+3,19,bakery desserts,2
+3,2,oils vinegars,2
+3,12,coffee,2
+0,18,condiments,30
+0,12,baby food formula,60
+0,11,ice cream ice,39
+0,2,granola,3
+0,15,spirits,3
+0,20,latino foods,3
+0,15,oral hygiene,3
+0,7,latino foods,6
+0,0,baking ingredients,12
+1,17,hot dogs bacon sausage,12
+1,21,cereal,15
+1,8,coffee,21
+1,15,specialty wines champagnes,3
+1,20,missing,12
+1,15,specialty cheeses,9
+1,20,hot dogs bacon sausage,6
+2,15,baby food formula,15
+2,18,packaged produce,12
+2,15,frozen vegan vegetarian,6
+2,7,canned fruit applesauce,3
+2,1,water seltzer sparkling water,6
+3,10,lunch meat,10
+3,14,bread,14
+3,7,fruit vegetable snacks,2
+3,16,refrigerated,18
+3,9,paper goods,8
+3,9,soap,2
+0,11,indian foods,6
+0,15,frozen breads doughs,12
+0,20,tofu meat alternatives,6
+0,3,fresh vegetables,6
+0,0,fresh fruits,24
+1,16,frozen vegan vegetarian,9
+1,10,fruit vegetable snacks,21
+1,21,bread,9
+1,22,hair care,3
+1,23,fresh dips tapenades,6
+1,7,butter,6
+2,18,soy lactosefree,33
+2,7,canned meals beans,6
+2,17,frozen produce,15
+2,8,pickled goods olives,6
+2,9,butter,9
+2,19,asian foods,12
+2,22,baby food formula,21
+2,20,hot dogs bacon sausage,9
+2,20,doughs gelatins bake mixes,3
+2,11,missing,3
+2,0,pickled goods olives,3
+2,6,nuts seeds dried fruit,6
+3,11,packaged produce,12
+3,15,packaged vegetables fruits,64
+3,16,tortillas flat bread,6
+3,6,frozen produce,2
+3,13,other,4
+3,12,oils vinegars,6
+3,17,latino foods,4
+3,17,meat counter,2
+3,22,popcorn jerky,2
+0,13,bulk dried fruits vegetables,3
+0,14,dry pasta,24
+0,22,fresh dips tapenades,15
+0,18,instant foods,12
+0,13,meat counter,12
+0,14,spreads,42
+0,17,doughs gelatins bake mixes,3
+0,7,frozen vegan vegetarian,6
+1,11,bread,48
+1,9,soy lactosefree,54
+1,13,frozen meals,3
+1,21,frozen breakfast,3
+1,21,frozen pizza,9
+1,16,popcorn jerky,12
+2,14,bulk dried fruits vegetables,6
+2,12,baking ingredients,15
+2,13,lunch meat,12
+2,17,cereal,15
+2,18,butter,15
+2,19,frozen breakfast,9
+2,11,oral hygiene,3
+2,19,instant foods,15
+2,17,popcorn jerky,3
+2,5,hot cereal pancake mixes,3
+2,15,frozen appetizers sides,3
+3,22,fresh vegetables,28
+3,8,refrigerated,18
+3,14,other,4
+3,16,yogurt,34
+3,10,cream,4
+0,8,baby food formula,6
+0,13,instant foods,36
+0,11,lunch meat,36
+0,22,chips pretzels,15
+0,15,other creams cheeses,27
+0,15,dish detergents,12
+0,14,cleaning products,12
+0,9,cleaning products,12
+0,11,prepared soups salads,9
+0,17,meat counter,9
+0,14,energy sports drinks,12
+0,17,cat food care,9
+0,13,hot cereal pancake mixes,9
+0,9,meat counter,3
+0,23,paper goods,6
+1,15,packaged cheese,66
+1,18,water seltzer sparkling water,21
+1,20,instant foods,6
+1,18,chips pretzels,30
+1,13,first aid,3
+1,17,pickled goods olives,3
+1,11,frozen juice,3
+1,1,energy sports drinks,3
+1,18,tea,6
+2,16,spirits,3
+2,22,pasta sauce,21
+2,8,chips pretzels,30
+2,16,frozen produce,12
+2,22,soft drinks,6
+2,5,spices seasonings,3
+2,18,latino foods,3
+3,17,soft drinks,10
+3,11,body lotions soap,6
+3,12,spices seasonings,14
+3,18,missing,6
+3,19,soft drinks,6
+3,22,refrigerated,12
+3,16,other creams cheeses,12
+3,17,frozen meals,14
+3,10,bakery desserts,2
+3,22,tea,6
+3,11,paper goods,2
+0,12,fresh vegetables,402
+0,11,bread,48
+0,19,ice cream ice,27
+0,16,baking ingredients,15
+0,8,poultry counter,6
+0,16,skin care,6
+0,16,condiments,51
+0,17,food storage,3
+0,20,bulk grains rice dried goods,3
+0,19,frozen juice,3
+1,18,fresh pasta,3
+1,18,spreads,21
+1,9,eggs,33
+1,9,popcorn jerky,24
+1,10,cleaning products,9
+1,1,soy lactosefree,3
+1,14,beauty,3
+1,11,missing,6
+1,8,candy chocolate,21
+1,11,hot cereal pancake mixes,6
+2,15,specialty cheeses,3
+2,14,coffee,12
+2,14,more household,3
+2,7,cream,3
+2,11,canned fruit applesauce,6
+3,15,fresh dips tapenades,14
+3,14,food storage,2
+3,15,pasta sauce,4
+3,13,soft drinks,14
+3,18,fruit vegetable snacks,2
+0,18,soy lactosefree,45
+0,22,bulk grains rice dried goods,6
+0,11,popcorn jerky,21
+0,15,food storage,6
+0,7,packaged cheese,21
+0,10,feminine care,6
+0,6,spices seasonings,3
+1,10,juice nectars,18
+1,13,frozen produce,18
+1,18,hot dogs bacon sausage,18
+1,13,cereal,24
+1,9,dog food care,9
+1,19,nuts seeds dried fruit,3
+1,18,paper goods,6
+1,9,energy granola bars,30
+1,7,prepared soups salads,3
+1,9,canned meals beans,9
+1,10,tortillas flat bread,12
+1,19,frozen appetizers sides,6
+1,9,plates bowls cups flatware,3
+2,10,oils vinegars,9
+2,19,breakfast bakery,6
+2,21,refrigerated,9
+2,14,energy granola bars,24
+2,22,fruit vegetable snacks,3
+2,10,ice cream ice,9
+3,15,frozen produce,16
+3,13,canned jarred vegetables,20
+3,0,paper goods,2
+3,18,milk,6
+3,17,fruit vegetable snacks,12
+3,22,salad dressing toppings,2
+3,11,frozen meals,20
+3,10,eggs,6
+0,12,juice nectars,36
+0,16,canned jarred vegetables,36
+0,16,dog food care,9
+0,8,soft drinks,6
+0,12,bakery desserts,3
+0,19,spreads,3
+0,8,bulk dried fruits vegetables,3
+0,23,soft drinks,3
+0,21,dry pasta,6
+0,12,red wines,3
+1,22,specialty cheeses,3
+1,8,breakfast bakery,18
+1,23,fruit vegetable snacks,3
+1,17,trash bags liners,6
+1,21,pickled goods olives,3
+1,11,dog food care,3
+2,18,fresh fruits,144
+2,15,tea,33
+2,9,packaged produce,33
+2,21,prepared meals,12
+2,14,honeys syrups nectars,6
+2,18,grains rice dried goods,15
+2,13,eggs,18
+2,17,plates bowls cups flatware,3
+2,18,pickled goods olives,3
+3,0,water seltzer sparkling water,6
+3,17,chips pretzels,30
+3,11,cream,18
+3,13,tea,2
+3,21,spices seasonings,2
+3,11,crackers,28
+3,10,kitchen supplies,2
+3,17,tofu meat alternatives,4
+3,21,chips pretzels,4
+3,8,oils vinegars,2
+3,16,specialty cheeses,2
+3,10,granola,4
+0,8,yogurt,57
+0,15,fresh herbs,54
+0,19,refrigerated,15
+0,18,juice nectars,15
+0,19,plates bowls cups flatware,3
+0,20,crackers,3
+0,3,soy lactosefree,3
+0,7,dish detergents,3
+0,6,juice nectars,6
+1,11,soft drinks,33
+1,5,yogurt,9
+1,13,popcorn jerky,6
+1,18,fresh fruits,147
+1,7,eggs,12
+1,17,canned meat seafood,12
+1,17,breakfast bars pastries,6
+2,9,frozen pizza,9
+2,11,soft drinks,15
+2,10,food storage,3
+2,14,hot dogs bacon sausage,24
+2,10,canned meat seafood,6
+2,7,frozen dessert,3
+3,17,buns rolls,2
+3,10,marinades meat preparation,4
+3,13,packaged seafood,2
+3,14,specialty cheeses,2
+3,16,asian foods,8
+3,13,food storage,2
+0,9,more household,3
+0,16,energy granola bars,36
+1,11,cereal,9
+1,18,honeys syrups nectars,6
+1,18,buns rolls,12
+1,13,laundry,6
+1,7,yogurt,30
+1,22,milk,3
+1,8,frozen breakfast,6
+1,9,candy chocolate,3
+1,19,facial care,3
+2,19,energy granola bars,21
+2,19,other creams cheeses,9
+2,16,cookies cakes,9
+2,13,energy granola bars,18
+2,22,condiments,6
+2,9,cookies cakes,18
+2,10,other creams cheeses,12
+2,14,beers coolers,3
+3,9,butter,2
+3,14,juice nectars,4
+3,9,spreads,4
+0,12,marinades meat preparation,6
+0,23,packaged vegetables fruits,30
+0,18,nuts seeds dried fruit,15
+0,15,latino foods,3
+0,8,cat food care,9
+0,10,vitamins supplements,3
+1,11,packaged vegetables fruits,90
+1,14,energy granola bars,48
+1,9,preserved dips spreads,9
+1,10,candy chocolate,24
+1,6,prepared meals,3
+1,8,laundry,9
+1,0,packaged seafood,3
+2,18,energy granola bars,3
+2,21,packaged cheese,6
+2,16,butter,12
+2,16,more household,6
+2,17,soft drinks,6
+2,20,canned fruit applesauce,6
+2,19,pasta sauce,12
+2,10,cleaning products,12
+2,8,cereal,12
+2,23,crackers,3
+2,4,soy lactosefree,3
+2,9,muscles joints pain relief,3
+2,21,diapers wipes,3
+3,22,water seltzer sparkling water,8
+3,8,instant foods,14
+3,8,chips pretzels,14
+3,10,coffee,8
+3,13,baking supplies decor,4
+3,18,packaged vegetables fruits,12
+3,16,frozen produce,14
+3,11,baby food formula,10
+3,17,cookies cakes,6
+3,17,frozen vegan vegetarian,2
+0,22,bread,15
+0,12,fresh herbs,33
+0,12,spices seasonings,21
+0,13,beers coolers,3
+1,11,breakfast bakery,9
+1,10,asian foods,15
+1,14,grains rice dried goods,18
+1,8,cleaning products,15
+1,14,yogurt,60
+1,18,dish detergents,3
+1,12,hot cereal pancake mixes,9
+1,10,deodorants,6
+1,23,packaged cheese,3
+1,0,hot cereal pancake mixes,6
+1,11,hot dogs bacon sausage,12
+2,15,tortillas flat bread,9
+2,6,soy lactosefree,3
+2,16,dog food care,6
+2,8,deodorants,3
+2,18,crackers,33
+2,22,first aid,3
+2,17,lunch meat,3
+2,8,prepared soups salads,3
+3,10,canned jarred vegetables,8
+3,22,pasta sauce,4
+3,22,packaged produce,6
+3,10,tofu meat alternatives,2
+3,1,granola,2
+3,12,canned jarred vegetables,2
+3,17,canned fruit applesauce,2
+0,18,bread,21
+0,19,frozen meals,21
+0,9,bread,24
+0,9,paper goods,9
+0,10,coffee,27
+0,14,water seltzer sparkling water,42
+0,5,kosher foods,3
+0,12,cold flu allergy,3
+0,11,cookies cakes,6
+0,10,refrigerated pudding desserts,6
+0,21,asian foods,3
+0,20,marinades meat preparation,3
+1,13,preserved dips spreads,3
+1,6,chips pretzels,3
+1,12,soup broth bouillon,24
+1,10,prepared meals,3
+1,21,dry pasta,6
+1,5,soy lactosefree,3
+1,19,food storage,6
+1,19,hair care,3
+2,12,canned meals beans,21
+2,13,fresh herbs,9
+2,22,packaged vegetables fruits,33
+2,19,frozen meat seafood,6
+2,6,cream,3
+2,16,pickled goods olives,6
+2,18,tea,3
+2,8,condiments,18
+2,7,buns rolls,3
+3,13,trail mix snack mix,2
+3,17,pasta sauce,8
+3,7,hot dogs bacon sausage,4
+3,5,breakfast bakery,2
+0,13,trail mix snack mix,3
+0,13,juice nectars,27
+0,10,cookies cakes,18
+0,18,preserved dips spreads,3
+0,11,prepared meals,9
+0,10,meat counter,6
+0,6,packaged cheese,3
+1,11,popcorn jerky,9
+1,12,pasta sauce,12
+1,1,nuts seeds dried fruit,12
+1,6,fresh fruits,21
+1,13,energy granola bars,6
+1,19,eye ear care,3
+2,14,fresh vegetables,234
+2,16,cat food care,6
+2,8,baby food formula,9
+2,0,hot dogs bacon sausage,3
+3,12,packaged cheese,14
+3,23,preserved dips spreads,2
+3,0,oral hygiene,4
+0,14,hot dogs bacon sausage,36
+0,8,condiments,9
+0,11,soap,21
+0,17,other creams cheeses,24
+0,18,cleaning products,12
+0,20,condiments,3
+1,22,fresh vegetables,12
+1,9,yogurt,78
+1,16,frozen pizza,15
+1,8,fresh dips tapenades,12
+2,9,soup broth bouillon,33
+2,11,packaged vegetables fruits,45
+2,18,soft drinks,33
+2,10,red wines,6
+2,19,missing,3
+2,14,packaged produce,12
+2,8,energy sports drinks,3
+3,17,doughs gelatins bake mixes,6
+3,7,paper goods,8
+3,9,packaged seafood,2
+3,20,cereal,10
+3,10,mint gum,2
+3,12,specialty cheeses,2
+0,10,canned fruit applesauce,6
+0,9,prepared soups salads,6
+0,19,frozen breakfast,12
+0,17,nuts seeds dried fruit,15
+0,13,spices seasonings,21
+0,19,poultry counter,3
+0,19,hot cereal pancake mixes,3
+1,8,soy lactosefree,42
+1,10,dog food care,3
+1,12,refrigerated,18
+1,16,trash bags liners,6
+1,12,oils vinegars,15
+1,22,fresh fruits,24
+1,8,baby accessories,6
+1,17,marinades meat preparation,9
+1,22,energy sports drinks,3
+1,16,frozen meat seafood,3
+2,13,packaged vegetables fruits,105
+2,14,pasta sauce,9
+2,8,soy lactosefree,27
+2,15,packaged produce,21
+2,22,milk,12
+2,10,spices seasonings,15
+2,22,feminine care,6
+2,17,asian foods,6
+2,7,spices seasonings,3
+2,11,plates bowls cups flatware,3
+2,7,asian foods,3
+2,6,canned jarred vegetables,3
+2,23,fresh dips tapenades,3
+3,8,juice nectars,8
+3,17,juice nectars,14
+3,16,fresh vegetables,82
+3,20,dry pasta,8
+3,15,energy granola bars,12
+3,21,bread,2
+3,13,refrigerated pudding desserts,4
+3,15,cereal,8
+3,4,fresh vegetables,12
+0,10,juice nectars,30
+0,13,water seltzer sparkling water,30
+0,8,cookies cakes,9
+0,14,specialty cheeses,21
+0,13,dry pasta,27
+0,14,asian foods,33
+0,20,milk,18
+0,16,packaged poultry,12
+0,23,breakfast bakery,3
+1,11,other creams cheeses,9
+1,20,fresh vegetables,51
+1,10,hot cereal pancake mixes,21
+1,11,chips pretzels,21
+1,21,ice cream ice,6
+1,16,coffee,9
+1,10,other creams cheeses,15
+1,15,digestion,3
+1,0,prepared soups salads,3
+1,15,bulk grains rice dried goods,3
+2,11,water seltzer sparkling water,39
+2,16,fresh vegetables,123
+2,14,seafood counter,3
+2,8,dry pasta,24
+2,13,tortillas flat bread,6
+2,19,packaged meat,3
+2,17,butter,9
+2,18,breakfast bars pastries,9
+2,18,cocoa drink mixes,6
+2,17,poultry counter,3
+2,0,frozen pizza,3
+3,22,soy lactosefree,6
+3,8,asian foods,4
+3,18,packaged produce,14
+3,10,hot dogs bacon sausage,6
+3,14,asian foods,2
+3,13,seafood counter,2
+3,4,yogurt,2
+0,17,body lotions soap,6
+0,18,tortillas flat bread,21
+0,19,frozen appetizers sides,6
+0,16,deodorants,6
+0,11,juice nectars,33
+0,14,trash bags liners,3
+1,22,breakfast bakery,6
+1,13,digestion,6
+1,19,other creams cheeses,18
+1,10,food storage,3
+1,18,prepared meals,9
+1,19,cream,6
+1,0,beauty,3
+1,6,cold flu allergy,9
+2,7,diapers wipes,6
+2,13,baking ingredients,21
+2,9,cold flu allergy,9
+2,7,soap,6
+3,11,fresh fruits,82
+3,14,nuts seeds dried fruit,14
+3,15,packaged poultry,4
+3,21,yogurt,8
+3,11,bakery desserts,2
+3,9,ice cream ice,4
+3,16,tofu meat alternatives,4
+3,5,fresh fruits,2
+0,10,frozen appetizers sides,21
+0,13,soup broth bouillon,42
+0,9,preserved dips spreads,12
+0,11,frozen meals,48
+0,15,granola,12
+0,14,grains rice dried goods,12
+0,22,water seltzer sparkling water,6
+0,11,cleaning products,21
+0,15,spices seasonings,18
+0,17,cocoa drink mixes,3
+0,13,packaged seafood,3
+0,0,fruit vegetable snacks,3
+1,8,water seltzer sparkling water,66
+1,14,canned meals beans,15
+1,15,granola,9
+1,20,breakfast bars pastries,3
+1,11,soy lactosefree,24
+1,13,asian foods,6
+1,15,laundry,9
+1,1,frozen vegan vegetarian,6
+1,19,red wines,6
+2,14,baking ingredients,24
+2,22,fresh herbs,12
+2,12,paper goods,27
+2,17,air fresheners candles,3
+2,18,poultry counter,6
+2,12,cookies cakes,18
+2,13,cat food care,3
+2,4,packaged cheese,6
+2,23,lunch meat,3
+3,20,yogurt,8
+3,16,packaged produce,2
+3,9,air fresheners candles,2
+3,19,oral hygiene,4
+3,8,condiments,4
+0,8,missing,9
+0,21,milk,12
+0,13,digestion,3
+0,18,digestion,9
+0,10,baking ingredients,60
+0,19,fresh herbs,18
+0,12,meat counter,9
+0,20,baby food formula,42
+0,16,cream,24
+1,19,pasta sauce,9
+1,16,kitchen supplies,3
+1,15,cream,30
+1,16,canned meat seafood,3
+2,19,meat counter,3
+2,11,frozen meat seafood,6
+2,8,fresh dips tapenades,21
+2,14,feminine care,3
+2,10,buns rolls,3
+2,22,trail mix snack mix,6
+2,9,canned fruit applesauce,3
+2,20,grains rice dried goods,6
+2,4,crackers,9
+2,18,food storage,3
+3,10,food storage,2
+3,10,soy lactosefree,12
+3,19,packaged produce,6
+3,9,chips pretzels,4
+3,12,instant foods,4
+3,14,digestion,2
+3,20,salad dressing toppings,4
+3,12,nuts seeds dried fruit,10
+0,19,chips pretzels,12
+0,14,canned meals beans,27
+0,17,spices seasonings,24
+0,13,energy granola bars,27
+0,22,tortillas flat bread,6
+0,9,spirits,3
+0,13,protein meal replacements,6
+0,10,trash bags liners,6
+0,17,trail mix snack mix,3
+0,12,baking supplies decor,6
+0,18,frozen vegan vegetarian,3
+0,14,cocoa drink mixes,3
+0,23,popcorn jerky,3
+0,2,cereal,3
+0,9,ice cream toppings,3
+0,22,feminine care,3
+1,8,crackers,15
+1,14,packaged vegetables fruits,132
+1,16,soft drinks,12
+1,13,water seltzer sparkling water,45
+1,9,fresh herbs,12
+1,15,plates bowls cups flatware,3
+1,22,refrigerated pudding desserts,3
+1,13,tofu meat alternatives,3
+1,14,bakery desserts,3
+2,8,yogurt,51
+2,11,cleaning products,6
+2,10,eggs,15
+2,22,missing,3
+2,19,hot cereal pancake mixes,6
+2,13,frozen meat seafood,3
+2,4,frozen appetizers sides,3
+2,15,shave needs,3
+3,22,grains rice dried goods,4
+3,10,soft drinks,16
+3,16,fresh fruits,76
+3,11,refrigerated,10
+3,17,condiments,10
+3,12,packaged produce,6
+3,0,yogurt,6
+3,15,muscles joints pain relief,2
+0,13,grains rice dried goods,12
+0,16,missing,27
+0,5,hot dogs bacon sausage,3
+0,15,fruit vegetable snacks,12
+0,7,energy granola bars,27
+0,16,digestion,3
+1,16,canned jarred vegetables,18
+1,16,shave needs,3
+1,8,oral hygiene,3
+1,12,specialty cheeses,9
+1,7,air fresheners candles,3
+1,19,bakery desserts,3
+2,22,fresh vegetables,39
+2,19,chips pretzels,15
+2,11,tea,21
+2,9,feminine care,3
+2,20,packaged vegetables fruits,30
+2,11,latino foods,6
+2,18,baby food formula,18
+2,11,bakery desserts,6
+2,17,cream,12
+2,9,grains rice dried goods,3
+3,7,baking ingredients,4
+3,11,soy lactosefree,20
+3,13,coffee,8
+3,20,packaged cheese,10
+3,20,grains rice dried goods,6
+3,21,granola,2
+3,12,crackers,2
+0,15,fresh fruits,303
+0,11,butter,27
+0,13,breakfast bakery,24
+0,3,water seltzer sparkling water,3
+0,18,buns rolls,3
+1,11,fresh fruits,240
+1,19,dry pasta,6
+1,7,frozen meals,30
+1,14,soft drinks,12
+1,21,canned jarred vegetables,12
+1,9,packaged produce,27
+1,15,marinades meat preparation,9
+1,7,instant foods,6
+2,6,baking ingredients,3
+2,18,baking ingredients,30
+2,17,other creams cheeses,27
+2,7,bread,21
+2,15,spices seasonings,12
+2,8,lunch meat,12
+2,12,candy chocolate,24
+3,13,nuts seeds dried fruit,12
+3,0,cream,4
+3,22,oils vinegars,2
+3,19,frozen pizza,4
+3,13,cat food care,2
+0,15,frozen meals,33
+0,9,ice cream ice,15
+0,19,packaged vegetables fruits,72
+0,7,fresh herbs,6
+0,12,hot dogs bacon sausage,30
+0,13,nuts seeds dried fruit,15
+0,17,frozen meat seafood,3
+1,9,oils vinegars,12
+1,13,nuts seeds dried fruit,15
+1,22,condiments,3
+1,10,baby food formula,21
+1,8,muscles joints pain relief,3
+1,20,cookies cakes,6
+1,10,mint gum,3
+2,13,spices seasonings,15
+2,21,frozen meals,15
+2,11,instant foods,12
+2,16,spreads,12
+2,23,juice nectars,3
+2,16,fruit vegetable snacks,3
+3,17,other creams cheeses,6
+3,12,juice nectars,4
+3,15,popcorn jerky,2
+3,7,bread,6
+3,22,packaged cheese,14
+3,7,honeys syrups nectars,4
+3,6,oils vinegars,2
+3,6,packaged vegetables fruits,6
+3,21,baking ingredients,4
+3,10,prepared meals,2
+3,11,instant foods,4
+0,17,packaged vegetables fruits,168
+0,21,trail mix snack mix,3
+0,16,refrigerated,48
+0,15,baking ingredients,36
+0,21,canned meals beans,9
+0,7,soup broth bouillon,6
+0,22,packaged cheese,6
+0,20,yogurt,39
+0,16,prepared meals,21
+0,10,frozen meat seafood,9
+0,19,vitamins supplements,3
+0,7,energy sports drinks,3
+0,20,frozen meals,6
+0,17,condiments,9
+0,9,frozen juice,3
+1,8,spreads,3
+1,7,protein meal replacements,3
+1,9,mint gum,3
+1,17,soft drinks,12
+1,20,prepared soups salads,3
+2,9,nuts seeds dried fruit,9
+2,17,baby food formula,36
+2,16,paper goods,24
+2,14,canned meals beans,12
+2,16,hot cereal pancake mixes,3
+2,22,cream,3
+2,11,food storage,9
+3,0,spices seasonings,6
+3,9,popcorn jerky,4
+3,19,cat food care,2
+3,18,oral hygiene,4
+3,0,crackers,2
+0,10,frozen breakfast,39
+0,6,soy lactosefree,21
+0,7,spices seasonings,6
+0,20,doughs gelatins bake mixes,6
+0,9,frozen appetizers sides,9
+0,15,packaged seafood,3
+0,2,energy granola bars,6
+0,22,soft drinks,3
+1,15,canned jarred vegetables,18
+1,17,fresh vegetables,168
+1,9,frozen meals,15
+1,15,frozen meals,27
+1,7,breakfast bars pastries,6
+1,9,energy sports drinks,6
+2,15,crackers,9
+2,13,soy lactosefree,18
+2,7,milk,15
+2,7,frozen meals,6
+2,22,meat counter,3
+2,4,canned fruit applesauce,3
+2,8,pasta sauce,3
+3,14,soft drinks,8
+3,12,bread,8
+3,23,lunch meat,8
+3,18,frozen produce,2
+3,11,frozen meat seafood,2
+3,20,frozen vegan vegetarian,8
+3,9,frozen pizza,4
+3,16,cat food care,2
+3,1,packaged cheese,2
+3,15,refrigerated pudding desserts,2
+1,14,frozen dessert,3
+0,18,asian foods,12
+0,6,chips pretzels,3
+0,19,grains rice dried goods,3
+1,12,cream,6
+1,20,energy sports drinks,3
+1,2,canned meat seafood,3
+2,23,spices seasonings,9
+2,17,energy granola bars,12
+2,22,chips pretzels,12
+2,16,candy chocolate,15
+2,13,packaged poultry,6
+2,18,canned meat seafood,6
+2,21,trash bags liners,3
+2,20,digestion,3
+2,16,grains rice dried goods,3
+3,15,canned fruit applesauce,8
+3,15,condiments,4
+3,19,packaged vegetables fruits,48
+3,14,doughs gelatins bake mixes,2
+3,13,canned fruit applesauce,2
+3,10,cereal,4
+3,20,pickled goods olives,4
+3,23,dish detergents,2
+3,15,grains rice dried goods,2
+0,8,tortillas flat bread,18
+0,21,frozen produce,33
+0,14,poultry counter,15
+0,17,frozen breakfast,45
+0,11,body lotions soap,6
+1,10,pickled goods olives,9
+1,13,spices seasonings,21
+1,18,fresh dips tapenades,15
+1,7,canned jarred vegetables,6
+1,18,energy sports drinks,9
+2,4,refrigerated,6
+2,8,fresh fruits,108
+2,7,cleaning products,3
+2,15,ice cream ice,36
+2,20,fresh fruits,75
+2,7,packaged cheese,24
+2,14,trail mix snack mix,6
+3,9,bulk dried fruits vegetables,2
+3,9,refrigerated,14
+3,13,salad dressing toppings,4
+3,16,frozen vegan vegetarian,14
+3,20,meat counter,4
+3,8,paper goods,4
+3,21,energy sports drinks,4
+0,8,cereal,12
+0,18,packaged poultry,18
+0,22,yogurt,39
+0,22,juice nectars,9
+0,10,seafood counter,9
+0,11,condiments,48
+0,21,breakfast bars pastries,12
+0,8,granola,6
+0,15,pickled goods olives,18
+0,7,dry pasta,12
+0,8,other,3
+0,12,other,3
+1,13,lunch meat,9
+1,10,trail mix snack mix,6
+1,14,popcorn jerky,21
+1,11,mint gum,3
+1,16,meat counter,9
+1,8,hot cereal pancake mixes,15
+1,21,nuts seeds dried fruit,6
+1,7,buns rolls,6
+2,15,fresh fruits,150
+2,7,fresh dips tapenades,6
+3,17,body lotions soap,4
+3,15,ice cream ice,20
+3,13,canned meals beans,6
+3,11,cookies cakes,16
+3,13,tortillas flat bread,6
+3,13,milk,38
+3,19,ice cream ice,8
+3,23,energy granola bars,4
+3,16,frozen appetizers sides,8
+3,5,kitchen supplies,2
+3,20,energy granola bars,6
+3,9,pickled goods olives,4
+3,4,milk,2
+0,19,milk,36
+0,9,nuts seeds dried fruit,18
+0,12,hair care,6
+0,18,body lotions soap,9
+1,16,lunch meat,36
+1,18,eggs,18
+1,18,fresh vegetables,216
+1,13,kosher foods,6
+1,17,oils vinegars,9
+1,15,pickled goods olives,9
+1,12,pickled goods olives,9
+2,20,candy chocolate,6
+2,13,refrigerated,18
+2,10,paper goods,12
+2,21,frozen produce,3
+2,23,oils vinegars,3
+3,12,tortillas flat bread,2
+3,14,refrigerated pudding desserts,8
+3,15,tortillas flat bread,4
+3,15,breakfast bars pastries,2
+3,4,baking ingredients,2
+0,11,refrigerated,48
+0,14,packaged vegetables fruits,255
+0,22,soy lactosefree,9
+0,9,salad dressing toppings,3
+0,12,cookies cakes,33
+0,15,butter,18
+0,17,tortillas flat bread,3
+0,19,condiments,3
+1,11,cream,15
+1,14,frozen pizza,24
+1,12,canned meals beans,6
+1,15,frozen produce,27
+1,11,digestion,3
+1,17,tea,6
+2,12,frozen pizza,3
+2,10,soup broth bouillon,15
+2,19,packaged produce,9
+2,14,spreads,30
+2,15,salad dressing toppings,3
+2,15,oral hygiene,3
+3,13,candy chocolate,8
+3,17,frozen meat seafood,2
+3,9,energy granola bars,16
+3,17,water seltzer sparkling water,20
+3,11,lunch meat,16
+3,21,butter,2
+3,0,fresh herbs,4
+3,12,ice cream ice,2
+0,11,hot cereal pancake mixes,27
+0,9,frozen breakfast,15
+0,22,packaged produce,15
+0,12,dry pasta,60
+0,12,ice cream ice,60
+0,9,water seltzer sparkling water,39
+0,5,soy lactosefree,9
+0,10,instant foods,33
+0,6,tea,3
+1,16,yogurt,78
+1,11,tortillas flat bread,6
+1,7,frozen breakfast,12
+1,9,other creams cheeses,6
+1,14,breakfast bars pastries,6
+2,21,tortillas flat bread,6
+2,12,fresh vegetables,207
+2,21,breakfast bakery,3
+2,16,soap,3
+2,10,laundry,9
+2,11,dish detergents,3
+3,0,cold flu allergy,4
+3,9,water seltzer sparkling water,10
+3,18,dog food care,2
+3,10,baby food formula,8
+3,22,canned jarred vegetables,2
+3,14,pickled goods olives,2
+3,5,milk,4
+3,5,canned fruit applesauce,2
+0,21,fresh fruits,96
+0,21,soy lactosefree,21
+0,13,buns rolls,6
+0,13,candy chocolate,12
+0,19,fresh fruits,126
+0,1,spreads,3
+0,19,water seltzer sparkling water,21
+0,18,frozen meals,63
+0,17,specialty cheeses,6
+0,16,spices seasonings,30
+0,21,spices seasonings,6
+0,11,canned fruit applesauce,9
+0,13,other,3
+0,22,frozen meals,6
+1,11,latino foods,6
+1,10,cookies cakes,24
+1,9,fresh dips tapenades,18
+1,10,prepared soups salads,3
+1,18,energy granola bars,9
+1,16,energy sports drinks,6
+1,14,granola,6
+1,14,energy sports drinks,3
+2,14,cleaning products,6
+2,13,packaged seafood,3
+2,22,juice nectars,9
+2,0,tortillas flat bread,3
+2,22,energy sports drinks,3
+2,20,fruit vegetable snacks,6
+3,15,eggs,14
+3,17,baking supplies decor,4
+3,18,packaged cheese,10
+3,14,cleaning products,4
+3,18,refrigerated,14
+3,0,fruit vegetable snacks,4
+3,19,other creams cheeses,2
+3,10,trail mix snack mix,2
+3,8,eye ear care,6
+3,18,fresh herbs,2
+3,10,poultry counter,2
+0,7,fresh vegetables,72
+0,5,salad dressing toppings,3
+0,11,nuts seeds dried fruit,24
+0,6,butter,3
+0,8,other creams cheeses,3
+0,17,canned meals beans,24
+1,17,packaged vegetables fruits,99
+1,16,packaged vegetables fruits,99
+1,21,juice nectars,24
+1,13,soup broth bouillon,21
+1,20,chips pretzels,33
+1,13,canned meat seafood,3
+1,12,protein meal replacements,3
+1,13,fruit vegetable snacks,18
+1,19,energy granola bars,18
+1,17,coffee,15
+1,13,poultry counter,6
+1,15,condiments,6
+1,11,dish detergents,9
+2,10,cereal,21
+2,15,canned fruit applesauce,3
+2,7,doughs gelatins bake mixes,6
+2,16,packaged meat,3
+2,9,energy sports drinks,9
+3,9,laundry,4
+3,23,poultry counter,2
+3,14,cold flu allergy,2
+3,16,salad dressing toppings,2
+0,18,hot dogs bacon sausage,12
+0,10,ice cream ice,36
+0,13,breakfast bars pastries,9
+0,8,crackers,30
+0,21,frozen meals,9
+0,12,popcorn jerky,9
+0,15,frozen breakfast,18
+0,15,instant foods,33
+0,11,soup broth bouillon,24
+0,9,packaged poultry,6
+0,12,oils vinegars,9
+0,7,missing,6
+1,19,fresh fruits,84
+1,16,fresh fruits,159
+1,11,paper goods,15
+1,18,canned meals beans,30
+1,7,fresh fruits,96
+1,6,soy lactosefree,6
+1,15,fruit vegetable snacks,9
+1,15,buns rolls,6
+1,1,packaged produce,3
+1,10,bulk dried fruits vegetables,3
+2,15,bread,18
+2,18,indian foods,3
+2,20,cleaning products,6
+2,11,trail mix snack mix,6
+2,17,tea,9
+2,19,bread,3
+2,4,ice cream ice,3
+3,7,spreads,6
+3,8,breakfast bakery,8
+3,14,crackers,14
+3,15,tofu meat alternatives,6
+3,11,trail mix snack mix,4
+3,2,fresh herbs,4
+0,8,pasta sauce,9
+0,15,buns rolls,30
+0,12,yogurt,117
+0,12,frozen meals,78
+0,12,frozen produce,66
+0,12,indian foods,3
+0,17,popcorn jerky,21
+0,13,body lotions soap,12
+0,11,salad dressing toppings,6
+0,21,oils vinegars,3
+0,8,preserved dips spreads,6
+0,19,coffee,3
+0,15,specialty cheeses,3
+0,19,dry pasta,9
+0,0,dry pasta,3
+1,8,chips pretzels,30
+1,21,baby food formula,30
+1,7,packaged poultry,3
+1,10,energy granola bars,45
+1,21,asian foods,6
+1,15,nuts seeds dried fruit,21
+1,12,prepared meals,3
+1,20,pickled goods olives,3
+1,9,cleaning products,3
+1,10,energy sports drinks,27
+1,23,other creams cheeses,3
+2,22,other,3
+2,12,canned jarred vegetables,30
+2,16,packaged produce,6
+2,13,marinades meat preparation,3
+2,9,hot dogs bacon sausage,9
+3,14,fresh fruits,80
+3,23,frozen appetizers sides,8
+3,8,packaged seafood,2
+3,17,other,6
+3,17,frozen breakfast,2
+3,19,tortillas flat bread,4
+3,20,candy chocolate,6
+3,22,bread,4
+3,22,spices seasonings,2
+3,4,packaged vegetables fruits,2
+0,11,fresh fruits,432
+0,17,cream,21
+0,18,crackers,39
+0,13,chips pretzels,66
+0,10,specialty cheeses,12
+0,14,cream,27
+0,11,frozen meat seafood,9
+0,12,crackers,45
+0,22,asian foods,6
+0,10,poultry counter,15
+0,16,coffee,15
+0,8,packaged produce,3
+0,7,pasta sauce,3
+0,18,white wines,3
+0,6,nuts seeds dried fruit,3
+1,11,refrigerated pudding desserts,3
+1,14,fresh dips tapenades,18
+1,19,frozen meat seafood,6
+2,9,canned jarred vegetables,21
+2,16,refrigerated,54
+2,13,spreads,9
+2,17,fresh fruits,141
+2,18,body lotions soap,6
+2,12,juice nectars,9
+2,20,canned meals beans,3
+2,2,packaged vegetables fruits,3
+2,12,plates bowls cups flatware,3
+2,11,frozen appetizers sides,3
+3,11,canned jarred vegetables,8
+3,9,fresh dips tapenades,6
+3,9,cleaning products,2
+3,6,soup broth bouillon,2
+3,9,packaged cheese,12
+3,8,baby food formula,16
+0,19,canned jarred vegetables,3
+0,7,frozen meat seafood,6
+0,2,bread,3
+0,10,marinades meat preparation,6
+1,12,energy sports drinks,3
+1,10,eggs,18
+1,19,chips pretzels,18
+1,20,frozen pizza,3
+1,9,pasta sauce,9
+1,11,pickled goods olives,3
+1,19,paper goods,6
+2,9,fresh fruits,159
+2,17,frozen vegan vegetarian,18
+2,19,water seltzer sparkling water,39
+2,21,soft drinks,6
+2,8,vitamins supplements,3
+2,13,plates bowls cups flatware,9
+3,19,tea,2
+3,21,canned meat seafood,2
+3,15,soap,2
+3,18,tofu meat alternatives,2
+3,8,frozen meat seafood,2
+3,9,frozen meals,4
+0,10,fresh dips tapenades,33
+0,14,missing,33
+0,5,energy granola bars,3
+0,18,tofu meat alternatives,3
+0,5,packaged vegetables fruits,6
+0,18,cocoa drink mixes,3
+0,20,dry pasta,9
+1,13,trash bags liners,3
+1,20,fruit vegetable snacks,12
+1,14,juice nectars,21
+1,20,soup broth bouillon,6
+1,16,cookies cakes,24
+1,18,bulk grains rice dried goods,6
+1,14,tea,3
+2,16,preserved dips spreads,6
+2,10,water seltzer sparkling water,39
+2,16,lunch meat,30
+2,19,packaged poultry,9
+2,11,hot cereal pancake mixes,3
+2,18,spices seasonings,6
+2,5,soup broth bouillon,6
+3,15,soy lactosefree,24
+3,19,water seltzer sparkling water,10
+3,14,lunch meat,14
+3,10,refrigerated,16
+3,16,cream,4
+3,20,laundry,4
+3,15,oils vinegars,6
+3,6,dry pasta,2
+3,21,other creams cheeses,2
+0,13,frozen pizza,30
+0,1,frozen meals,3
+0,15,canned fruit applesauce,6
+0,10,spices seasonings,15
+0,7,frozen produce,18
+0,17,other,6
+1,8,juice nectars,6
+1,12,body lotions soap,6
+1,14,soy lactosefree,48
+1,15,canned meals beans,15
+2,8,packaged vegetables fruits,45
+2,6,spreads,6
+2,18,tortillas flat bread,12
+2,10,spreads,6
+2,8,cleaning products,3
+2,22,plates bowls cups flatware,3
+2,17,crackers,12
+2,9,beers coolers,6
+2,12,dish detergents,6
+3,10,fresh herbs,8
+3,15,canned jarred vegetables,8
+3,16,pickled goods olives,6
+3,12,frozen appetizers sides,4
+3,19,protein meal replacements,4
+3,7,fresh herbs,4
+0,17,butter,15
+0,19,fruit vegetable snacks,18
+0,10,prepared soups salads,12
+0,9,laundry,3
+0,17,cookies cakes,15
+1,8,fresh fruits,255
+1,9,frozen breakfast,33
+1,12,frozen meals,30
+1,1,salad dressing toppings,3
+2,10,packaged cheese,30
+2,11,soap,3
+2,22,refrigerated,3
+2,8,laundry,3
+2,18,kosher foods,3
+2,15,canned meals beans,15
+2,13,prepared meals,3
+2,12,tortillas flat bread,3
+2,19,fruit vegetable snacks,6
+2,12,latino foods,6
+2,10,baby food formula,18
+2,11,frozen breads doughs,3
+3,14,oils vinegars,10
+3,13,honeys syrups nectars,4
+3,2,fruit vegetable snacks,2
+3,21,red wines,2
+0,13,butter,18
+0,1,fresh fruits,15
+0,14,paper goods,36
+0,16,frozen dessert,3
+0,17,prepared meals,9
+1,8,doughs gelatins bake mixes,3
+1,11,fresh vegetables,150
+1,9,packaged poultry,9
+1,21,diapers wipes,6
+1,10,salad dressing toppings,3
+1,15,grains rice dried goods,3
+1,12,poultry counter,3
+2,11,canned jarred vegetables,18
+2,17,juice nectars,15
+2,9,salad dressing toppings,3
+2,12,soap,6
+2,11,breakfast bakery,15
+2,18,chips pretzels,18
+3,17,fresh vegetables,126
+3,23,bread,14
+3,23,hot dogs bacon sausage,6
+3,19,salad dressing toppings,4
+3,7,cereal,4
+3,16,coffee,4
+0,16,paper goods,48
+0,14,tortillas flat bread,24
+0,9,lunch meat,18
+0,14,buns rolls,15
+0,15,salad dressing toppings,21
+0,15,baking supplies decor,3
+0,9,cat food care,3
+1,10,cereal,12
+1,22,fresh dips tapenades,12
+1,10,diapers wipes,3
+1,7,candy chocolate,6
+1,1,chips pretzels,3
+1,17,instant foods,6
+1,0,soy lactosefree,6
+2,15,energy granola bars,15
+2,9,asian foods,9
+2,23,frozen vegan vegetarian,3
+2,12,spices seasonings,9
+2,16,eggs,6
+2,2,breakfast bakery,3
+2,17,grains rice dried goods,3
+2,7,oils vinegars,3
+3,23,baking ingredients,4
+3,21,soy lactosefree,8
+3,13,pickled goods olives,4
+3,12,frozen pizza,2
+3,14,energy granola bars,20
+3,5,canned meals beans,2
+3,10,fresh dips tapenades,6
+3,16,frozen meals,10
+3,22,cookies cakes,2
+3,12,bakery desserts,2
+3,1,fresh fruits,2
+0,18,eggs,33
+0,17,eggs,39
+0,11,fresh dips tapenades,60
+0,18,energy granola bars,12
+0,9,milk,48
+0,12,cleaning products,9
+0,17,dog food care,3
+0,13,mint gum,3
+0,5,soap,3
+1,11,canned meals beans,15
+1,12,fresh fruits,132
+1,10,packaged poultry,6
+1,14,breakfast bakery,15
+1,12,asian foods,18
+1,12,grains rice dried goods,12
+1,12,meat counter,3
+1,8,canned jarred vegetables,12
+1,11,deodorants,3
+1,9,frozen produce,9
+2,9,juice nectars,15
+2,14,packaged vegetables fruits,108
+2,6,packaged produce,3
+2,8,instant foods,18
+2,20,yogurt,15
+2,11,bread,15
+2,18,paper goods,15
+2,7,chips pretzels,18
+2,16,popcorn jerky,6
+2,8,grains rice dried goods,6
+2,22,canned jarred vegetables,12
+2,20,packaged produce,3
+3,16,juice nectars,8
+3,9,protein meal replacements,2
+3,7,frozen appetizers sides,6
+3,20,preserved dips spreads,2
+3,8,crackers,4
+3,13,doughs gelatins bake mixes,4
+0,12,eggs,63
+0,16,frozen meals,18
+0,13,pasta sauce,36
+0,12,tofu meat alternatives,18
+0,16,canned meat seafood,18
+0,14,soap,9
+0,23,soy lactosefree,6
+0,6,poultry counter,3
+1,9,tea,39
+1,11,baking ingredients,27
+1,14,refrigerated pudding desserts,6
+1,20,packaged seafood,3
+2,10,energy granola bars,39
+2,7,juice nectars,18
+2,9,packaged cheese,24
+2,11,yogurt,69
+2,7,cookies cakes,6
+2,14,paper goods,3
+2,23,candy chocolate,6
+2,12,granola,3
+3,15,juice nectars,12
+3,8,energy granola bars,14
+3,9,pasta sauce,4
+3,14,body lotions soap,2
+3,17,grains rice dried goods,2
+0,19,soy lactosefree,12
+0,15,meat counter,15
+0,21,eggs,9
+0,11,mint gum,3
+0,12,latino foods,21
+0,6,cream,6
+0,1,hot cereal pancake mixes,3
+0,14,hair care,6
+0,0,buns rolls,3
+1,10,milk,33
+1,6,canned jarred vegetables,3
+1,14,soup broth bouillon,18
+1,21,fresh herbs,6
+1,9,baking ingredients,6
+1,14,condiments,3
+2,13,crackers,27
+2,14,fresh fruits,210
+2,16,fresh fruits,174
+2,21,cream,3
+2,13,candy chocolate,18
+2,17,dry pasta,21
+2,17,soy lactosefree,30
+2,18,muscles joints pain relief,3
+2,7,cat food care,6
+2,8,tortillas flat bread,3
+2,5,frozen meals,6
+3,16,fresh dips tapenades,10
+3,8,muscles joints pain relief,2
+3,14,packaged poultry,2
+3,18,breakfast bakery,2
+3,20,chips pretzels,8
+3,17,deodorants,2
+0,13,oral hygiene,9
+0,1,tortillas flat bread,3
+0,19,baby food formula,6
+0,20,soft drinks,3
+0,21,packaged produce,3
+0,19,pickled goods olives,3
+0,10,eye ear care,3
+0,17,vitamins supplements,3
+0,19,salad dressing toppings,3
+1,14,fresh fruits,291
+1,21,chips pretzels,12
+1,16,chips pretzels,72
+1,13,packaged vegetables fruits,108
+1,18,salad dressing toppings,6
+1,7,preserved dips spreads,3
+2,10,fresh fruits,180
+2,19,eggs,12
+2,10,cookies cakes,6
+2,23,milk,3
+2,10,fresh pasta,3
+2,16,other,3
+3,19,dry pasta,4
+3,0,fresh fruits,24
+3,19,canned jarred vegetables,4
+3,7,tea,2
+3,14,frozen breakfast,8
+3,20,juice nectars,8
+3,14,spreads,6
+3,13,hot cereal pancake mixes,20
+0,16,fresh fruits,456
+0,16,grains rice dried goods,6
+0,23,fresh vegetables,39
+0,9,canned meals beans,24
+0,11,laundry,9
+0,22,dish detergents,3
+1,14,fresh herbs,39
+1,10,honeys syrups nectars,12
+1,19,canned jarred vegetables,9
+2,15,frozen produce,18
+2,7,fruit vegetable snacks,15
+2,16,frozen appetizers sides,9
+2,11,frozen juice,3
+3,15,preserved dips spreads,8
+3,0,cereal,2
+3,17,lunch meat,12
+3,23,refrigerated,10
+3,23,cream,4
+3,22,juice nectars,10
+3,7,frozen breakfast,2
+3,0,baby food formula,2
+3,16,frozen breads doughs,2
+3,15,hair care,6
+0,15,canned meals beans,15
+0,15,packaged cheese,99
+0,12,other creams cheeses,30
+0,15,cereal,60
+0,21,frozen breakfast,9
+0,6,refrigerated,3
+0,7,milk,9
+1,21,tofu meat alternatives,6
+1,6,tortillas flat bread,6
+1,19,packaged cheese,36
+1,18,seafood counter,3
+1,18,condiments,24
+1,12,cereal,6
+1,7,dish detergents,3
+1,16,cleaning products,3
+1,15,dog food care,3
+2,7,tea,3
+2,19,prepared meals,3
+2,13,baby food formula,9
+3,14,yogurt,42
+3,17,crackers,18
+3,19,specialty cheeses,2
+3,9,lunch meat,4
+3,12,granola,4
+3,15,frozen dessert,2
+3,19,refrigerated,6
+0,12,candy chocolate,15
+0,14,hot cereal pancake mixes,12
+0,14,refrigerated,39
+0,7,spreads,6
+0,17,crackers,21
+0,6,milk,12
+0,19,packaged produce,9
+1,10,condiments,24
+1,14,baking ingredients,42
+1,19,ice cream ice,12
+1,7,packaged cheese,33
+1,9,asian foods,18
+1,7,tea,6
+1,17,dry pasta,12
+1,9,dish detergents,3
+1,19,frozen vegan vegetarian,3
+2,18,dish detergents,9
+2,15,candy chocolate,15
+2,19,spreads,6
+2,18,energy sports drinks,12
+2,4,soup broth bouillon,6
+3,14,frozen appetizers sides,4
+3,21,fresh fruits,30
+3,13,soy lactosefree,20
+3,15,cleaning products,6
+3,23,packaged cheese,10
+3,18,poultry counter,2
+0,8,fresh fruits,213
+0,10,fresh vegetables,378
+0,16,soft drinks,42
+0,20,packaged cheese,24
+0,17,breakfast bakery,24
+0,16,plates bowls cups flatware,6
+0,8,frozen appetizers sides,9
+0,16,bakery desserts,3
+1,9,canned meat seafood,6
+1,18,pickled goods olives,15
+1,19,water seltzer sparkling water,45
+1,8,other creams cheeses,6
+1,6,fresh vegetables,24
+1,20,kosher foods,3
+1,19,kosher foods,3
+1,9,cookies cakes,18
+1,6,juice nectars,3
+2,15,other creams cheeses,21
+2,12,other creams cheeses,39
+2,15,fresh dips tapenades,12
+2,23,baking ingredients,3
+2,14,breakfast bakery,15
+2,14,frozen meals,12
+2,11,packaged cheese,33
+2,8,packaged cheese,39
+2,10,condiments,21
+2,15,doughs gelatins bake mixes,6
+2,12,red wines,3
+2,19,coffee,12
+2,10,fruit vegetable snacks,6
+2,10,pickled goods olives,3
+3,10,water seltzer sparkling water,26
+3,19,bulk dried fruits vegetables,2
+3,7,soft drinks,4
+0,13,cereal,36
+0,11,poultry counter,9
+0,13,granola,6
+0,18,tea,12
+0,14,other creams cheeses,51
+0,14,granola,9
+0,13,seafood counter,3
+0,12,frozen meat seafood,3
+0,20,grains rice dried goods,6
+0,16,protein meal replacements,3
+1,6,packaged vegetables fruits,12
+1,9,milk,60
+1,7,refrigerated,6
+1,9,frozen pizza,12
+1,12,packaged poultry,12
+2,14,juice nectars,12
+2,20,condiments,12
+2,13,salad dressing toppings,3
+2,12,marinades meat preparation,3
+2,12,condiments,3
+2,5,packaged produce,3
+3,23,eggs,6
+3,23,other creams cheeses,6
+3,19,juice nectars,4
+3,1,body lotions soap,2
+0,9,energy sports drinks,6
+0,13,baby food formula,30
+0,5,other creams cheeses,3
+0,12,cat food care,6
+0,13,laundry,12
+0,20,canned fruit applesauce,3
+0,14,frozen vegan vegetarian,9
+0,14,refrigerated pudding desserts,3
+1,10,refrigerated,27
+1,18,red wines,3
+1,20,muscles joints pain relief,3
+1,15,spirits,9
+2,15,fruit vegetable snacks,6
+2,17,bread,39
+2,0,packaged poultry,3
+2,10,first aid,3
+2,12,nuts seeds dried fruit,12
+2,12,trail mix snack mix,3
+2,7,frozen pizza,3
+2,17,coffee,15
+2,17,breakfast bars pastries,9
+2,8,hot dogs bacon sausage,6
+2,17,buns rolls,3
+3,19,hot dogs bacon sausage,2
+3,17,fresh fruits,104
+3,23,spices seasonings,4
+3,11,candy chocolate,28
+3,14,pasta sauce,12
+3,15,bread,8
+3,11,coffee,4
+0,17,fresh fruits,315
+0,15,bread,39
+0,19,meat counter,6
+0,7,fresh fruits,66
+0,12,trail mix snack mix,3
+0,20,fresh dips tapenades,15
+0,23,water seltzer sparkling water,15
+0,11,fresh herbs,45
+0,12,skin care,3
+0,8,breakfast bars pastries,9
+0,16,honeys syrups nectars,6
+0,14,packaged meat,3
+1,17,fresh fruits,171
+1,22,crackers,15
+1,13,cleaning products,21
+1,15,lunch meat,15
+1,17,tortillas flat bread,18
+1,5,crackers,3
+1,18,laundry,3
+1,13,baking ingredients,6
+1,17,vitamins supplements,3
+1,14,frozen meat seafood,3
+1,2,packaged vegetables fruits,6
+1,6,tea,9
+2,13,oils vinegars,15
+2,7,eggs,6
+2,13,dog food care,3
+2,10,latino foods,3
+2,16,hot dogs bacon sausage,15
+2,16,frozen meals,6
+2,17,tortillas flat bread,6
+2,12,tofu meat alternatives,6
+2,22,butter,6
+2,19,trash bags liners,3
+2,19,lunch meat,12
+3,9,fresh fruits,62
+3,17,spreads,10
+3,15,dish detergents,2
+3,15,missing,12
+3,8,spirits,2
+3,1,packaged vegetables fruits,2
+0,16,bulk grains rice dried goods,3
+0,10,hot dogs bacon sausage,18
+0,12,frozen vegan vegetarian,21
+0,21,cereal,12
+0,7,canned jarred vegetables,15
+0,8,eggs,24
+0,18,frozen breads doughs,3
+0,18,energy sports drinks,6
+0,15,energy sports drinks,6
+0,11,frozen breads doughs,3
+1,18,spices seasonings,45
+1,18,dry pasta,21
+1,18,baking ingredients,27
+1,16,soap,9
+1,14,cream,21
+1,6,other creams cheeses,3
+1,16,more household,3
+1,9,tortillas flat bread,6
+2,10,packaged produce,15
+2,18,frozen pizza,12
+2,20,fresh vegetables,54
+2,10,chips pretzels,27
+2,16,baby food formula,36
+2,12,breakfast bakery,12
+2,13,ice cream toppings,3
+2,22,grains rice dried goods,3
+3,9,cereal,24
+3,9,fresh vegetables,44
+3,18,tea,2
+3,6,paper goods,2
+3,12,buns rolls,2
+3,17,soap,2
+3,8,tofu meat alternatives,2
+3,17,shave needs,2
+0,9,dry pasta,12
+0,9,white wines,3
+0,9,doughs gelatins bake mixes,3
+0,18,canned meals beans,9
+0,17,latino foods,6
+0,7,other creams cheeses,3
+1,21,soft drinks,6
+1,16,ice cream ice,21
+1,21,granola,3
+1,13,vitamins supplements,3
+1,15,deodorants,3
+1,2,fresh fruits,12
+2,18,frozen meals,33
+2,9,fresh dips tapenades,15
+2,17,baking ingredients,15
+2,11,breakfast bars pastries,12
+2,16,other creams cheeses,12
+2,8,candy chocolate,15
+2,19,dry pasta,9
+2,8,hot cereal pancake mixes,6
+2,18,tofu meat alternatives,6
+3,15,prepared meals,2
+3,0,soup broth bouillon,8
+3,9,yogurt,46
+3,11,cereal,6
+3,23,butter,6
+3,17,popcorn jerky,2
+3,1,milk,2
+0,10,lunch meat,48
+0,9,fresh fruits,222
+0,10,soup broth bouillon,18
+0,9,instant foods,9
+0,6,eggs,6
+0,23,air fresheners candles,6
+1,21,canned meals beans,24
+1,7,frozen dessert,3
+1,10,packaged produce,12
+1,9,granola,12
+1,10,instant foods,3
+1,21,bulk grains rice dried goods,3
+1,0,refrigerated,6
+2,9,refrigerated,30
+2,10,lunch meat,9
+2,16,condiments,12
+2,13,frozen produce,21
+2,19,popcorn jerky,6
+2,21,fresh dips tapenades,3
+2,13,air fresheners candles,6
+3,13,packaged cheese,58
+3,9,cream,10
+3,16,oral hygiene,12
+3,11,packaged vegetables fruits,46
+3,15,packaged cheese,20
+3,22,latino foods,2
+3,8,packaged produce,8
+3,14,cream,6
+3,19,spices seasonings,4
+3,11,juice nectars,8
+3,10,frozen breakfast,6
+3,19,eggs,6
+3,8,salad dressing toppings,4
+3,5,cereal,2
+3,13,dish detergents,2
+0,16,meat counter,9
+0,14,cookies cakes,18
+0,9,packaged vegetables fruits,75
+0,7,canned fruit applesauce,3
+0,12,fruit vegetable snacks,12
+0,8,salad dressing toppings,12
+0,12,dish detergents,6
+0,8,bakery desserts,3
+0,7,tofu meat alternatives,9
+0,18,doughs gelatins bake mixes,3
+0,17,ice cream toppings,3
+1,9,fresh vegetables,171
+1,10,laundry,15
+2,11,other creams cheeses,15
+2,16,meat counter,3
+2,23,condiments,3
+2,12,fresh herbs,18
+2,16,breakfast bakery,9
+2,14,canned meat seafood,6
+3,10,juice nectars,12
+3,19,popcorn jerky,10
+3,22,instant foods,4
+3,8,popcorn jerky,6
+3,14,soy lactosefree,20
+3,9,missing,4
+3,20,refrigerated,8
+3,21,lunch meat,2
+0,15,hot dogs bacon sausage,33
+0,15,ice cream ice,42
+0,20,ice cream ice,12
+0,20,poultry counter,6
+0,12,pickled goods olives,18
+0,11,other,6
+0,12,dog food care,3
+1,16,soy lactosefree,48
+1,10,frozen produce,24
+1,14,lunch meat,18
+1,7,latino foods,15
+1,14,paper goods,3
+1,13,other creams cheeses,15
+1,16,refrigerated,21
+1,23,fresh fruits,15
+1,0,juice nectars,3
+2,0,crackers,3
+2,22,yogurt,24
+2,12,frozen breakfast,6
+2,22,salad dressing toppings,9
+2,7,soup broth bouillon,12
+2,8,soup broth bouillon,24
+2,9,cleaning products,3
+3,17,yogurt,44
+3,7,marinades meat preparation,4
+3,11,soup broth bouillon,6
+3,13,cookies cakes,8
+3,11,condiments,12
+3,11,fresh herbs,2
+3,15,baking supplies decor,4
+3,8,facial care,2
+0,14,fruit vegetable snacks,33
+0,22,milk,24
+0,1,fruit vegetable snacks,6
+0,23,preserved dips spreads,9
+0,17,asian foods,15
+0,20,packaged poultry,9
+0,0,soy lactosefree,6
+1,1,fresh fruits,12
+1,7,bread,27
+1,13,cat food care,3
+1,15,beers coolers,3
+2,9,candy chocolate,15
+2,9,condiments,6
+2,12,milk,30
+2,16,fresh herbs,24
+2,18,instant foods,6
+2,12,water seltzer sparkling water,30
+2,0,other creams cheeses,3
+3,13,refrigerated,34
+3,15,breakfast bakery,14
+3,17,dry pasta,6
+3,23,fresh dips tapenades,2
+3,16,soap,6
+3,12,canned meals beans,6
+3,21,bulk grains rice dried goods,2
+0,13,food storage,9
+0,12,tortillas flat bread,33
+0,15,frozen appetizers sides,24
+0,15,feminine care,3
+0,11,skin care,3
+0,3,salad dressing toppings,3
+0,12,packaged meat,3
+1,17,milk,57
+1,17,water seltzer sparkling water,36
+1,11,preserved dips spreads,9
+1,15,paper goods,15
+1,21,frozen meals,30
+1,16,muscles joints pain relief,3
+1,9,paper goods,21
+1,17,fresh pasta,3
+1,15,cat food care,12
+1,11,ice cream toppings,6
+1,8,plates bowls cups flatware,3
+2,9,tortillas flat bread,6
+2,7,tortillas flat bread,3
+3,13,bread,30
+3,7,frozen vegan vegetarian,2
+3,12,prepared meals,2
+3,8,cleaning products,4
+3,17,air fresheners candles,4
+0,14,fresh herbs,24
+0,5,oils vinegars,6
+0,0,packaged poultry,3
+0,7,frozen breads doughs,3
+0,9,packaged meat,3
+1,16,doughs gelatins bake mixes,6
+1,19,soup broth bouillon,9
+1,12,instant foods,12
+2,11,milk,12
+2,19,oils vinegars,9
+2,11,honeys syrups nectars,3
+2,2,paper goods,3
+2,18,spirits,3
+3,10,fresh vegetables,106
+3,12,cereal,6
+3,9,cookies cakes,4
+3,18,paper goods,8
+3,8,baking ingredients,4
+3,15,baby food formula,2
+3,20,eggs,2
+3,12,other creams cheeses,8
+3,12,frozen vegan vegetarian,2
+0,9,fresh herbs,42
+0,9,packaged produce,21
+0,11,baby food formula,30
+0,12,salad dressing toppings,24
+0,21,cookies cakes,6
+0,22,ice cream ice,12
+0,9,bakery desserts,3
+1,17,frozen breakfast,15
+1,13,butter,18
+1,10,bread,33
+1,16,specialty cheeses,3
+1,20,frozen produce,27
+1,20,refrigerated,9
+1,20,popcorn jerky,15
+1,13,prepared meals,15
+1,16,baking ingredients,21
+1,7,missing,6
+2,12,soy lactosefree,51
+2,21,coffee,9
+2,15,pasta sauce,12
+2,10,pasta sauce,3
+2,10,soft drinks,12
+2,13,oral hygiene,3
+2,15,frozen meat seafood,3
+2,18,soap,6
+2,10,missing,6
+3,10,crackers,14
+3,20,fresh vegetables,50
+3,23,frozen produce,2
+3,15,protein meal replacements,2
+3,13,frozen dessert,2
+3,0,packaged meat,2
+0,19,eggs,18
+0,10,cleaning products,24
+0,16,eggs,36
+0,18,canned jarred vegetables,12
+0,11,marinades meat preparation,9
+0,17,marinades meat preparation,9
+0,1,juice nectars,3
+1,13,baby food formula,15
+1,18,cream,9
+1,14,asian foods,12
+1,20,packaged produce,6
+1,11,muscles joints pain relief,3
+1,15,spices seasonings,3
+1,21,hot cereal pancake mixes,3
+2,13,canned meals beans,21
+2,16,milk,27
+2,9,hair care,3
+2,16,pasta sauce,3
+2,23,buns rolls,3
+2,21,frozen breads doughs,3
+3,8,bread,8
+3,11,popcorn jerky,8
+3,22,cream,6
+3,7,oils vinegars,2
+3,9,latino foods,4
+3,18,cleaning products,2
+0,19,breakfast bars pastries,6
+0,9,pasta sauce,12
+0,9,granola,3
+0,11,tea,15
+0,9,cocoa drink mixes,3
+0,10,paper goods,27
+0,0,yogurt,6
+0,14,doughs gelatins bake mixes,3
+1,16,candy chocolate,9
+1,11,water seltzer sparkling water,51
+1,20,lunch meat,12
+1,18,marinades meat preparation,3
+1,14,pasta sauce,12
+1,11,granola,6
+1,20,salad dressing toppings,3
+1,15,preserved dips spreads,6
+1,17,refrigerated pudding desserts,3
+2,18,fresh herbs,18
+2,14,fresh pasta,3
+2,16,soy lactosefree,24
+2,10,fresh vegetables,78
+2,20,energy granola bars,6
+2,22,frozen pizza,3
+2,20,soy lactosefree,3
+2,6,poultry counter,6
+3,18,water seltzer sparkling water,16
+3,22,vitamins supplements,2
+3,12,hot dogs bacon sausage,6
+3,9,candy chocolate,4
+3,14,soup broth bouillon,6
+0,9,soup broth bouillon,30
+0,21,skin care,3
+0,13,tofu meat alternatives,9
+0,20,hot dogs bacon sausage,6
+0,8,packaged meat,3
+1,20,milk,39
+1,8,packaged produce,33
+1,16,honeys syrups nectars,3
+1,12,trash bags liners,6
+2,5,packaged vegetables fruits,3
+2,20,coffee,6
+2,7,salad dressing toppings,3
+3,10,canned meat seafood,2
+3,17,baby food formula,20
+3,14,coffee,8
+3,15,yogurt,20
+3,18,instant foods,8
+3,12,preserved dips spreads,2
+3,2,laundry,2
+0,13,milk,66
+0,21,cream,12
+0,11,paper goods,39
+0,16,prepared soups salads,15
+0,5,skin care,3
+0,15,candy chocolate,15
+0,12,energy granola bars,57
+0,12,fresh dips tapenades,27
+0,15,laundry,6
+0,17,canned fruit applesauce,12
+0,23,marinades meat preparation,3
+1,17,popcorn jerky,12
+1,19,breakfast bakery,6
+1,20,bread,15
+1,15,instant foods,12
+2,12,pickled goods olives,9
+2,22,dry pasta,3
+2,17,packaged cheese,24
+2,12,popcorn jerky,3
+2,12,spreads,9
+3,15,salad dressing toppings,12
+3,10,cleaning products,4
+3,9,soy lactosefree,10
+3,11,fresh pasta,2
+3,12,hot cereal pancake mixes,2
+3,22,canned fruit applesauce,2
+0,16,ice cream toppings,3
+0,22,buns rolls,9
+0,22,soup broth bouillon,6
+0,11,hair care,15
+0,17,grains rice dried goods,12
+0,18,refrigerated pudding desserts,3
+0,23,frozen juice,3
+0,19,missing,3
+1,9,spices seasonings,12
+1,10,poultry counter,9
+1,10,tofu meat alternatives,18
+1,14,chips pretzels,33
+1,13,candy chocolate,6
+1,21,packaged vegetables fruits,33
+1,8,pickled goods olives,3
+1,16,buns rolls,9
+1,20,candy chocolate,6
+2,9,oils vinegars,15
+2,9,chips pretzels,45
+2,13,energy sports drinks,6
+2,11,eggs,15
+2,18,honeys syrups nectars,3
+3,17,frozen pizza,14
+3,9,canned fruit applesauce,12
+3,10,cookies cakes,6
+3,23,specialty cheeses,2
+3,22,fresh herbs,6
+3,10,cocoa drink mixes,2
+3,13,prepared meals,2
+0,17,energy granola bars,39
+0,10,candy chocolate,6
+0,16,nuts seeds dried fruit,27
+0,8,spices seasonings,6
+1,13,fresh herbs,18
+1,11,marinades meat preparation,3
+1,16,poultry counter,12
+2,19,canned jarred vegetables,15
+2,19,tea,3
+2,5,popcorn jerky,3
+3,16,spices seasonings,6
+3,18,ice cream ice,8
+3,22,frozen produce,10
+3,23,soy lactosefree,2
+3,8,poultry counter,2
+3,15,cream,12
+3,20,paper goods,4
