@@ -2,8 +2,6 @@ import os
 import shutil
 import glob
 import sys
-from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, sum as _sum
 
 spark_python_path = "/opt/spark/python"
 if os.path.exists(spark_python_path) and spark_python_path not in sys.path:
@@ -16,6 +14,9 @@ if os.path.exists(spark_lib_path):
             zip_path = os.path.join(spark_lib_path, file)
             if zip_path not in sys.path:
                 sys.path.insert(0, zip_path)
+
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, sum as _sum
 
 class OrderProcessor:
     def __init__(self):
