@@ -35,15 +35,13 @@ class IncrementalOrderProcessor:
 
     def _validate_environment(self):
         if not os.path.exists("/workspace") or not os.path.exists("/workspace/data/incremental/raw"):
-            print("Error: This script must be run inside the Spark Docker container.")
-            print("\nPlease run the script inside the Docker container:")
+            print("Please run the script inside the Docker container:")
             print("  docker exec -it spark python3 /workspace/processing/incremental/process_orders.py")
             sys.exit(1)
 
     def _connect_redis(self):
         if redis is None:
-            print("Warning: redis module not installed. Continuing without Redis.")
-            print("Install with: docker exec -it spark pip install redis")
+            print("docker exec -it spark pip install redis")
             self.redis_client = None
             return
         try:
@@ -55,8 +53,7 @@ class IncrementalOrderProcessor:
             )
             self.redis_client.ping()
         except Exception as e:
-            print(f"Warning: Could not connect to Redis: {e}")
-            print("Continuing without Redis - will process all data from scratch")
+            print(f"Cant connect to Redis: {e}")
             self.redis_client = None
 
     def _get_last_processed_day(self):
@@ -66,7 +63,7 @@ class IncrementalOrderProcessor:
             value = self.redis_client.get(self.redis_key)
             return int(value) if value else -1
         except Exception as e:
-            print(f"Warning: Error reading from Redis: {e}")
+            print(f"Error: {e}")
             return -1
 
     def _set_last_processed_day(self, day):
@@ -75,7 +72,7 @@ class IncrementalOrderProcessor:
         try:
             self.redis_client.set(self.redis_key, str(day))
         except Exception as e:
-            print(f"Warning: Error writing to Redis: {e}")
+            print(f"Error: {e}")
 
     def _get_available_days(self):
         raw_dir = os.path.join(self.project_root, "data/incremental/raw")
@@ -115,7 +112,7 @@ class IncrementalOrderProcessor:
             try:
                 return self.spark.read.option("header", "true").option("inferSchema", "true").csv(output_path)
             except Exception as e:
-                print(f"Warning: Could not read existing data: {e}")
+                print(f"Cant read existing data: {e}")
                 return None
         return None
 
@@ -146,7 +143,7 @@ class IncrementalOrderProcessor:
         unprocessed_days = self._get_unprocessed_days()
         
         if not unprocessed_days:
-            print("No new data to process.")
+            print("No new data to process found")
             return
         
         print(f"Processing days: {unprocessed_days}")
