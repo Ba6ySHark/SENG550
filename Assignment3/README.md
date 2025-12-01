@@ -128,3 +128,11 @@ def predict_with_fallback(day, hour, category):
 ```
 
 In this case, even if Redis fails we will rely on calculating the actual inference. This will ultimately be slower, but still better than letting the system crash.
+
+## Part 5
+
+Apache Spark is an open-source distributed processing engine that provides an engineer with functionality to run batch, streaming, and ML workloads. It gives users full control over infrastructure and configuration, which means they must manage cluster setup, scaling, and optimization by hand.
+
+Spark on Databricks is built on top of open-source Spark but offers features like auto-scaling and Delta Lake for reliable data storage. It usually delivers faster performance, making it well suited for teams that want to use Spark functionality without managing infrastructure themselves.
+
+AWS Glue is a serverless ETL service that uses Spark but abstracts away cluster management entirely. While Glue is easy to use and cost-efficient, it provides less flexibility and interactivity than plain Apache Spark or the Databricks platform.
