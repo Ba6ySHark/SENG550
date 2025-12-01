@@ -90,3 +90,41 @@ To train the model:
 ```bash
 docker compose exec spark python3 /workspace/processing/ml/train.py
 ```
+
+## Part 4
+
+**`generate_predictions.py`** - generates all predictions using and stores them in Redis
+   - Stores results in Redis with key format: `day_of_week:hour_of_day:category`
+
+**`inference_cached.py`** - inference script that reads from Redis
+
+### Questions
+
+#### 1. Advantages and Disadvantages of using Redis
+
+Advantages:
+- Faster Lookup
+- Greater Throughput
+- No Spark Overhead (i.e. no need to initialize spark session, load model etc.)
+
+Disadvantages:
+- Data Staleness
+- Increased Memory Usage (since we store all of the predictions)
+- Data Integrity (i.e. if new category is added refresh will be needed to display predictions for it)
+
+#### 2. Redis Impact
+
+Clearing Redis will not significantly hurt the system if proper fallback measures are implemented. For example, a fallback like this can be implemented to mitigate any Redis failure:
+
+```python
+def predict_with_fallback(day, hour, category):
+  # Try Redis first
+  cached = redis_client.get(f"{day}:{hour}:{category}")
+  if cached:
+      return float(cached)
+  
+  # Fallback to direct model inference
+  return direct_model_inference(day, hour, category)
+```
+
+In this case, even if Redis fails we will rely on calculating the actual inference. This will ultimately be slower, but still better than letting the system crash.
